@@ -20,6 +20,5 @@ Following datasets are public or open data that can be accessed online
 * CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook/
 
 ### Non-public data
-Following datasets are non-public.
 * SCOPUS xml data: https://www.scopus.com
 * PATSTAT: https://www.epo.org/searching-for-patents/business/patstat.html
