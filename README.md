@@ -1,4 +1,4 @@
-# Wikimedia-inequality project
+# Wikimedia inequality project
 This repository is code for xml data processing and agent base modeling in:
 
 Jinhyuk Yun, Sang Hoon Lee, Hawoong Jeong, "Early onset of structural inequality in the formation of collaborative knowledge, Wikipedia",  https://arxiv.org/abs/1610.06006.
@@ -22,3 +22,8 @@ Following datasets are public or open data that can be accessed online
 ### Non-public data
 * SCOPUS xml data: https://www.scopus.com
 * PATSTAT: https://www.epo.org/searching-for-patents/business/patstat.html
+
+## Contacts
+Jinhyuk Yun (first author): jinhyuk.yun@kisti.re.kr
+Sang Hoon Lee (corresponding author): lshlj82@gntech.ac.kr
+Hawoong Jeong (corresponding author): hjeong@kaist.edu
