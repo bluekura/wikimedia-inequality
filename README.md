@@ -25,5 +25,7 @@ Following datasets are public or open data that can be accessed online
 
 ## Contacts
 Jinhyuk Yun (first author): jinhyuk.yun@kisti.re.kr
+
 Sang Hoon Lee (corresponding author): lshlj82@gntech.ac.kr
+
 Hawoong Jeong (corresponding author): hjeong@kaist.edu
