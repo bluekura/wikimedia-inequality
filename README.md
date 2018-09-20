@@ -1,4 +1,4 @@
-# wikimedia-inequality
+# Wikimedia-inequality project
 This repository is code for xml data processing and agent base modeling in:
 
 Jinhyuk Yun, Sang Hoon Lee, Hawoong Jeong, "Early onset of structural inequality in the formation of collaborative knowledge, Wikipedia",  https://arxiv.org/abs/1610.06006.
