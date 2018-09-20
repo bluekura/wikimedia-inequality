@@ -1,0 +1,240 @@
+COUNTRY	ISO2	ISO3	OFF_LANG_1	OFF_LANG_2	OFF_LANG_STD_1	OFF_LANG_STD_2	LANG1_WIKI_CODE	LANG2_WIKI_CODE	POPULATION	INTERNET_USER	GDP(PPA)
+Cameroon	CM	CMR	English	French	English	French	en	fr	23130708	749600	53160000000
+Afghanistan	AF	AFG	Afghan Persian	Dari	Persian	Dari	fa		31822848	1000000	45300000000
+Kosovo	XK	XKX	Albanian		Albanian		sq		1859203		14110000000
+Albania	AL	ALB	Albanian		Albanian		sq		3020209	1300000	28340000000
+Mauritania	MR	MRT	Arabic		Arabic		ar		3516806	75000	8204000000
+Saudi Arabia	SA	SAU	Arabic		Arabic		ar		27345986	9774000	9.278E+11
+Yemen	YE	YEM	Arabic		Arabic		ar		26052966	2349000	61630000000
+Morocco	MA	MAR	Arabic		Arabic		ar		32987206	13213000	1.8E+11
+Sudan	SD	SDN	Arabic		Arabic		ar		35482233	4200000	89970000000
+Jordan	JO	JOR	Arabic		Arabic		ar		7930491	1642000	40020000000
+Egypt	EG	EGY	Arabic		Arabic		ar		86895099	20136000	5.514E+11
+Qatar	QA	QAT	Arabic		Arabic		ar		2123160	563800	1.987E+11
+Kuwait	KW	KWT	Arabic		Arabic		ar		2742711	1100000	1.658E+11
+Oman	OM	OMN	Arabic		Arabic		ar		3219775	1465000	94860000000
+Bahrain	BH	BHR	Arabic		Arabic		ar		1314089	419500	34960000000
+Algeria	DZ	DZA	Arabic		Arabic		ar		38813722	4700000	2.847E+11
+Comoros	KM	COM	Arabic		Arabic		ar		766865	24300	911000000
+Lebanon	LB	LBN	Arabic		Arabic		ar		5882562	1000000	64310000000
+Libya	LY	LBY	Arabic		Arabic		ar		6244174	353900	73600000000
+Iraq	IQ	IRQ	Arabic		Arabic		ar		32585692	325900	2.494E+11
+Syria	SY	SYR	Arabic		Arabic		ar		17951639	4469000	1.076E+11
+United Arab Emirates	AE	ARE	Arabic		Arabic		ar		5628805	3449000	2.698E+11
+Tunisia	TN	TUN	Arabic		Arabic		ar		10937521	3500000	1.084E+11
+West Bank			Arabic		Arabic		ar		2731052	1379000	8022000000
+Gaza Strip			Arabic		Arabic		ar		1816379	1379000	
+Armenia	AM	ARM	Armenian		Armenian		hy		3060631	208200	20610000000
+Ghana	GH	GHA	Asante		Asante				25758108	1297000	90410000000
+Azerbaijan	AZ	AZE	Azerbaijani		Azerbaijani		az		9686210	2420000	1.027E+11
+Indonesia	ID	IDN	Bahasa Indonesia		Indonesian		id		253609643	20000000	1.285E+12
+Malaysia	MY	MYS	Bahasa Malaysia		Malay		ms		30073353	15355000	5.25E+11
+Bangladesh	BD	BGD	Bangla		Bengali		bn		166280712	617300	3.246E+11
+Zambia	ZM	ZMB	Bembe		Bembe				14638505	816200	25470000000
+Norway	NO	NOR	Bokmal Norwegia		Norwegian		no		5147792	4431000	2.822E+11
+Bosnia and Herzegovina	BA	BIH	Bosnian		Bosnian		bs		3871643	1422000	32160000000
+Bulgaria	BG	BGR	Bulgarian		Bulgarian		bg		6924716	3395000	1.046E+11
+Burma	MM	MMR	Burmese		Burmese		my		55746253	110000	1.111E+11
+Hong Kong	HK	HK	Cantonese		Cantonese		zh-yue		7112688	4873000	3.813E+11
+Macau	MO	MAC	Cantonese		Cantonese		zh-yue		587914	270200	51680000000
+Spain	ES	ESP	Castilian Spanish		Spanish		es		47737941	28119000	1.389E+12
+Andorra	AD	AND	Catalan		Catalan		ca		85458	67100	3163000000
+Mauritius	MU	MUS	Creole		Creole				1331155	290000	20950000000
+Guinea-Bissau	GW	GNB	Crioulo		Crioulo				1693398	37100	2005000000
+Croatia	HR	HRV	Croatian		Croatian		hr		4470534	2234000	78900000000
+Czech Republic	CZ	CZE	Czech		Czech		cs		10627448	6681000	2.856E+11
+Denmark	DK	DNK	Danish		Danish		da		5569077	4750000	2.113E+11
+Maldives	MV	MDV	Dhivehi		Dhivehi				393595	86400	3073000000
+Netherlands	NL	NLD	Dutch		Dutch		nl		16877351	14872000	6.997E+11
+Belgium	BE	BEL	Dutch		Dutch		nl		10449361	8113000	4.217E+11
+Suriname	SR	SUR	Dutch		Dutch		nl		573311	163000	7120000000
+Mozambique	MZ	MOZ	Emakhuwa		Emakhuwa				24692144	613600	28150000000
+Montserrat	MS	MSR	English		English		en		5215	1200	43780000
+"Saint Helena, Ascension, and Tristan da Cunha"	SH	SHN	English		English		en		7776	900	31100000
+United Kingdom	GB	GBR	English		English		en		63742977	51444000	2.387E+12
+New Zealand	NZ	NZL	English		English		en		4401916	3400000	1.36E+11
+"Micronesia, Federated States of"	FM	FSM	English		English		en		105681	17000	754000000
+Uganda	UG	UGA	English		English		en		35918915	3200000	54370000000
+Anguilla	AI	AIA	English		English		en		16086	3700	175400000
+British Virgin Islands	VG	VGB	English		English		en		32680	4000	500000000
+Saint Kitts and Nevis	KN	KNA	English		English		en		51538	17000	952000000
+Turks and Caicos Islands	TC	TCA	English		English		en		49070		632000000
+Canada	CA	CAN	English		English		en		34834841	26960000	1.518E+12
+Sint Maarten	SX	SXM	English		English		en		39689		798300000
+Norfolk Island	NF	NFK	English		English		en		2210		
+Cook Islands	CK	COK	English		English		en		10134	6000	183200000
+Cayman Islands	KY	CYM	English		English		en		54914	23000	2250000000
+Antigua and Barbuda	AG	ATG	English		English		en		91295	65000	1610000000
+South Sudan	SS	SSD	English		English		en		11562695		14710000000
+Barbados	BB	BRB	English		English		en		289680	188000	7004000000
+Trinidad and Tobago	TT	TTO	English		English		en		1223916	593000	27140000000
+Malawi	MW	MWI	English		English		en		17377468	716400	15020000000
+Christmas Island	CX	CXR	English		English		en		1530	464	
+"Bahamas, The"	BS	BHS	English		English		en		321834	115800	11400000000
+Fiji	FJ	FJI	English		English		en		903207	114200	4450000000
+Dominica	DM	DMA	English		English		en		73449	28000	1015000000
+Grenada	GD	GRD	English		English		en		110152	25000	1458000000
+Saint Lucia	LC	LCA	English		English		en		163362	142900	2216000000
+Guyana	GY	GUY	English		English		en		735554	189600	6593000000
+Nigeria	NG	NGA	English		English		en		177155754	43989000	4.785E+11
+Kenya	KE	KEN	English		English		en		45010056	3996000	79900000000
+"Gambia, The"	GM	GMB	English		English		en		1925527	130100	3678000000
+Pitcairn Islands	PN	PCN	English		English		en		48		
+Bermuda	BM	BMU	English		English		en		69839	54000	5600000000
+Sierra Leone	SL	SLE	English		English		en		5743725	14900	9156000000
+Ireland	IE	IRL	English		English		en		4832765	3042000	1.904E+11
+Swaziland	SZ	SWZ	English		English		en		1419623	90100	6259000000
+Gibraltar	GI	GIB	English		English		en		29185	20200	1275000000
+Liberia	LR	LBR	English		English		en		4092310	20000	2898000000
+Guam	GU	GUM	English		English		en		161001	90000	4600000000
+Belize	BZ	BLZ	English		English		en		340844	36000	3083000000
+Virgin Islands	VI	VIR	English		English		en		104170	30000	1577000000
+Australia	AU	AUS	English		English		en		22507617	15810000	9.983E+11
+United States	US	USA	English		English		en		318892103	245000000	1.672E+13
+Falkland Islands (Islas Malvinas)	FK	FLK	English		English		en		2840	2900	164500000
+Jersey	JE	JEY	English		English		en		96513	29500	5100000000
+Tonga	TO	TON	English	 Tongan	English	 Tongan	en	to	106440	8400	846000000
+Jamaica	JM	JAM	English		English		en		2930050	1581000	25130000000
+Saint Vincent and the Grenadines	VC	VCT	English		English		en		102918	76000	1335000000
+Guernsey	GG	GGY	English		English		en		65849	48300	2742000000
+Akrotiri			English		English		en		15700		
+Dhekelia			English		English		en		15700		
+Isle of Man	IM	IMN	English		English		en		86866		4076000000
+Estonia	EE	EST	Estonian		Estonian		et		1257921	971700	29940000000
+Faroe Islands	FO	FRO	Faroese		Faroese		fo		49947	37500	1471000000
+Philippines	PH	PHL	Filipino		Tagalog		tl		107668231	8278000	4.543E+11
+Finland	FI	FIN	Finnish		Finnish		fi		5268799	4393000	1.955E+11
+Guinea	GN	GIN	French		French		fr		11474383	95000	12560000000
+Saint Pierre and Miquelon	PM	SPM	French		French		fr		5716		215300000
+France	FR	FRA	French		French		fr		66259012	45262000	2.276E+12
+French Polynesia	PF	PYF	French		French		fr		280026	120000	5650000000
+New Caledonia	NC	NCL	French		French		fr		267840	85000	9280000000
+Cote d'Ivoire	CI	CIV	French		French		fr		22848945	967300	43670000000
+Chad	TD	TCD	French		French		fr		11412107	168100	28000000000
+Djibouti	DJ	DJI	French		French		fr		810179	25900	2505000000
+Mali	ML	MLI	French		French		fr		16455903	249800	18900000000
+Haiti	HT	HTI	French		French		fr		9996731	1000000	13420000000
+Saint Martin	MF	MAF	French		French		fr		31530		
+Monaco	MC	MCO	French		French		fr		30508	23000	6213000000
+Gabon	GA	GAB	French		French		fr		1672597	98800	30060000000
+Benin	BJ	BEN	French		French		fr		10160556	200100	16650000000
+"Congo, Democratic Republic of the"	CD	COD	French		French		fr		77433744	290000	29390000000
+"Congo, Republic of the"	CG	COG	French		French		fr		4662446	245200	20260000000
+Madagascar	MG	MDG	French		French		fr		23201926	319900	22030000000
+Burkina Faso	BF	BFA	French		French		fr		18365123	178100	26510000000
+Central African Republic	CF	CAF	French		French		fr		5277959	22600	3336000000
+Senegal	SN	SEN	French		French		fr		13635927	1818000	27720000000
+Togo	TG	TGO	French		French		fr		7351374	356300	7348000000
+Saint Barthelemy	BL	BLM	French		French		fr		7267		
+Georgia	GE	GEO	Georgian		Georgian		ka		4935880	1300000	27300000000
+Austria	AT	AUT	German		German		de		8223062	6143000	3.61E+11
+Germany	DE	DEU	German		German		de		80996685	65125000	3.227E+12
+Switzerland	CH	CHE	German	French	German	French	de	fr	8061516	6152000	3.712E+11
+Liechtenstein	LI	LIE	German		German		de		37313	23000	3200000000
+Cyprus	CY	CYP	Greek		Greek		el		1172458	433900	21620000000
+Greece	GR	GRC	Greek		Greek		el		10775557	4971000	2.671E+11
+Greenland	GL	GRL	Greenlandic	Danish	Greenlandic	Danish	kl	da	57728	36000	2133000000
+Israel	IL	ISR	Hebrew		Hebrew		he		7821850	4525000	2.732E+11
+India	IN	IND	Hindi		Hindi		hi		1236344631	61338000	4.99E+12
+Hungary	HU	HUN	Hungarian		Hungarian		hu		9919128	6176000	1.966E+11
+Iceland	IS	ISL	Icelandic		Icelandic		is		317351	301600	13110000000
+Kiribati	KI	KIR	I-Kiribati	English	I-Kiribati	English		en	104488	7800	698000000
+South Africa	ZA	ZAF	IsiZulu	IsiXhosa	Zulu	Xhosa	zu	xh	48375645	4420000	5.957E+11
+San Marino	SM	SMR	Italian		Italian		it		32742	17000	1306000000
+Italy	IT	ITA	Italian		Italian		it		61680122	29235000	1.805E+12
+Holy See (Vatican City)	VA	VAT	Italian		Italian		it		842		
+Japan	JP	JPN	Japanese		Japanese		ja		127103388	99182000	4.729E+12
+Kazakhstan	KZ	KAZ	Kazakh		Kazakh		kk		17948816	5299000	2.436E+11
+Cambodia	KH	KHM	Khmer		Khmer		km		15458332	78500	39640000000
+Rwanda	RW	RWA	Kinyarwanda		Kinyarwanda		rw		12337138	450000	16370000000
+Burundi	BI	BDI	Kirundi		Kirundi		rn		10395931	157800	5750000000
+Tanzania	TZ	TZA	Kiswahili	Swahili	Kiswahili	Swahili		sw	49639138	678000	79290000000
+"Korea, North"	KP	PRK	Korean		Korean		ko		24851627		40000000000
+"Korea, South"	KR	KOR	Korean		Korean		ko		49039986	39400000	1.666E+12
+Kyrgyzstan	KG	KGZ	Kyrgyz		Kyrgyz				5604212	2195000	14300000000
+Laos	LA	LAO	Lao		Lao		lo		6803699	300000	20780000000
+Latvia	LV	LVA	Latvian		Latvian		lv		2165165	1504000	38870000000
+Lithuania	LT	LTU	Lithuanian		Lithuanian		lt		3505738	1964000	67430000000
+Vanuatu	VU	VUT	English	French	English	French	en	fr	266937	17000	1270000000
+Luxembourg	LU	LUX	Luxembourgish		Luxembourgish		lb		520672	424500	42670000000
+Macedonia	MK	MKD	Macedonian		Macedonian		mk		2091719	1057000	22570000000
+Cocos (Keeling) Islands	CC	CCK	Malay		Malay		ms		596		
+Brunei	BN	BRN	Malay		Malay		ms		422675	314900	22250000000
+Malta	MT	MLT	Maltese		Maltese		mt		412655	240600	11220000000
+Singapore	SG	SGP	Mandarin	English	Chinese	English	zh	en	5567301	3235000	3.39E+11
+Taiwan	TW	TWN	Mandarin Chinese		Chinese		zh		23359928	16147000	9.264E+11
+Marshall Islands	MH	MHL	Marshallese		Marshallese		mh		70983	2200	486000000
+Solomon Islands	SB	SLB	Melanesian pidgin		Melanesian pidgin				609883	10000	1958000000
+Mongolia	MN	MNG	Mongolian		Mongolian		mn		2953190	330000	17030000000
+Nauru	NR	NRU	Nauruan		Nauruan		na		9488		60000000
+Nepal	NP	NPL	Nepali		Nepali		ne		30986975	577800	42060000000
+Niue	NU	NIU	Niuean		Niuean				1190	1100	10010000
+Svalbard	SJ	SJM	Norwegian		Norwegian		no		1872		
+Ethiopia	ET	ETH	Oromo	Amharic	Oromo	Amharic	om	am	96633458	447300	1.182E+11
+Namibia	NA	NAM	Oshivambo		Oshivambo				2198406	127500	17790000000
+Palau	PW	PLW	Palauan		Palauan				21186		245500000
+Aruba	AW	ABW	Papiamento		Papiamentu		pap		110663	24000	2516000000
+Curacao	CUW	CW	Papiamento		Papiamentu		pap		146836		3128000000
+Iran	IR	IRN	Persian		Persian		fa		80840713	8214000	9.871E+11
+Northern Mariana Islands	MP	MNP	Philippine		Tagalog		tl		51483		733000000
+Poland	PL	POL	Polish		Polish		pl		38346279	22452000	8.14E+11
+Brazil	BR	BRA	Portuguese		Portuguese		pt		202656788	75982000	2.416E+12
+Cabo Verde	CV	CPV	Portuguese		Portuguese		pt		538535	150000	2222000000
+Portugal	PT	PRT	Portuguese		Portuguese		pt		10813834	5168000	2.433E+11
+Angola	AO	AGO	Portuguese		Portuguese		pt		19088106	606700	1.318E+11
+Sao Tome and Principe	ST	STP	Portuguese		Portuguese		pt		190428	26700	421000000
+Pakistan	PK	PAK	Punjabi		Western Punjabi	Eastern Punjabi	pnb	pa	196174380	20431000	5.741E+11
+Romania	RO	ROU	Romanian		Romanian		ro		21729871	7787000	2.885E+11
+Moldova	MD	MDA	Romanian		Romanian		ro		3583288	1333000	13250000000
+Belarus	BY	BLR	Russian		Russian		ru		9608058	2643000	1.504E+11
+Russia	RU	RUS	Russian		Russian		ru		142470272	40853000	2.553E+12
+Samoa	WS	WSM	Samoan		Samoan		sm		196628	9000	1145000000
+American Samoa	AS	ASM	Samoan		Samoan		sm		54517		575300000
+Serbia	RS	SRB	Serbian		Serbian		sr		7209764	4107000	80470000000
+Montenegro	ME	MNE	Serbian	Montenegrin	Serbian	Montenegrin	sr		650036	280000	7429000000
+Lesotho	LS	LSO	Sesotho		Sesotho		st		1942008	76800	4265000000
+Botswana	BW	BWA	Setswana		Tswana		tn		2155784	120000	34000000000
+Seychelles	SC	SYC	Seychellois Creole		Seychellois Creole				91650	32000	2404000000
+Bhutan	BT	BTN	Sharchhopka		Sharchhopka				733643	50000	5235000000
+Zimbabwe	ZW	ZWE	Shona		Shona		sn		13771721	1423000	7496000000
+Sri Lanka	LK	LKA	Sinhala		Sinhalese		si		21866445	1777000	1.345E+11
+Slovakia	SK	SVK	Slovak		Slovak		sk		5443583	4063000	1.334E+11
+Slovenia	SI	SVN	Slovenian		Slovenian		sl		1988292	1298000	57360000000
+Somalia	SO	SOM	Somali		Somali		so		10428043	106000	5896000000
+Ecuador	EC	ECU	Spanish		Spanish		es		15654411	3352000	1.576E+11
+Colombia	CO	COL	Spanish		Spanish		es		46245297	22538000	5.265E+11
+Cuba	CU	CUB	Spanish		Spanish		es		11047251	1606000	1.21E+11
+Dominican Republic	DO	DOM	Spanish		Spanish		es		10349741	2701000	1.01E+11
+Guatemala	GT	GTM	Spanish		Spanish		es		14647083	2279000	81510000000
+Bolivia	BO	BOL	Spanish		Spanish		es		10631486	1103000	59110000000
+Equatorial Guinea	GQ	GNQ	Spanish		Spanish		es		722254	14400	19680000000
+Peru	PE	PER	Spanish		Spanish		es		30147935	9158000	3.44E+11
+Nicaragua	NI	NIC	Spanish		Spanish		es		5848641	199800	27970000000
+Honduras	HN	HND	Spanish		Spanish		es		8598561	731700	39230000000
+Costa Rica	CR	CRI	Spanish		Spanish		es		4755234	1485000	61430000000
+Paraguay	PY	PRY	Spanish		Spanish		es		6703860	1105000	45900000000
+Panama	PA	PAN	Spanish		Spanish		es		3608431	959800	61540000000
+Argentina	AR	ARG	Spanish		Spanish		es		43024374	13694000	7.71E+11
+El Salvador	SV	SLV	Spanish		Spanish		es		6125512	746000	47470000000
+Venezuela	VE	VEN	Spanish		Spanish		es		28868486	8918000	4.074E+11
+Uruguay	UY	URY	Spanish		Spanish		es		3332972	1405000	56270000000
+Chile	CL	CHL	Spanish		Spanish		es		17363894	7009000	3.354E+11
+Mexico	MX	MEX	Spanish		Spanish		es		120286655	31020000	1.845E+12
+Puerto Rico	PR	PRI	Spanish		Spanish		es		3620897	1000000	64840000000
+Western Sahara	EH	ESH	Standard Arabic		Arabic		ar		554795		906500000
+China	CN	CHN	Standard Chinese or Mandarin		Chinese		zh		1355692576	389000000	1.339E+13
+Sweden	SE	SWE	Swedish		Swedish		sv		9723809	8398000	3.938E+11
+Tajikistan	TJ	TJK	Tajik		Tajik		tg		8051512	700000	19200000000
+Timor-Leste	TL	TLS	Tetun Prasa		Tetum		tet		1201542	2100	25410000000
+Thailand	TH	THA	Thai		Thai		th		67741401	17483000	6.73E+11
+Eritrea	ER	ERI	Tigrinya		Tigrinya		ti		6380803	200000	4717000000
+Papua New Guinea	PG	PNG	Tok Pisin		Tok Pisin		tpi		6552730	125000	19960000000
+Tokelau	TK	TKL	Tokelauan		Tokelauan				1337	800	1500000
+Turkey	TR	TUR	Turkish		Turkish		tr		81619392	27233000	1.167E+12
+Turkmenistan	TM	TKM	Turkmen		Turkmen		tk		5171943	80400	55160000000
+Tuvalu	TV	TUV	Tuvaluan		Tuvaluan				10782	4200	40000000
+Ukraine	UA	UKR	Ukrainian		Ukrainian		uk		44291413	7770000	3.374E+11
+Uzbekistan	UZ	UZB	Uzbek		Uzbek		uz		28929716	4689000	1.126E+11
+Vietnam	VN	VNM	Vietnamese		Vietnamese		vi		93421835	23382000	3.589E+11
+Wallis and Futuna	WF	WLF	Wallisian		Wallisian				15561	1300	60000000
+Niger	NE	NER	French		French		fr		17466172	115900	13980000000

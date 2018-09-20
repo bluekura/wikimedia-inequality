@@ -1,0 +1,1641 @@
+INDICATOR	Indicator	LOCATION	Country	TIME	Time	Value	Flag Codes	Flags
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	1996	1996	7948273.917		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	1998	1998	7864267.897		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	2000	2000	8926617.494		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	2002	2002	10510742.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	2004	2004	11928478.36		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	2006	2006	14929180.17		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	2008	2008	17678185.43		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	2010	2010	18221962.74		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	2011	2011	17576592.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUS	Australia	2013	2013	18241431.62		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	1996	1996	3682521.015		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	1997	1997	3940083.648		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	1998	1998	4271215.015		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	1999	1999	4712943.172		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2000	2000	4978021.981		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2001	2001	5329162.446		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2002	2002	5618094.507		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2003	2003	5968908.931		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2004	2004	6105126.662		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2005	2005	6836992.128		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2006	2006	7030244.596		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2007	2007	7473039.762		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2008	2008	8066516.129		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2009	2009	7844116.662		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2010	2010	8375566.969		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2011	2011	8433969.517		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2012	2012	9280139.724		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2013	2013	9414255.651		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2014	2014	9759750.076		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AUT	Austria	2015	2015	9905578.968		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	1996	1996	4864803.623		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	1997	1997	5235308.912		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	1998	1998	5424578.956		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	1999	1999	5824436.287		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2000	2000	6137213.382		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2001	2001	6506673.371		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2002	2002	6193579.681		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2003	2003	6047134.433		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2004	2004	6188736.304		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2005	2005	6225193.656		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2006	2006	6495179.904		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2007	2007	6826394.572		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2008	2008	7175776.697		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2009	2009	7234968.508		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2010	2010	7674823.925		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2011	2011	8210924.743		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2012	2012	9011318.916		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2013	2013	9290100.771		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2014	2014	9547441.422		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BEL	Belgium	2015	2015	9654873.194		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	1996	1996	13835156.51		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	1997	1997	14490905.49		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	1998	1998	15957304.16		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	1999	1999	17166881.18		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2000	2000	19175608.83		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2001	2001	21227551.95		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2002	2002	21331939.26		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2003	2003	21673114.14		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2004	2004	22674359.11		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2005	2005	23089967.07		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2006	2006	23349843.05		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2007	2007	23340464.95		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2008	2008	22978960.24		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2009	2009	23042824.44		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2010	2010	22715766.32		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2011	2011	22923435.13		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2012	2012	23267916.18		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2013	2013	22396994.72		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CAN	Canada	2014	2014	21909185.51		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	1996	1996	1580846.272		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	1997	1997	1744949.479		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	1998	1998	1861578.371		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	1999	1999	1870233.346		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2000	2000	2060228.551		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2001	2001	2102923.313		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2002	2002	2135913.112		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2003	2003	2305531.713		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2004	2004	2411601.447		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2005	2005	2619451.56		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2006	2006	2949927.844		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2007	2007	3293132.089		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2008	2008	3218972.896		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2009	2009	3199209.882		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2010	2010	3380225.53		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2011	2011	4003434.684		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2012	2012	4549892.301		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2013	2013	4826181.717		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2014	2014	5148011.425		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CZE	Czechia	2015	2015	5310104.163		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	1996	1996	2775102.182		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	1997	1997	2996405.73		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	1998	1998	3252636.555		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	1999	1999	3551243.016		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2001	2001	4058613.942		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2002	2002	4282376.964		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2003	2003	4421286.546		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2004	2004	4374526.09		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2005	2005	4429522.099		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2006	2006	4616565.018		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2007	2007	4872501.064		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2008	2008	5346705.617		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2009	2009	5603700.237		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2010	2010	5449304.153		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2011	2011	5567033.464		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2012	2012	5627830.199		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2013	2013	5633666.429		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2014	2014	5630176.522		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DNK	Denmark	2015	2015	5779551.495		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	1996	1996	2931688.587		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	1997	1997	3330965.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	1998	1998	3730459.562		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	1999	1999	4273032.261		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2000	2000	4793944.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2001	2001	4845332.292		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2002	2002	5018342.628		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2003	2003	5188706.579		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2004	2004	5413322.966		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2005	2005	5588692.946		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2006	2006	5829041.394		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2007	2007	6146239.41		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2008	2008	6563017.683		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2009	2009	6362736.792		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2010	2010	6513178.956		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2011	2011	6524336.491		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2012	2012	6043642.927		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2013	2013	5765780.005		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2014	2014	5522589.964		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FIN	Finland	2015	2015	5065888.886		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	1996	1996	34595381.74		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	1997	1997	34194887.6		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	1998	1998	34559636.12		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	1999	1999	35956591.74		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2000	2000	37119159.75		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2001	2001	38664568.93		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2002	2002	39768739.04		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2003	2003	39084671.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2004	2004	39701616.41		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2005	2005	39530064.66		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2006	2006	40484747.74		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2007	2007	40929228.09		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2008	2008	41771621.36		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2009	2009	43528531.09		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2010	2010	43700818.32		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2011	2011	44928318.19		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2012	2012	45799922.96		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2013	2013	46270545.43		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2014	2014	46568478.93		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	FRA	France	2015	2015	46972923.06		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	1996	1996	50215721.4		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	1997	1997	52140841.82		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	1998	1998	53990695.28		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	1999	1999	58088321.51		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2000	2000	61290981.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2001	2001	62171627.38		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2002	2002	62949519.67		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2003	2003	63568107.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2004	2004	63374293.1		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2005	2005	63868106.76		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2006	2006	67147377.69		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2007	2007	69062799.96		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2008	2008	74113320.66		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2009	2009	73431992.91		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2010	2010	76069811.93		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2011	2011	81235514.65		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2012	2012	83752328.42		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2013	2013	82780820.66		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2014	2014	86108779.67		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DEU	Germany	2015	2015	87179229.31		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	1997	1997	895526.4713		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	1999	1999	1269942.445		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2001	2001	1353092.504		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2003	2003	1453226.028		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2004	2004	1473045.902		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2005	2005	1627031.098		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2006	2006	1666223.709		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2007	2007	1767894.057		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2008	2008	2022596.274		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2009	2009	1829553.715		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2010	2010	1654142.7		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2011	2011	1687919.228		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2012	2012	1628972.174		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2013	2013	1827938.525		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2014	2014	1891677.902		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GRC	Greece	2015	2015	2162163.511		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	1996	1996	758935.2857		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	1997	1997	869403.0415		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	1998	1998	850486.2628		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	1999	1999	896594.3912		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2000	2000	1100126.447		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2001	2001	1318997.813		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2002	2002	1484316.276		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2003	2003	1442688.54		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2004	2004	1419645.639		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2005	2005	1586833.325		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2006	2006	1756022.955		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2007	2007	1720988.782		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2008	2008	1777436.307		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2009	2009	1920004.198		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2010	2010	1946065.545		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2011	2011	2065569.302		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2012	2012	2158524.413		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2013	2013	2422190.337		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2014	2014	2460534.07		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HUN	Hungary	2015	2015	2568320.991		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	1997	1997	138216.591		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	1998	1998	160976.6352		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	1999	1999	192448.2884		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2000	2000	233137.9997		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2001	2001	267651.398		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2002	2002	268075.3257		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2003	2003	262732.4598		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2005	2005	296773.932		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2006	2006	335335.2606		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2007	2007	323459.5314		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2008	2008	323782.6521		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2009	2009	322834.7735		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2011	2011	297999.6516		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2013	2013	222852.4612		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2014	2014	259644.8652		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISL	Iceland	2015	2015	294458.6945		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	1996	1996	1116830.722		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	1997	1997	1210565.553		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	1998	1998	1274214.401		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	1999	1999	1346200.321		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2000	2000	1393122.628		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2001	2001	1434219.859		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2002	2002	1518373.365		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2003	2003	1676081.189		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2004	2004	1874935.77		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2005	2005	2006509.79		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2006	2006	2133702.609		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2007	2007	2278957.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2008	2008	2454351.283		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2009	2009	2719715.354		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2010	2010	2749824.641		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2011	2011	2650691.216		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2012	2012	2647270.393		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2013	2013	2685849.209		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRL	Ireland	2014	2014	2822417.355		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	1996	1996	14467239.82		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	1997	1997	15377635.67		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	1998	1998	15908603.11		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	1999	1999	15764461.79		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2000	2000	16716606.84		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2001	2001	17680363.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2002	2002	18401396.53		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2003	2003	18041091.38		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2004	2004	18173667.71		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2005	2005	18241244.99		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2006	2006	19315753.24		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2007	2007	20425247.09		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2008	2008	20763219.79		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2009	2009	20596333.38		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2010	2010	20975265.76		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2011	2011	20867329.69		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2012	2012	21302134.59		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2013	2013	21540422.73		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2014	2014	22681065.59		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ITA	Italy	2015	2015	22136615.94		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	1996	1996	100244012.4		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	1997	1997	104244385.9		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	1998	1998	106935872.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	1999	1999	107379409.3		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2000	2000	110854413		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2001	2001	113838475		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2002	2002	115587853.9		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2003	2003	118484026.2		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2004	2004	120561628.7		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2005	2005	128694561.2		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2006	2006	134520524.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2007	2007	139296602.3		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2008	2008	137673749.6		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2009	2009	126088235.9		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2010	2010	127539462.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2011	2011	131765384.2		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2012	2012	132264635.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2013	2013	139361621.2		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2014	2014	143475432.7		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JPN	Japan	2015	2015	140316886.9		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	1996	1996	17253465.19		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	1997	1997	18610815.71		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	1998	1998	16496836.91		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	1999	1999	17531126.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2000	2000	20172518.48		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2001	2001	22641014.43		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2002	2002	23624862.61		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2003	2003	25148655.63		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2004	2004	28411239.45		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2005	2005	30618325.64		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2006	2006	34710728.65		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2007	2007	38801623.12		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2008	2008	41536179.46		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2009	2009	44104193.46		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2010	2010	49432690.87		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2011	2011	55358724.01		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2012	2012	60892380.39		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2013	2013	64570167.86		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2014	2014	68983057.01		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KOR	Republic of Korea	2015	2015	69848079.14		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2000	2000	426036.4466		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2003	2003	479710.6831		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2004	2004	492681.7821		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2005	2005	498751.5361		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2006	2006	557007.8545		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2007	2007	576006.281		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2008	2008	583424.663		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2009	2009	574417.9572		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2010	2010	542112.097		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2011	2011	544330.6132		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2012	2012	465049.5455		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2013	2013	490201.5857		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2014	2014	504859.0681		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LUX	Luxembourg	2015	2015	529231.0732		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	1996	1996	2615026.437		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	1997	1997	3103358.576		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	1998	1998	3577787.261		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	1999	1999	4134207.508		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2000	2000	3871516.834		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2001	2001	4109038.183		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2002	2002	4640550.738		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2003	2003	4794902.877		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2004	2004	5068434.89		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2005	2005	5346150.943		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2006	2006	5186813.898		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2007	2007	6167176.568		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2008	2008	6902848.023		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2009	2009	7205899.582		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2010	2010	7816974.847		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2011	2011	7816627.559		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2012	2012	7772419.487		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2013	2013	8048981.245		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2014	2014	8778995.623		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MEX	Mexico	2015	2015	9237741.815		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	1996	1996	8870245.992		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	1997	1997	9275159.865		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	1998	1998	9169597.907		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	1999	1999	10062940.11		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2000	2000	10275660.65		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2001	2001	10552439.75		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2002	2002	10291272.91		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2003	2003	10534369.9		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2004	2004	10758772.85		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2005	2005	10892403.52		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2006	2006	11059543.49		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2007	2007	11009267.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2008	2008	10909127.69		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2009	2009	10768450.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2010	2010	11174456.55		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2011	2011	12534805.23		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2012	2012	12639470.59		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2013	2013	12701453.97		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2014	2014	13201639.35		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NLD	Netherlands	2015	2015	13550284.88		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	1997	1997	843732.3199		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	1999	1999	817144.9526		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	2001	2001	991527.3611		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	2003	2003	1136152.492		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	2005	2005	1189315.961		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	2007	2007	1299796.414		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	2009	2009	1381713.708		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	2011	2011	1410669.587		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NZL	New Zealand	2013	2013	1391195.003		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	1997	1997	2921611.805		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	1999	1999	3081327.496		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2001	2001	3159410.911		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2002	2002	3344874.936		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2003	2003	3478693.738		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2004	2004	3325234.741		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2005	2005	3275805.856		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2006	2006	3292772.857		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2007	2007	3642524.738		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2008	2008	3634834.813		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2009	2009	3962882.418		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2010	2010	3817949.14		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2011	2011	3800443.776		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2012	2012	3887404.101		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2013	2013	4004219.693		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2014	2014	4236346.061		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NOR	Norway	2015	2015	4854935.299		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	1996	1996	2393913.398		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	1997	1997	2563499.571		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	1998	1998	2751366.463		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	1999	1999	2970460.726		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2000	2000	2924669.994		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2001	2001	2872705.79		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2002	2002	2625466.304		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2003	2003	2626352.133		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2004	2004	2831310.159		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2005	2005	2984854.853		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2006	2006	3101760.154		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2007	2007	3386670.658		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2008	2008	3765082.092		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2009	2009	4270311.267		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2010	2010	4824120.222		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2011	2011	5243227.024		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2012	2012	6291585.317		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2013	2013	6304392.836		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2014	2014	7032013.206		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	POL	Poland	2015	2015	7807826.892		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	1996	1996	1065382.446		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	1997	1997	1141086.755		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	1998	1998	1325354.929		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	1999	1999	1501035.349		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2000	2000	1650001.89		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2001	2001	1782935.069		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2002	2002	1695407.246		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2003	2003	1624027.421		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2004	2004	1727215.968		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2005	2005	1808198.308		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2006	2006	2315260.704		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2007	2007	2794883.304		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2008	2008	3599867.651		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2009	2009	3817759.611		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2010	2010	3774127.621		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2011	2011	3522066.321		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2012	2012	3196742.505		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2013	2013	3042801.171		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2014	2014	2979129.94		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRT	Portugal	2015	2015	2997022.245		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	1996	1996	559266.7544		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	1997	1997	699429.5934		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	1998	1998	529369.6182		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	1999	1999	445161.4388		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2000	2000	446157.2116		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2001	2001	451133.2192		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2002	2002	424988.2589		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2003	2003	446893.3888		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2004	2004	419396.1632		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2005	2005	441026.0043		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2006	2006	460511.6222		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2007	2007	480858.0514		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2008	2008	523572.501		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2009	2009	507203.2929		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2010	2010	693623.6772		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2011	2011	767716.9021		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2012	2012	947164.6379		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2013	2013	983579.6793		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2014	2014	1080033.501		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVK	Slovakia	2015	2015	1498812.195		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	1996	1996	6791838.167		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	1997	1997	6954563.943		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	1998	1998	7918213.729		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	1999	1999	8171268.282		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2000	2000	9058207.987		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2001	2001	9476460.924		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2002	2002	10514416.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2003	2003	11551856.52		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2004	2004	12107678.53		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2005	2005	13251156.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2006	2006	14766796.42		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2007	2007	16137859.69		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2008	2008	17409832.04		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2009	2009	17224560.47		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2010	2010	17204983.63		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2011	2011	16723490.41		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2012	2012	15781221.95		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2013	2013	15246858.01		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2014	2014	15082798.02		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ESP	Spain	2015	2015	15401708.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	1997	1997	7836751.009		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	1999	1999	8800931.724		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2001	2001	10708649.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2003	2003	10335224.39		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2004	2004	10116437.47		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2005	2005	10388238.14		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2006	2006	11239118.4		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2007	2007	10812612.1		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2008	2008	11540312.38		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2009	2009	10799234.45		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2010	2010	10671119.47		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2011	2011	11068101.87		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2012	2012	11145643.93		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2013	2013	11368933.56		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2014	2014	11099859.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SWE	Sweden	2015	2015	11985899.57		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHE	Switzerland	1996	1996	6155639.162		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHE	Switzerland	2000	2000	6500123.164		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHE	Switzerland	2004	2004	7817035.174		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHE	Switzerland	2008	2008	9095515.593		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHE	Switzerland	2012	2012	10255872.68		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	1996	1996	2474827.413		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	1997	1997	2898764.773		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	1998	1998	2237467.436		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	1999	1999	2725884.277		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2000	2000	2981610.31		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2001	2001	3156229.305		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2002	2002	3276956.212		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2003	2003	3168595.394		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2004	2004	3717739.491		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2005	2005	4595604.543		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2006	2006	4821980.819		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2007	2007	6284573.386		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2008	2008	6350228.792		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2009	2009	7075950.836		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2010	2010	7672988.711		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2011	2011	8505385.222		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2012	2012	9317279.126		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2013	2013	9948157.086		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUR	Turkey	2014	2014	10919943.44		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	1996	1996	23888737.58		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	1997	1997	23953880.46		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	1998	1998	24961708.2		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	1999	1999	27109496.56		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2000	2000	27811437.16		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2001	2001	28440550.76		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2002	2002	29262333.1		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2003	2003	29571966.31		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2004	2004	29376823.17		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2005	2005	30639652.13		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2006	2006	31851957.79		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2007	2007	33461597.75		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2008	2008	33381428.67		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2009	2009	33163406.89		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2010	2010	33289134.03		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2011	2011	33892527.71		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2012	2012	32923201.6		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2013	2013	34544009.97		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2014	2014	36014443.46		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2015	2015	37327531.23		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	1996	1996	237217209.4		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	1997	1997	250814420		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	1998	1998	264715163		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	1999	1999	282110914.3		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2000	2000	302755129.6		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2001	2001	307788765.9		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2002	2002	302759909.9		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2003	2003	311647193.7		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2004	2004	315474389.6		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2005	2005	328128000		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2006	2006	342796381.2		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2007	2007	359414717.4		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2008	2008	377452982.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2009	2009	373841822.6		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2010	2010	372682565.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2011	2011	382683548.8		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2012	2012	382134505		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2013	2013	393725804.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2014	2014	405181716.3		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	USA	United States of America	2015	2015	420550104.2		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ALB	Albania	2007	2007	17459.30996		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ALB	Albania	2008	2008	33114.6035		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DZA	Algeria	2001	2001	672476.61		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DZA	Algeria	2002	2002	1129881.013		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DZA	Algeria	2003	2003	648686.9602		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DZA	Algeria	2004	2004	563980.4414		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	DZA	Algeria	2005	2005	241140.4987		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	1996	1996	1910382.581		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	1997	1997	2075707.737		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	1998	1998	2113093.258		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	1999	1999	2250315.073		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2000	2000	2161023.348		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2001	2001	1998738.881		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2002	2002	1631057.442		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2003	2003	1872271.282		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2004	2004	2009645.999		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2005	2005	2271676.24		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2006	2006	2638500.407		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2007	2007	2926336.206		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2008	2008	3116079.948		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2009	2009	3653132.28		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2010	2010	3870147.651		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2011	2011	4145190.67		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2012	2012	4603967.87		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2013	2013	4595103.386		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARG	Argentina	2014	2014	4251746.426		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	1997	1997	12729.7648		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	1998	1998	16515.36608		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	1999	1999	16153.3151		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2000	2000	15273.03009		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2001	2001	24509.89712		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2002	2002	25033.81571		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2003	2003	36297.13944		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2004	2004	32041.92354		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2005	2005	36629.8692		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2006	2006	38722.0977		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2007	2007	38644.32151		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2008	2008	43916.38159		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2009	2009	48884.33997		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2010	2010	41451.72292		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2011	2011	48570.20462		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2012	2012	45974.48656		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2013	2013	44232.28133		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2014	2014	49815.8398		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARM	Armenia	2015	2015	53238.98172		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	1996	1996	54151.62676		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	1997	1997	89958.22665		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	1998	1998	112811.7556		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	1999	1999	113005.2525		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2000	2000	107367.4129		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2001	2001	119406.8371		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2002	2002	117126.1702		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2003	2003	140354.1949		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2004	2004	141984.3161		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2005	2005	132322.2854		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2006	2006	138893.9558		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2007	2007	172079.6396		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2008	2008	185549.7657		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2009	2009	306302.0046		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2010	2010	280944.408		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2011	2011	271297.1491		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2012	2012	285684.8077		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2013	2013	294128.4366		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2014	2014	297883.8512		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	AZE	Azerbaijan	2015	2015	319136.1575		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	1996	1996	491512.3868		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	1997	1997	400299.1857		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	1998	1998	419527.8498		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	1999	1999	519499.2952		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2000	2000	469565.3884		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2001	2001	482670.718		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2002	2002	444165.1091		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2003	2003	468230.8798		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2004	2004	535603.3386		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2005	2005	633493.05		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2006	2006	678495.3457		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2007	2007	1072984.257		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2008	2008	911338.3817		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2009	2009	791511.3426		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2010	2010	920191.9589		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2011	2011	981149.753		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2012	2012	950345.8123		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2013	2013	969951.8212		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2014	2014	766783.3074		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BLR	Belarus	2015	2015	727709.4296		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BOL	Bolivia (Plurinational State of)	1996	1996	93960.6648		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BOL	Bolivia (Plurinational State of)	1997	1997	95685.68027		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BOL	Bolivia (Plurinational State of)	1998	1998	93872.1638		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BOL	Bolivia (Plurinational State of)	1999	1999	95360.29181		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2000	2000	94173.981		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2001	2001	97808.00681		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2002	2002	94450.86338		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2009	2009	72004.36085		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2003	2003	3920.83548		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2004	2004	3615.21841		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2005	2005	6579.64666		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2006	2006	5062.20559		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2007	2007	6856.04714		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2008	2008	5284.90516		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2009	2009	5869.6145		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2012	2012	74536.49171		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2013	2013	92445.29499		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2014	2014	74862.03319		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BIH	Bosnia and Herzegovina	2015	2015	65526.2457		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BWA	Botswana	2005	2005	101993.2062		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BWA	Botswana	2012	2012	67337.18289		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BWA	Botswana	2013	2013	157479.3658		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2000	2000	17728141.52		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2001	2001	18570972.57		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2002	2002	18124804		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2003	2003	18742611.47		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2004	2004	19109187.9		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2005	2005	20520010.85		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2006	2006	21026374.01		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2007	2007	24409460.39		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2008	2008	26783316.71		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2009	2009	26503634.22		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2010	2010	29550361.26		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2011	2011	30188215.33		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2012	2012	30457365.04		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2013	2013	33325843.11		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRA	Brazil	2014	2014	32498467.38		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	1996	1996	297307.1272		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	1997	1997	271968.0198		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	1998	1998	296398.8803		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	1999	1999	306164.3212		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2000	2000	295832.2635		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2001	2001	277343.535		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2002	2002	305387.8918		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2003	2003	326302.5987		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2004	2004	346381.2492		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2005	2005	348938.3763		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2006	2006	372278.5466		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2007	2007	386108.7002		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2008	2008	426035.1181		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2009	2009	453701.533		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2010	2010	516414.6027		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2011	2011	496475.224		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2012	2012	564677.8317		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2013	2013	597907.5379		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2014	2014	758541.4075		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BGR	Bulgaria	2015	2015	945806.138		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	1996	1996	14105.91116		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	1997	1997	17147.67245		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	2001	2001	22582.12506		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	2002	2002	41878.38541		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	2003	2003	36151.08094		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	2004	2004	33700.36845		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	2005	2005	25814.83904		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	2007	2007	18562.21041		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	2008	2008	33080.00811		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BFA	Burkina Faso	2009	2009	36484.28182		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2007	2007	711445.2218		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2008	2008	887494.7361		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2009	2009	826567.6722		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2010	2010	819835.6683		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2011	2011	926546.468		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2012	2012	1008503.508		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2013	2013	1122612.257		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2014	2014	1105969.868		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHL	Chile	2015	2015	1155359.08		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	1996	1996	17031250.32		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	1997	1997	21096742.29		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	1998	1998	23040980.47		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	1999	1999	28747779.68		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2000	2000	37160590.48		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2001	2001	42385854.91		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2002	2002	52037360.63		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2003	2003	60642945.51		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2004	2004	72413872.73		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2005	2005	86836081.13		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2006	2006	102417919.1		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2007	2007	117373459.4		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2008	2008	135427378		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2009	2009	170453585.1		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2010	2010	194010587.4		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2011	2011	220646640.6		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2012	2012	255463667		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2013	2013	287471324.4		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2014	2014	313244405.5		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CHN	China	2015	2015	342513404.2		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	1996	1996	859545.5749		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	1997	1997	813060.9467		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2000	2000	388540.4134		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2001	2001	400638.429		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2002	2002	434370.2807		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2003	2003	505061.72		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2004	2004	523532.2288		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2005	2005	535134.9796		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2006	2006	566112.6905		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2007	2007	720830.0613		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2008	2008	813234.5382		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2009	2009	813095.0232		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2010	2010	843900.3775		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2011	2011	964190.5684		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2012	2012	1080359.054		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2013	2013	1415005.141		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2014	2014	1356434.519		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COL	Colombia	2015	2015	1348726.051		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	1996	1996	86145.53674		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	1997	1997	88960.43968		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	1998	1998	85354.63252		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	1999	1999	122858.5404		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2000	2000	142632.3093		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2003	2003	139866.157		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2004	2004	150360.1205		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2006	2006	191873.9172		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2007	2007	173376.0711		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2008	2008	196568.7882		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2009	2009	260815.5085		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2010	2010	255128.1222		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2011	2011	256731.5693		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2012	2012	319790.9313		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2013	2013	326804.7135		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CRI	Costa Rica	2014	2014	348567.0217		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	1999	1999	429082.6932		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2000	2000	553169.1022		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2001	2001	502211.1164		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2002	2002	546822.4092		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2003	2003	578724.2888		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2004	2004	653180.143		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2005	2005	564724.0548		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2006	2006	511870.5024		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2007	2007	576165.4031		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2008	2008	656190.3616		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2009	2009	580321.6197		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2010	2010	503182.2932		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2011	2011	506936.6789		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2012	2012	495032.9137		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2013	2013	531806.4273		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2014	2014	513254.1635		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HRV	Croatia	2015	2015	563850.1232		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	1998	1998	31727.32316		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	1999	1999	35643.06931		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2000	2000	38876.90823		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2001	2001	42202.7983		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2002	2002	51454.9169		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2003	2003	60936.20832		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2004	2004	66927.02957		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2005	2005	75305.9417		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2006	2006	82020.83856		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2007	2007	90766.32097		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2008	2008	91373.5767		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2009	2009	103334.4921		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2010	2010	105218.6014		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2011	2011	106463.6866		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2012	2012	97962.4184		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2013	2013	99591.93894		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2014	2014	101461.2031		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CYP	Cyprus	2015	2015	98242.93572		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COD	Democratic Republic of the Congo	2004	2004	67461.82547		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COD	Democratic Republic of the Congo	2005	2005	15505.23121		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COD	Democratic Republic of the Congo	2006	2006	17207.49869		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COD	Democratic Republic of the Congo	2007	2007	41655.06142		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COD	Democratic Republic of the Congo	2008	2008	27030.7178		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	COD	Democratic Republic of the Congo	2009	2009	26115.42438		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	1996	1996	59298.77902		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	1997	1997	52317.21867		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	1998	1998	56216.2169		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2001	2001	44494.4423		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2002	2002	49778.72286		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2003	2003	52987.27836		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2006	2006	141369.1862		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2007	2007	148187.1091		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2008	2008	272104.5373		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2009	2009	474070.9627		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2010	2010	501150.9238		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2011	2011	455985.4989		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2012	2012	471018.6518		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2013	2013	565022.716		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ECU	Ecuador	2014	2014	680869.873		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	1996	1996	796651.7737		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	1997	1997	780933.7628		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	1998	1998	818787.8772		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	1999	1999	813854.1216		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2000	2000	884965.171		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2004	2004	1413025.16		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2005	2005	1320212.235		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2006	2006	1513472.045		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2007	2007	1596198.24		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2008	2008	1811853.833		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2009	2009	3039976.129		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2010	2010	3198618.305		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2011	2011	3993761.011		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2012	2012	3950876.962		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2013	2013	5054526.972		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2014	2014	5169578.208		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EGY	Egypt	2015	2015	6036046.911		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	1998	1998	82709.9602		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	1999	1999	97789.74001		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2000	2000	95329.37902		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2001	2001	118148.0848		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2002	2002	128378.8175		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2003	2003	147768.2882		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2004	2004	174286.7564		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2005	2005	206670.4018		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2006	2006	275524.5669		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2007	2007	284160.3648		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2008	2008	316707.9782		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2009	2009	299212.5277		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2010	2010	346802.39		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2011	2011	544180.7581		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2012	2012	522364.4692		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2013	2013	430765.3238		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2014	2014	372410.424		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	EST	Estonia	2015	2015	389189.7617		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ETH	Ethiopia	2005	2005	89644.64987		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ETH	Ethiopia	2007	2007	105626.7534		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ETH	Ethiopia	2010	2010	202398.3064		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ETH	Ethiopia	2013	2013	677364.8131		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GAB	Gabon	2007	2007	90051.47711		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GAB	Gabon	2008	2008	106849.7989		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GAB	Gabon	2009	2009	121299.6987		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	1996	1996	35635.01576		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	1997	1997	40755.04102		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	1998	1998	43424.48186		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	1999	1999	36319.21569		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2000	2000	27680.13622		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2001	2001	32133.27034		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2002	2002	26396.53615		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2003	2003	34344.1327		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2004	2004	40800.03427		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2005	2005	32334.05787		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2013	2013	23220.09942		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2014	2014	53684.64193		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GEO	Georgia	2015	2015	95625.13211		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GTM	Guatemala	2005	2005	25583.9174		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GTM	Guatemala	2006	2006	37975.06887		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GTM	Guatemala	2007	2007	54654.53251		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GTM	Guatemala	2008	2008	52341.0913		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GTM	Guatemala	2009	2009	47016.15164		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GTM	Guatemala	2010	2010	38047.40313		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GTM	Guatemala	2011	2011	43855.71575		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GTM	Guatemala	2012	2012	41946.38317		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HND	Honduras	2000	2000	8609.34509		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HND	Honduras	2001	2001	7615.16428		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HND	Honduras	2002	2002	8615.54005		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HND	Honduras	2003	2003	9081.65207		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HND	Honduras	2004	2004	9510.72953		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	1998	1998	783436.3993		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	1999	1999	858143.917		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2000	2000	938554.4087		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2001	2001	1089017.542		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2002	2002	1199952.229		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2003	2003	1446766.034		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2004	2004	1668538.358		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2005	2005	1920088.798		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2006	2006	2111597.162		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2007	2007	2126260.642		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2008	2008	2080051.878		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2009	2009	2179570.341		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2010	2010	2254974.879		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2011	2011	2273359.88		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2012	2012	2332761.859		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2013	2013	2414518.133		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2014	2014	2514780.599		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	HKG	China, Hong Kong Special Administrative Region	2015	2015	2650697.684		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	1996	1996	11894448.45		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	1997	1997	13298665.93		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	1998	1998	14472716.27		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	1999	1999	16208334.77		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2000	2000	17594696		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2001	2001	17929843.08		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2002	2002	18352870.81		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2003	2003	19621377.85		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2004	2004	22283166.51		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2005	2005	26532114.35		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2006	2006	28517222.15		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2007	2007	31684879.54		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2008	2008	35010816.33		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2009	2009	36974142.49		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2010	2010	39690630.53	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2011	2011	42794911.02	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IND	India	2015	2015	42038378		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	1996	1996	3282502.047		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	1997	1997	3699783.314		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	1998	1998	4008512.456		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	1999	1999	4736019.956		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2000	2000	6096877.747		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2001	2001	6505586.63		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2002	2002	6418177.296		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2003	2003	6129024.356		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2004	2004	6401884.495		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2005	2005	6966300.478		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2006	2006	7532397.576		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2007	2007	8535321.432		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2008	2008	8640174.673		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2009	2009	8329112.472		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2010	2010	8401430.349		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2011	2011	9000044.241		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2012	2012	9544929.431		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2013	2013	9925359.322		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2014	2014	10547537.61		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ISR	Israel	2015	2015	10767507.23		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JAM	Jamaica	2001	2001	9429.86527		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JAM	Jamaica	2002	2002	11823.19815		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	1997	1997	349753.421		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	1998	1998	257749.2553		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	1999	1999	220799.9255		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2000	2000	238758.0095		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2001	2001	329433.9054		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2002	2002	419252.0138		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2003	2003	453520.0465		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2004	2004	489005.7851		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2005	2005	612537.8667		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2006	2006	580537.4244		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2007	2007	543758.5792		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2008	2008	582423.186		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2009	2009	623976.0946		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2010	2010	448045.2018		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2011	2011	481471.8802		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2012	2012	543230.8882		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2013	2013	596961.7533		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2014	2014	607171.6221		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KAZ	Kazakhstan	2015	2015	622858.5381		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KEN	Kenya	2007	2007	288467.393		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KEN	Kenya	2010	2010	716276.0273		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	1997	1997	246016.7536		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	1998	1998	320286.2244		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	1999	1999	241018.2878		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2000	2000	160135.8992		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2001	2001	229966.6606		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2002	2002	238448.4735		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2003	2003	222957.8016		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2004	2004	223931.814		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2005	2005	191036.9906		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2006	2006	172722.7596		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2007	2007	185380.3839		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2008	2008	189205.8709		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2009	2009	230711.7604		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2010	2010	203558.5986		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2011	2011	217847.6841		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2012	2012	228111.9783		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KWT	Kuwait	2013	2013	715731.4498		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	1997	1997	15720.57794		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	1998	1998	17440.0947		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	1999	1999	15441.09141		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2000	2000	14148.25606		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2001	2001	16380.42167		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2002	2002	18874.37899		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2003	2003	22712.28953		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2004	2004	21747.25069		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2005	2005	21639.07584		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2006	2006	25851.89866		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2007	2007	28561.86548		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2008	2008	25134.69246		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2009	2009	21753.932		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2010	2010	21041.5451		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2011	2011	22419.36094		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2012	2012	23798.94358		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2013	2013	23701.02165		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2014	2014	20724.33376		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KGZ	Kyrgyzstan	2015	2015	20690.15893		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	1996	1996	66148.7299		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	1997	1997	66489.79674		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	1998	1998	73216.24899		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	1999	1999	69796.6345		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2000	2000	91159.98565		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2001	2001	89755.27105		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2002	2002	97482.60264		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2003	2003	93068.47659		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2004	2004	112060.0818		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2005	2005	164184.0523		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2006	2006	225688.0325		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2007	2007	211211.6663		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2008	2008	213735.1285		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2009	2009	142575.665		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2010	2010	185067.9847		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2011	2011	224559.1224		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2012	2012	222695.6795		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2013	2013	210954.9368		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2014	2014	242480.0251		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LVA	Latvia	2015	2015	225964.263		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	1996	1996	137619.1796		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	1997	1997	162685.8949		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	1998	1998	177173.8598		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	1999	1999	161710.3355		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2000	2000	195599.741		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2001	2001	237575.3614		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2002	2002	249796.6185		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2003	2003	278936.1431		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2004	2004	336304.1449		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2005	2005	360724.7405		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2006	2006	410135.2697		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2007	2007	461212.9592		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2008	2008	465956.1925		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2009	2009	417686.253		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2010	2010	400896.9081		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2011	2011	490667.7883		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2012	2012	504309.272		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2013	2013	554711.3103		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2014	2014	621522.6141		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LTU	Lithuania	2015	2015	636749.8403		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	1997	1997	48575.10059		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	1998	1998	57111.61372		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	1999	1999	47869.0194		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2000	2000	60745.48935		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2001	2001	41201.36933		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2002	2002	34899.35726		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2003	2003	30720.71225		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2004	2004	35474.05138		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2005	2005	36490.82226		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2006	2006	32563.53785		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2007	2007	30590.89394		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2008	2008	42202.77712		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2009	2009	37011.43134		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2010	2010	42056.50383		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2011	2011	44316.24844		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2012	2012	64710.98677		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2013	2013	89469.67412		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2014	2014	109415.047		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MKD	The former Yugoslav Republic of Macedonia	2015	2015	96958.17628		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	1997	1997	39194.80968		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	1998	1998	20419.34603		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	1999	1999	18576.52759		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2000	2000	24278.37916		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2001	2001	46898.89112		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2002	2002	46079.91261		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2003	2003	69729.46919		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2004	2004	48478.44739		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2005	2005	39819.09829		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2006	2006	39005.36731		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2007	2007	35531.63399		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2008	2008	36346.63265		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2009	2009	38216.48621		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2010	2010	29552.92403		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2011	2011	28032.98514		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDG	Madagascar	2014	2014	4467.20569		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	1996	1996	634426.4729		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	1998	1998	1159534.419		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2000	2000	1579141.446		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2002	2002	2327579.937		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2004	2004	2417228.177		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2006	2006	2738343.504		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2008	2008	3994833.537		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2009	2009	4988016.156		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2010	2010	5473974.964		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2011	2011	5748948.097		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2012	2012	6411482.582		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2014	2014	8223180.294		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MYS	Malaysia	2015	2015	8895835.528		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLI	Mali	2007	2007	47499.29531		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLI	Mali	2010	2010	146640.973		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2002	2002	20031.36441		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2003	2003	20418.52551		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2004	2004	42611.09788		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2005	2005	47580.86036		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2006	2006	53049.08972		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2007	2007	52145.34706		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2008	2008	52397.83416		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2009	2009	49582.75479		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2010	2010	61040.60658		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2011	2011	67888.95675		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2012	2012	86112.84383		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2013	2013	83572.19843		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2014	2014	84021.2478		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MLT	Malta	2015	2015	91717.98295		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	1997	1997	27522.27567		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	1998	1998	27392.5097		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	1999	1999	33700.66806		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	2000	2000	33833.87481		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	2001	2001	44275.11798		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	2002	2002	45828.32899		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	2003	2003	42965.70578		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	2004	2004	50979.53429		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	2005	2005	50655.88882		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MUS	Mauritius	2012	2012	33971.73916		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	1996	1996	70051.27051		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	1997	1997	65808.44809		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2003	2003	29718.18163		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2004	2004	34377.2324		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2005	2005	42209.74773		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2006	2006	45075.27091		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2007	2007	62355.38758		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2008	2008	65870.73075		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2009	2009	60868.56176		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2010	2010	54559.94462		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2011	2011	53649.23389		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2012	2012	54897.46154		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2013	2013	50972.00829		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2014	2014	55885.32559		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MDA	Republic of Moldova	2015	2015	55397.36029		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	1997	1997	15482.59464		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	1998	1998	15863.18961		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	1999	1999	14751.91409		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2000	2000	18638.83342		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2001	2001	27365.4889		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2002	2002	26971.92979		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2003	2003	28868.84904		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2004	2004	33961.97744		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2005	2005	32342.31754		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2006	2006	28236.23543		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2007	2007	38790.78577		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2008	2008	59690.01999		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2009	2009	53350.82913		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2010	2010	45499.66366		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2011	2011	50346.19997		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2012	2012	58655.71226		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2013	2013	63659.836		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2014	2014	66003.87528		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNG	Mongolia	2015	2015	46809.6109		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAR	Morocco	1998	1998	309018.0189		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAR	Morocco	2001	2001	758255.7008		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAR	Morocco	2002	2002	677600.426		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAR	Morocco	2003	2003	861154.1875		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAR	Morocco	2006	2006	966494.7481		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAR	Morocco	2010	2010	1348269.021		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MOZ	Mozambique	2002	2002	46647.49532		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MOZ	Mozambique	2006	2006	69132.189		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MOZ	Mozambique	2008	2008	26679.35857		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MOZ	Mozambique	2010	2010	83628.62911		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MOZ	Mozambique	2015	2015	94086.42053		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NIC	Nicaragua	1997	1997	8761.17861		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NIC	Nicaragua	2002	2002	5634.96068		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NIC	Nicaragua	2011	2011	18259.24689		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NIC	Nicaragua	2012	2012	24312.57662		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NIC	Nicaragua	2013	2013	25037.00597		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NIC	Nicaragua	2014	2014	22695.82548		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NIC	Nicaragua	2015	2015	28554.84796		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	1997	1997	605386.2205		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	1998	1998	435507.914		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	1999	1999	479167.971		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2000	2000	552955.3827		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2001	2001	732830.599		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2002	2002	997266.5834	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2005	2005	2402903.922		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2007	2007	3872165.667		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2009	2009	2868696.113		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2011	2011	2200235.996		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2013	2013	2115182.613		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAK	Pakistan	2015	2015	1944365.053		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	1996	1996	72515.0765		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	1997	1997	74465.65073		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	1998	1998	71945.62068		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	1999	1999	75547.8293		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2000	2000	103440.9533		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2001	2001	103489.6248		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2002	2002	100357.4935		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2003	2003	98127.86302		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2004	2004	74415.54269		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2005	2005	81655.16939		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2006	2006	90076.81074		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2007	2007	79136.95745		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2008	2008	91036.24999		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2009	2009	63698.82056		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2010	2010	73599.73603		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2011	2011	97650.45106		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2012	2012	46570.31447		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PAN	Panama	2013	2013	41092.96588		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	1997	1997	121946.1165		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	1998	1998	146347.2485		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	1999	1999	145239.7732		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2000	2000	170619.7144		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2001	2001	169086.7943		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2002	2002	170562.1674		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2003	2003	180990.6026		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2004	2004	273671.5213		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2011	2011	229324.8616		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2012	2012	162517.9826		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2013	2013	254221.8836		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2014	2014	343582.4403		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PER	Peru	2015	2015	385915.7485		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	1996	1996	1105005.753		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	1997	1997	894900.3859		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	1998	1998	756069.4785		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	1999	1999	605676.7487		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2000	2000	571071.9832		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2001	2001	642303.9462		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2002	2002	654941.4747		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2003	2003	704127.9191		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2004	2004	762307.0864		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2005	2005	844700.0401		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2006	2006	1010773.952		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2007	2007	1246130.702		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2008	2008	1475750.605		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2009	2009	1113899.71		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2010	2010	1082016.779		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2011	2011	1192855.585		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2012	2012	1174586.139		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2013	2013	974487.0073		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2014	2014	993666.651		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ROU	Romania	2015	2015	1313529.006		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	1996	1996	10829607.94		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	1997	1997	11865879.71		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	1998	1998	10269037.99		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	1999	1999	11411970.48		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2000	2000	13228588.64		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2001	2001	15585255.88		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2002	2002	17307743.1		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2003	2003	19139178.27		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2004	2004	18364097.31		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2005	2005	18120510.85		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2006	2006	19689194.38		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2007	2007	22229611.75		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2008	2008	21891808.26		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2009	2009	24190510.38		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2010	2010	22822069.66		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2011	2011	21528260.73		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2012	2012	22791267.04		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2013	2013	23305392.49		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2014	2014	24171013.75		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	RUS	Russian Federation	2015	2015	24225092.38		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	VCT	Saint Vincent and the Grenadines	2001	2001	317.88244		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	VCT	Saint Vincent and the Grenadines	2002	2002	944.0459		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2003	2003	457391.19		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2004	2004	423670.6432		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2005	2005	361680.5226		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2006	2006	383190.7701		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2007	2007	432600.5033		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2008	2008	508552.2403		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2009	2009	775163.0234		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2010	2010	9809004.462		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2011	2011	10954134.14		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2012	2012	11275780.66		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SAU	Saudi Arabia	2013	2013	10766303.37		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SEN	Senegal	2008	2008	86635.69192		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SEN	Senegal	2010	2010	135829.1061		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SYC	Seychelles	2001	2001	5539.96055		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SYC	Seychelles	2002	2002	5367.47		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SYC	Seychelles	2003	2003	5110.47242		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SYC	Seychelles	2004	2004	4178.19385		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SYC	Seychelles	2005	2005	3969.86655		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	1996	1996	1995897.795		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	1997	1997	2319818.632		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	1998	1998	2784981.804		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	1999	1999	3088709.882		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2000	2000	3373291.182		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2001	2001	3706562.44		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2002	2002	3953111.523		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2003	2003	4045189.98		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2004	2004	4602551.924		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2005	2005	5079054.768		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2006	2006	5458998.65		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2007	2007	6525181.782		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2008	2008	7448449.533		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2009	2009	6099631.564		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2010	2010	6553048.032		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2011	2011	7439381.066		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2012	2012	7183412.185		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2013	2013	7554675.707		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SGP	Singapore	2014	2014	8510212.395		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	1996	1996	427073.7061		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	1997	1997	442159.7466		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	1998	1998	478327.5814		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	1999	1999	515799.65		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2000	2000	544527.0515		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2001	2001	606643.3163		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2002	2002	617470.9683		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2003	2003	549633.4648		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2004	2004	630102.9211		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2005	2005	676514.2141		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2006	2006	775824.6378		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2007	2007	770635.167		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2008	2008	908904.2707		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2009	2009	936316.0706		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2010	2010	1073861.959		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2011	2011	1273062.537		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2012	2012	1317984.174		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2013	2013	1316190.457		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2014	2014	1243105.146		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SVN	Slovenia	2015	2015	1179696.221		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	1997	1997	2113971.333		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2001	2001	2855682.061		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2003	2003	3239198.549		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2004	2004	3621989.526		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2005	2005	4046645.984		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2006	2006	4445898.073		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2007	2007	4604507.803		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2008	2008	4779927.511		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2009	2009	4428006.456		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2010	2010	4024317.467		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2011	2011	4142260.689		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2012	2012	4228689.213		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZAF	South Africa	2013	2013	4264722.432		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LKA	Sri Lanka	1996	1996	138124.3998		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LKA	Sri Lanka	2000	2000	133384.3479	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LKA	Sri Lanka	2004	2004	192978.6458		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LKA	Sri Lanka	2006	2006	211165.605		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LKA	Sri Lanka	2008	2008	156972.4436		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LKA	Sri Lanka	2010	2010	209952.7617		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LKA	Sri Lanka	2013	2013	189186.0776		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SDN	Sudan	1999	1999	344549.3673	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SDN	Sudan	2000	2000	326805.4017	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SDN	Sudan	2001	2001	328975.7268	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SDN	Sudan	2002	2002	309556.4959	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SDN	Sudan	2003	2003	286843.7944	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SDN	Sudan	2004	2004	259432.4762	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SDN	Sudan	2005	2005	281296.2594	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2001	2001	6442.81032		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2002	2002	5636.19477		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2003	2003	6098.00232		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2004	2004	6538.13546		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2005	2005	9968.95744		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2006	2006	11961.13075		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2007	2007	8143.73735		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2008	2008	9052.38113		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2009	2009	11541.57774		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2010	2010	12775.38684		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2011	2011	18698.27382		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2012	2012	18916.21582		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2013	2013	20915.68889		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2014	2014	21745.0999		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TJK	Tajikistan	2015	2015	21888.11202		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	1996	1996	625713.8496		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	1997	1997	521514.1693		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	1999	1999	1224824.023		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2000	2000	1260576.95		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2001	2001	1344489.278		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2002	2002	1304111.916		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2003	2003	1487529.421		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2004	2004	1535607.172		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2005	2005	1469674.887		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2006	2006	1640091.259		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2007	2007	1492128.351		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2008	2008	1536835.889		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2009	2009	1760728.001		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2011	2011	2941730.126		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2013	2013	3960217.944		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2014	2014	4366076.181		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	THA	Thailand	2015	2015	5809929.337		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	1996	1996	15789.47441		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	1997	1997	19025.35001		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	1998	1998	22639.23481		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	1999	1999	23642.49201		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2000	2000	22342.69215		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2001	2001	22448.43798		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2002	2002	30653.19859		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2003	2003	30614.78846		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2004	2004	32877.82582		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2005	2005	34887.63739		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2006	2006	24991.64979		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2007	2007	21433.11915		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2008	2008	11493.95893		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2009	2009	20269.44624		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2010	2010	17637.21127		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2011	2011	14833.00081		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2012	2012	16389.15408		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2013	2013	22401.31152		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TTO	Trinidad and Tobago	2014	2014	32852.91639		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2002	2002	373541.6175		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2003	2003	468474.5694		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2004	2004	559293.9546		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2005	2005	563749.3953		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2006	2006	564407.7743		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2007	2007	591822.0662		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2008	2008	592698.8736		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2009	2009	674777.8327		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2010	2010	682467.9752		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2011	2011	687196.6388		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2012	2012	687868.081		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2013	2013	696624.0797		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2014	2014	699485.3773		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TUN	Tunisia	2015	2015	681679.2885	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2002	2002	95833.51488		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2003	2003	71100.04293		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2004	2004	77257.13055		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2005	2005	67828.85904		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2006	2006	104900.6052		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2007	2007	147002.8738		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2008	2008	134326.0851		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2009	2009	155347.2046		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UGA	Uganda	2010	2010	220861.0267		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	1996	1996	92476.2806		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	1997	1997	132551.0554		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	1998	1998	75959.67168		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	1999	1999	87028.64724		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2000	2000	79669.53952		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2002	2002	80455.64396		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2006	2006	146146.1515		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2007	2007	180988.7139		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2008	2008	173430.4379		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2009	2009	196399.6092		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2010	2010	175097.2011		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2011	2011	188208.0681		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2012	2012	183077.4151		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2013	2013	187784.8014		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	URY	Uruguay	2014	2014	202718.3914		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZMB	Zambia	1996	1996	1935.65556		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZMB	Zambia	1997	1997	1342.16463		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZMB	Zambia	2002	2002	1179.86809		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZMB	Zambia	2003	2003	1966.76782		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZMB	Zambia	2004	2004	5521.48539		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZMB	Zambia	2005	2005	6642.11504		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ZMB	Zambia	2008	2008	93387.06797		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2001	2001	10377.51381	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2002	2002	12632.43508	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2003	2003	12653.96373	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2004	2004	13716.13165	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2005	2005	24299.16158	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2006	2006	26058.50943	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2007	2007	20444.41956		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2008	2008	37575.49656		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2009	2009	20370.47482		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2010	2010	23627.48324		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2011	2011	25380.25167		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2012	2012	29989.83172		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2013	2013	35488.47933		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2014	2014	59690.81637		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MAC	China, Macao Special Administrative Region	2015	2015	72949.40142		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	1997	1997	372759.9361		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	1998	1998	405774.5128		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	1999	1999	443607.5722		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2000	2000	430514.6743		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2001	2001	161659.9966		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2002	2002	366355.009		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2003	2003	293501.1838		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2004	2004	186882.1559		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2005	2005	270060.7062		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2006	2006	317241.1215		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2007	2007	446310.6911		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2008	2008	538042.3578		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2009	2009	636305.7324		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2010	2010	549976.4391		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2011	2011	542788.9293		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2012	2012	672653.6596		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2013	2013	552962.2046		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2014	2014	574861.0264		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SRB	Serbia	2015	2015	651184.6412		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2003	2003	37451.21426		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2004	2004	49930.11824		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2005	2005	47208.2716		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2006	2006	68843.33481		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2007	2007	70486.79778		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2011	2011	20609.7357		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2013	2013	24680.33945		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2014	2014	24374.81875		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MNE	Montenegro	2015	2015	26319.64789		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRN	Brunei Darussalam	2002	2002	4137.51904		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRN	Brunei Darussalam	2003	2003	4924.53958		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BRN	Brunei Darussalam	2004	2004	9946.11008		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KHM	Cambodia	2002	2002	8546.47415	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	KHM	Cambodia	2015	2015	53761.75835		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	1998	1998	25268.41576		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2007	2007	36003.72337		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2008	2008	45889.57436		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2009	2009	30611.43653		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2010	2010	26938.8876		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2011	2011	12744.19787		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2012	2012	12729.99312		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2013	2013	24514.11139		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2014	2014	36450.16249		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	SLV	El Salvador	2015	2015	57500.4213		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GMB	Gambia	2008	2008	448.56171		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GMB	Gambia	2009	2009	409.39043		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GMB	Gambia	2011	2011	3155.34481		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GHA	Ghana	2007	2007	125224.7982		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	GHA	Ghana	2010	2010	251432.6032		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IDN	Indonesia	2000	2000	740254.2285		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IDN	Indonesia	2001	2001	539077.7878		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IDN	Indonesia	2009	2009	1428551.997	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IDN	Indonesia	2013	2013	1832856.9	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2001	2001	3589081.462		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2002	2002	3828059.598		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2003	2003	4991744.073		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2004	2004	4570069.301		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2005	2005	5853587.04		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2006	2006	5552885.931		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2008	2008	7127998.666		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2009	2009	3091360.76		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2010	2010	3215016.177		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRN	Iran (Islamic Republic of)	2012	2012	3647793.551		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JOR	Jordan	2002	2002	123336.7861		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	JOR	Jordan	2008	2008	244029.2022		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LAO	Lao People's Democratic Republic	2002	2002	4626.92642		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LSO	Lesotho	2002	2002	1299.05568		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LSO	Lesotho	2003	2003	1401.37375		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LSO	Lesotho	2004	2004	1836.69841		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LSO	Lesotho	2009	2009	1097.96884		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LSO	Lesotho	2011	2011	533.60827		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LSO	Lesotho	2015	2015	2782.68803		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NGA	Nigeria	2007	2007	1299289.85		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2001	2001	21159.59266		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2002	2002	24280.80508		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2003	2003	21284.0385		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2004	2004	22467.83757		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2005	2005	23644.1083		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2008	2008	20307.67904		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2011	2011	23847.79765		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2012	2012	36617.30492		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2014	2014	51243.85192		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRY	Paraguay	2015	2015	66031.43319		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PHL	Philippines	2002	2002	429936.6475		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PHL	Philippines	2003	2003	426708.0281		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PHL	Philippines	2005	2005	409072.802		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PHL	Philippines	2007	2007	451582.4555		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PHL	Philippines	2009	2009	494522.8977		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PHL	Philippines	2011	2011	567736.0181		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PHL	Philippines	2013	2013	762767.4583		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LCA	Saint Lucia	1998	1998	9942.38277		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	LCA	Saint Lucia	1999	1999	4842.16479		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TZA	United Republic of Tanzania	2007	2007	239403.2864		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TZA	United Republic of Tanzania	2010	2010	316857.1496		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TZA	United Republic of Tanzania	2013	2013	536673.2696		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	1997	1997	2415607.904		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	1998	1998	2126508.264		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	1999	1999	1923406.336		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2000	2000	2021019.903		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2001	2001	2347249.653		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2002	2002	2408756.115		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2003	2003	2935050.268		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2004	2004	3200608.16		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2005	2005	3133369.825		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2006	2006	3095071.786		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2007	2007	3002189.043		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2008	2008	3046940.899		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2009	2009	2626638.027		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2010	2010	2663526.244		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2011	2011	2486699.232		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2012	2012	2539495.574		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2013	2013	2572846.138		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2014	2014	2052621.74		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UKR	Ukraine	2015	2015	1756870.303		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	VNM	Viet Nam	2002	2002	368254.8613		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	VNM	Viet Nam	2011	2011	702572.4367		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	VNM	Viet Nam	2013	2013	1529254.532		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BDI	Burundi	2007	2007	10608.13857		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BDI	Burundi	2008	2008	8561.10478		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BDI	Burundi	2009	2009	8292.30857		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BDI	Burundi	2010	2010	8201.28971		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BDI	Burundi	2011	2011	7533.01764		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRQ	Iraq	2007	2007	133248.2059		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRQ	Iraq	2008	2008	108795.9769		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRQ	Iraq	2009	2009	149339.4803		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRQ	Iraq	2010	2010	128344.5057		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRQ	Iraq	2011	2011	130236.7317		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRQ	Iraq	2014	2014	174325.2423		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	IRQ	Iraq	2015	2015	174475.4874		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NPL	Nepal	2008	2008	23719.38031		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NPL	Nepal	2009	2009	118187.4713		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NPL	Nepal	2010	2010	144408.506		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	OMN	Oman	2011	2011	165673.3353	+	National Estimation
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	OMN	Oman	2012	2012	276595.0556		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	OMN	Oman	2013	2013	234464.0526		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	OMN	Oman	2014	2014	302095.8611		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	OMN	Oman	2015	2015	369957.1143		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARE	United Arab Emirates	2011	2011	2191279.932		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARE	United Arab Emirates	2014	2014	3592292.314		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	ARE	United Arab Emirates	2015	2015	4638221.887		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TGO	Togo	2010	2010	17734.6366		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TGO	Togo	2012	2012	17201.52921		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	TGO	Togo	2014	2014	22999.3499		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CPV	Cabo Verde	2011	2011	1969.03879		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NAM	Namibia	2010	2010	23189.91241		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	NAM	Namibia	2014	2014	68752.97724		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRI	Puerto Rico	2009	2009	529069.8154		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PRI	Puerto Rico	2013	2013	471728.261		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	1996	1996	335251.3704		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	1997	1997	398510.4834		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	1998	1998	498006.8055		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	1999	1999	483549.8511		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2000	2000	534888.6559		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2001	2001	651803.0523		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2002	2002	660138.0451		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2003	2003	706991.6194		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2004	2004	773321.9971		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2005	2005	784110.6217		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2006	2006	706234.7685		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2007	2007	748526.6664		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2008	2008	894513.6677		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2009	2009	1114600.995		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2010	2010	1127856.7		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2011	2011	518849.1363		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2012	2012	800329.022		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	CUB	Cuba	2013	2013	958051.07		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BHR	Bahrain	2014	2014	52766.10708		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BMU	Bermuda	1997	1997	1411.13102		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BMU	Bermuda	2007	2007	6389.82092		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BMU	Bermuda	2008	2008	6787.39435		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BMU	Bermuda	2009	2009	6981.688		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BMU	Bermuda	2010	2010	6816.99514		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BMU	Bermuda	2011	2011	9416.4978		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BMU	Bermuda	2012	2012	8091.79049		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	BMU	Bermuda	2013	2013	6677.78188		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	QAT	Qatar	2012	2012	1126435.265		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2000	2000	198174.4586		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2001	2001	197801.4879		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2002	2002	174813.119		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2003	2003	166554.6919		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2004	2004	180711.8523		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2005	2005	169767.2764		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2006	2006	171829.3763		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2007	2007	183192.3276		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2008	2008	177918.5969		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2009	2009	201882.6056		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2010	2010	210502.7587		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2011	2011	227695.1013		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2012	2012	255347.3287		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2013	2013	268296.0807		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2014	2014	291720.4472		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	UZB	Uzbekistan	2015	2015	339462.2559		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PSE	Palestine	2007	2007	26011.48235		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PSE	Palestine	2008	2008	18646.36681		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PSE	Palestine	2009	2009	54735.60496		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PSE	Palestine	2010	2010	55763.29665		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	PSE	Palestine	2013	2013	82196.60778		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MMR	Myanmar	1997	1997	24020.16053		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MMR	Myanmar	1998	1998	14517.21511		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MMR	Myanmar	1999	1999	20768.92693		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MMR	Myanmar	2000	2000	60621.89078		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MMR	Myanmar	2001	2001	42651.79521		
+EXPPPP_CONST	GERD in '000 PPP$ (in constant prices - 2005)	MMR	Myanmar	2002	2002	108458.1495		

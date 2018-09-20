@@ -1,0 +1,663 @@
+INDICATOR	Indicator	LOCATION	Country	TIME	Time	Value	Flag Codes	Flags
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUS	Australia	1996	1996	2047787.034		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUS	Australia	1998	1998	2104468.989		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2000	2000	2304085.505		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2002	2002	2478039.053		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2004	2004	2698780.039		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2006	2006	3220401.006		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2008	2008	3548368.284		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUT	Austria	1998	1998	744799.1132		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2002	2002	982194.142		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2004	2004	1066613.675		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2006	2006	1184367.114		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2007	2007	1286245.112		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2009	2009	1465050.94		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2011	2011	1606560.303		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2013	2013	1776683.566		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	1996	1996	296432.3679		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	1997	1997	314231.3809		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	1998	1998	330166.5763		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	1999	1999	382759.2974		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2000	2000	480782.6357		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2001	2001	526312.4957		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2002	2002	518982.6824		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2003	2003	578754.838		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2004	2004	635935.0821		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2005	2005	801956.7117		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2006	2006	968092.0978		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2007	2007	1063614.047		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2008	2008	1051299.657		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2009	2009	1063883.692		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2010	2010	1011993.564		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2011	2011	1151553.13		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2012	2012	1365634.823		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2013	2013	1587715.468		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2014	2014	1594493.907		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2003	2003	790648.9686		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2005	2005	828818.5293		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2007	2007	598287.19		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2009	2009	904855.2055		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2010	2010	1026851.649		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2011	2011	1038482.362		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2012	2012	1031448.236		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2013	2013	1084290.634		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	1996	1996	7603224.303		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	1997	1997	7528782.351		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	1998	1998	8667531.837		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	1999	1999	8778896.103		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2000	2000	8760322.444		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2001	2001	9012753.403		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2002	2002	9310932.535		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2003	2003	9412055.777		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2004	2004	9433615.73		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2005	2005	9466430.54		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2006	2006	9673460.077		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2007	2007	10190543.22		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2008	2008	10587151.13		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2009	2009	11353956.9		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2010	2010	10972399.11		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2011	2011	10933329.21		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2012	2012	11046287.95		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2013	2013	11250949.59		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	FRA	France	2014	2014	11357488.4		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2000	2000	299106.7555		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2001	2001	387090.9032		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2002	2002	429730.139		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2003	2003	448131.3762		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2004	2004	467880.2299		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2005	2005	425855.9797		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2006	2006	417683.575		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2007	2007	383120.7007		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2008	2008	391688.811		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2009	2009	427850.3679		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2010	2010	425727.2648		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2011	2011	432239.8328		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2012	2012	425274.2399		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2013	2013	472011.9688		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2014	2014	455540.5366		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	1997	1997	29584.14553		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	1999	1999	34194.13626		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2001	2001	40812.87881		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2002	2002	40317.51148		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2003	2003	42622.02805		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2005	2005	55839.38717		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2006	2006	62327.763		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2007	2007	59521.38028		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2008	2008	59580.83743		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2009	2009	54036.79105		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2011	2011	73861.24038		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2013	2013	58841.2895		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2014	2014	60171.39337		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2015	2015	61559.69603		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2002	2002	240583.6054		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2003	2003	331468.4022		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2004	2004	427881.4516		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2005	2005	479387.8069		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2006	2006	492785.302		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2007	2007	503301.0833		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2008	2008	613682.0161		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2009	2009	562298.9592		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2010	2010	532864.44		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2011	2011	456480.8647		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2013	2013	508608.4551		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	1996	1996	3211318.081		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2005	2005	5054149.092		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2006	2006	5541919.16		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2007	2007	5333683.445		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2008	2008	5496249.305		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2009	2009	5510047.25		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2010	2010	5390323.406		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2011	2011	5012431.478		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2012	2012	5398861.201		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2013	2013	5466024.319		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2014	2014	5644515.092		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	1996	1996	12189296.2		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	1997	1997	12474844.13		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	1998	1998	12867444.11		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	1999	1999	13154678.73		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2000	2000	13722236.65		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2001	2001	13858189.48		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2002	2002	14616880.76		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2003	2003	14943818.94		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2004	2004	14437824.33		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2005	2005	15443209.64		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2006	2006	15660769.19		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2007	2007	16089797.11		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2008	2008	15674516.9		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2009	2009	15711121.03		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2010	2010	15470488.84		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2011	2011	16154402.14		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2012	2012	16478695.03		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2013	2013	17594883.32		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2014	2014	17585601.4		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2015	2015	16714133		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	1996	1996	2282401.854		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	1997	1997	2468789.921		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	1998	1998	2306996.95		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	1999	1999	2390289.901		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2000	2000	2543524.463		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2001	2001	2845873.641		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2002	2002	3236195.595		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2003	2003	3638196.556		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2004	2004	4353377.839		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2005	2005	4698624.405		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2006	2006	5259181.813		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2007	2007	6097274.917		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2008	2008	6666740.941		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2009	2009	7964297.186		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2010	2010	9007390.134		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2011	2011	10001116.24		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2012	2012	11149829		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2013	2013	11613477.78		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2014	2014	12168503.38		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2015	2015	12031496.93		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2003	2003	1220162.791		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2007	2007	1246142.503		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2009	2009	1847964.256		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2010	2010	2313121.638		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2011	2011	2363429.489		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2012	2012	2263564.009		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2013	2013	2264798.704		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2014	2014	2490349.622		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2015	2015	2609583.079		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2001	2001	453755.7426		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2003	2003	395826.1665		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2005	2005	358957.6547		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2007	2007	392765.876		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2009	2009	377657.0555		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2011	2011	362743.6082		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2013	2013	350259.8964		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NOR	Norway	2003	2003	635629.5254		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NOR	Norway	2005	2005	650745.9465		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2005	2005	882418.2973		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2006	2006	921137.7053		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2007	2007	992858.3557		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2008	2008	1116743.419		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2009	2009	1309309.761		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2010	2010	1422708.369		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2011	2011	1392472.102		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2012	2012	1621366.816		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2013	2013	2204076.717		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	POL	Poland	2014	2014	2357487.19		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2000	2000	413338.7496		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2001	2001	430190.2254		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2002	2002	419694.0513		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2003	2003	412387.3664		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2004	2004	437798.3638		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2005	2005	457622.7044		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2006	2006	487891.8637		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2007	2007	516889.6271		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2008	2008	709856.5941		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2009	2009	817139.129		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2010	2010	853065.8518		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2011	2011	714077.3492		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2012	2012	670442.48		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2013	2013	692526.727		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2014	2014	691474.7529		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2000	2000	114287.784		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2001	2001	117683.6373		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2002	2002	125959.8104		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2003	2003	166120.1717		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2004	2004	189134.2531		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2005	2005	205847.1973		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2006	2006	218388.1078		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2007	2007	222353.6765		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2008	2008	229089.751		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2009	2009	235902.7468		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2010	2010	320971.4334		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2011	2011	375191.2162		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2012	2012	448390.143		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2013	2013	433642.2016		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2014	2014	487091.8318		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ESP	Spain	2013	2013	3508277.749		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ESP	Spain	2014	2014	3425436.735		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	1996	1996	1851621.189		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	2000	2000	1817598.843		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	2004	2004	2243668.111		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	2008	2008	2435700.955		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	2012	2012	3119425.347		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2007	2007	5266183.299		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2008	2008	5290263.925		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2009	2009	5576472.593		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2010	2010	5929840.091		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2011	2011	5549498.021		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2012	2012	5522676.279		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2013	2013	5809355.202		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2014	2014	6090051.382		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	1996	1996	536817.5051		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	1997	1997	535532.5962		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	1998	1998	638154.1641		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	1999	1999	564767.1095		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2000	2000	605086.5375		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2001	2001	584082.3412		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2002	2002	427523.5713		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2003	2003	479695.8917		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2004	2004	490535.4328		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2005	2005	607726.6873		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2006	2006	740687.4636		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2007	2007	858038.338		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2008	2008	873901.5311		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2009	2009	992278.8876		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2010	2010	1176095.95		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2011	2011	1229451.692		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2012	2012	1465461.74		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2013	2013	1449761.161		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2014	2014	1452210.734		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	1996	1996	53559.48246		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	1997	1997	48326.81162		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	1998	1998	87743.34162		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	1999	1999	95752.35062		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2000	2000	82273.93384		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2001	2001	80463.03713		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2002	2002	88391.14952		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2003	2003	121598.2165		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2004	2004	105674.8485		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2005	2005	107270.6128		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2006	2006	97423.22062		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2007	2007	97159.61971		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2008	2008	103475.8509		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2009	2009	118775.9098		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2010	2010	84019.09735		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2011	2011	87767.26286		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2012	2012	75415.79172		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2013	2013	74569.67681		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2014	2014	86523.34525		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	1996	1996	852236.2205		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	1997	1997	1136960.107		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	1998	1998	1210328.757		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	1999	1999	1435483.475		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2000	2000	1938881.964		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2001	2001	2260622.298		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2002	2002	2982570.064		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2003	2003	3452752.027		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2004	2004	4315378.195		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2005	2005	4650566.247		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2006	2006	5311912.019		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2007	2007	5520874.756		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2008	2008	6478541.145		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2009	2009	7940423.229		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2010	2010	8913868.622		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2011	2011	10459922.25		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2012	2012	12373461.1		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2013	2013	13466530.11		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2014	2014	14766005.95		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CHN	China	2015	2015	17310071.3		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2002	2002	191087.9905		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2003	2003	210373.7455		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2004	2004	220252.5463		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2005	2005	184414.1493		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2006	2006	179768.9392		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2007	2007	199350.7475		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2008	2008	226912.9324		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2009	2009	231459.6779		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2010	2010	182135.8906		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2011	2011	182127.8095		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2012	2012	181026.3938		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2013	2013	176519.9023		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2014	2014	179484.9773		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	1998	1998	6092.59688		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	1999	1999	6285.11217		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2000	2000	6604.54631		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2001	2001	7242.0757		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2002	2002	8860.58719		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2003	2003	11250.81612		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2004	2004	13063.63581		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2005	2005	15043.75833		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2006	2006	15859.26047		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2007	2007	17759.9236		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2008	2008	17404.13495		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2009	2009	23455.34087		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2010	2010	24353.42254		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2011	2011	24818.32956		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2012	2012	21740.03359		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2013	2013	20713.42203		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2014	2014	20925.90561		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	1996	1996	13698.01795		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	1997	1997	13864.06295		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	1998	1998	16921.08129		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2001	2001	8828.26236		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2002	2002	11026.93228		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2003	2003	11679.99147		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2006	2006	31232.72717		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2007	2007	32587.95267		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2008	2008	85099.15162		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2009	2009	20872.41817		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2010	2010	24192.30338		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2011	2011	31236.47473		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2012	2012	47679.1963		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2013	2013	52744.40881		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2014	2014	76779.36699		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	1998	1998	27974.66799		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	1999	1999	32487.06105		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2000	2000	34782.48015		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2001	2001	40867.7075		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2002	2002	49155.91017		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2003	2003	53857.28019		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2004	2004	56084.41693		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2005	2005	61254.29144		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2006	2006	76728.12941		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2007	2007	72614.3234		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2008	2008	84365.54076		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2009	2009	81616.37004		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2010	2010	94317.25766		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2011	2011	104318.7579		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2012	2012	111122.2541		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2013	2013	116743.751		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2014	2014	112929.9647		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ETH	Ethiopia	2010	2010	40004.49592		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ETH	Ethiopia	2013	2013	82636.61393		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GHA	Ghana	2007	2007	35237.35534		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GHA	Ghana	2010	2010	42235.85087		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2005	2005	4187.73889		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2006	2006	10155.73333		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2007	2007	8196.61564		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2008	2008	7632.48027		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2009	2009	2650.35265		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2010	2010	3229.69675		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2011	2011	3658.73552		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2012	2012	2709.28481		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	1998	1998	876001.9716		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	1999	1999	968064.3104		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2000	2000	1007529.867		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2001	2001	1066690.405		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2002	2002	1084921.956		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2003	2003	1097071.998		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2004	2004	1069813.341		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2005	2005	1114373.206		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2006	2006	1201355.583		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2007	2007	1243822.481		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2008	2008	1231382.647		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2009	2009	1055664.168		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2010	2010	1087535.903		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2011	2011	1119165.915		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2012	2012	1176512.612		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2013	2013	1218318.132		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2000	2000	26927.38878		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2001	2001	28063.44163		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2002	2002	29465.67397		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2003	2003	29833.00532		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2004	2004	32919.18575		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2005	2005	33062.53217		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2006	2006	38383.73965		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2007	2007	50135.19031		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2008	2008	69169.2263		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2009	2009	39749.88797		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2010	2010	58165.14073		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2011	2011	65967.04058		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2012	2012	72013.72938		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2013	2013	51415.54015		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2014	2014	71343.93858		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	1996	1996	54338.68087		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	1997	1997	66821.43863		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	1998	1998	82583.05079		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	1999	1999	90044.89637		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2000	2000	81645.63424		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2001	2001	83799.48271		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2002	2002	102178.6072		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2003	2003	98921.84497		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2004	2004	120307.7763		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2005	2005	125056.636		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2006	2006	132554.6893		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2007	2007	142251.9776		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2008	2008	157255.764		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2009	2009	145887.6772		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2010	2010	134618.7682		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2011	2011	187048.6746		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2012	2012	159977.0215		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2013	2013	171274.5802		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2014	2014	170918.0179		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2005	2005	25008.65097	¢Ô	UIS Estimation
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2006	2006	20965.25188	¢Ô	UIS Estimation
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2007	2007	21837.46798	¢Ô	UIS Estimation
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2008	2008	24101.28806		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2009	2009	25031.21278		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2010	2010	12606.37908		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2011	2011	12226.1011		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2007	2007	11634.27962		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2008	2008	22976.00732		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2009	2009	20543.69861		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2010	2010	14588.20431		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2011	2011	14056.26277		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2013	2013	15915.10183		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2014	2014	17693.86799		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2015	2015	21922.07385		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	1996	1996	37105.96464		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	1997	1997	37106.23376		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	1998	1998	34246.11544		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	1999	1999	21168.50177		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2000	2000	20139.95361		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2001	2001	26255.31782		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2002	2002	29705.81806		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2003	2003	33363.47343		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2004	2004	21580.50738		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2005	2005	35148.72149		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2006	2006	41431.11389		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2007	2007	38852.76981		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2008	2008	37355.99249		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2009	2009	8167.99555		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2010	2010	10724.28586		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2011	2011	21427.13163		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2012	2012	12764.02726		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2013	2013	13419.10403		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2001	2001	3406.69442		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2002	2002	2906.55781		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2003	2003	2547.82692		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2004	2004	2689.53479		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2008	2008	3249.23067		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2011	2011	3674.57617		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2012	2012	4351.042		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2014	2014	5563.58379		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2015	2015	9030.69168		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2007	2007	571801.8586		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2008	2008	730385.399		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2009	2009	471675.0338		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2010	2010	464018.2676		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2011	2011	517199.287		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2012	2012	486635.449		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2013	2013	388049.0299		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2014	2014	350582.4869		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	1996	1996	235107.8795		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	1997	1997	297761.7861		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	1998	1998	341412.2979		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	1999	1999	420799.1823		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2000	2000	396452.953		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2001	2001	569225.4674		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2002	2002	609230.0949		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2003	2003	699048.5		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2004	2004	866882.5967		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2005	2005	1047797.771		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2006	2006	1126090.635		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2007	2007	1134091.839		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2008	2008	1265922.603		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2009	2009	1237257.327		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2010	2010	1352678.587		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2011	2011	1418161.667		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2012	2012	1405709.087		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2013	2013	1544956.341		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2014	2014	1674324.431		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2001	2001	101055.0986		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2002	2002	137816.1263		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2003	2003	64453.37615		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2004	2004	70114.07303		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2005	2005	96334.41779		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2006	2006	90949.8795		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2007	2007	98417.61378		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2008	2008	109048.0641		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2009	2009	130128.5513		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2010	2010	141559.2554		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2011	2011	166594.7957		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2012	2012	175256.8296		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2013	2013	179051.43		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2014	2014	224359.7063		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2001	2001	792586.107		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2003	2003	782404.3048		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2004	2004	674668.8453		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2005	2005	757823.1189		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2006	2006	827593.1333		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2007	2007	947106.9717		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2008	2008	963924.4218		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2009	2009	1029768.845		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2010	2010	963326.6422		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2011	2011	1014538.471		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2012	2012	1068336.438		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2013	2013	1014151.117		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2005	2005	8032.34225		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2006	2006	16341.16393		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2007	2007	26744.65897		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2008	2008	33444.04691		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2009	2009	53554.82303		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2010	2010	76640.99077		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2005	2005	81803.41042		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2006	2006	83247.5135		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2007	2007	183048.8986		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2008	2008	213257.3086		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2009	2009	270380.2574		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2010	2010	245603.4036		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2011	2011	227812.0222		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2012	2012	233173.0302		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2013	2013	240146.6611		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2014	2014	229121.6499		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2015	2015	236512.3847		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	ALB	Albania	2008	2008	9106.46625		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2007	2007	50944.0621		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2008	2008	49773.77742		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2009	2009	104676.3821		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2010	2010	130639.2618		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2011	2011	148255.3543		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2013	2013	149475.1071		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2014	2014	150866.8617		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2015	2015	164715.4361		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	1999	1999	47680.1459		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2000	2000	46145.25069		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2001	2001	46947.84327		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2002	2002	44391.90579		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2009	2009	55726.89351		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2006	2006	7105.15141		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2007	2007	7031.88221		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2008	2008	10751.64278		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2009	2009	15661.74258		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2012	2012	10748.43877		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2013	2013	15350.82764		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2014	2014	10329.702		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	1998	1998	14857.82847		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2007	2007	9027.1085		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2008	2008	14210.96496		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2009	2009	11539.38968		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2010	2010	8363.11734		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2011	2011	3272.94173		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2012	2012	4359.3741		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2013	2013	5235.68254		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2014	2014	9707.13893		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IND	India	1998	1998	1938978.738		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IND	India	1999	1999	2213006.061		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IND	India	2005	2005	4607529.89		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IND	India	2007	2007	4720485.288		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IND	India	2008	2008	5503337.057		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IND	India	2009	2009	5898980.863		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2006	2006	308924.3748		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2008	2008	494056.9644		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2009	2009	726251.3835		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2010	2010	980217.5903		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2011	2011	987425.4623		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2012	2012	2209698.43		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2014	2014	1391904.792		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2015	2015	1862316.866		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2005	2005	17091.81469		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2006	2006	18808.97716		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2007	2007	20866.3949		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2008	2008	21622.82353		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2009	2009	20964.28998		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2010	2010	26923.84211		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2011	2011	28442.96718		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2012	2012	47950.34379		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2013	2013	48853.52155		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2014	2014	47582.29339		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MOZ	Mozambique	2008	2008	2435.55859		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MOZ	Mozambique	2010	2010	22884.5123		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MOZ	Mozambique	2015	2015	25531.99471		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NGA	Nigeria	2007	2007	470378.5953		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LKA	Sri Lanka	2008	2008	49168.46396		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LKA	Sri Lanka	2010	2010	22884.14689		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LKA	Sri Lanka	2013	2013	18767.76757		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	TZA	United Republic of Tanzania	2007	2007	28273.75607		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	TZA	United Republic of Tanzania	2013	2013	102107.8989	¢Ô	UIS Estimation
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2007	2007	253835.4882		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2009	2009	254456.162		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2011	2011	691360.1084		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2014	2014	946811.8392		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2015	2015	853937.2		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2006	2006	682962.9722		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2007	2007	734878.4281		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2008	2008	732427.1295		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2009	2009	643499.3521		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2010	2010	643969.9575		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2011	2011	570586.065		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2013	2013	621986.4931		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2014	2014	494345.2549		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2015	2015	353561.364		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	URY	Uruguay	2002	2002	9375.88183		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	URY	Uruguay	2006	2006	20699.57961		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2007	2007	8810.57982		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2008	2008	12439.35761		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2009	2009	17867.41105		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2010	2010	15671.48082		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2011	2011	16748.68745		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2014	2014	44069.59895		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2015	2015	109697.0936		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2011	2011	40485.50776	+	National Estimation
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2012	2012	136920.9783		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2013	2013	107769.4364		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2014	2014	104858.2162		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2015	2015	231855.9743		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PER	Peru	1997	1997	812.76722		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PER	Peru	1998	1998	56372.87168		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PER	Peru	1999	1999	55672.92146		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	TGO	Togo	2010	2010	6668.43559		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	TGO	Togo	2012	2012	8120.96546		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	TGO	Togo	2014	2014	11784.78698		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KEN	Kenya	2010	2010	411813.5594		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CPV	Cabo Verde	2011	2011	464.89381		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GRC	Greece	2011	2011	500496.2561		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GRC	Greece	2013	2013	632938.3842		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NLD	Netherlands	2011	2011	3723820.549		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NLD	Netherlands	2012	2012	3513429.127		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NLD	Netherlands	2013	2013	3591485.795		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NLD	Netherlands	2014	2014	3621705.19		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	MUS	Mauritius	2012	2012	1673.51154		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	1997	1997	79702.09669		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	1998	1998	19920.27222		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	1999	1999	58025.98213		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2000	2000	32093.31935		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2001	2001	65180.30523		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2002	2002	72420.20748		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2003	2003	70665.35077		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2004	2004	77298.59162		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2005	2005	78344.1014		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2006	2006	70684.14994		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2007	2007	74969.80697		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2008	2008	89627.68352		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2009	2009	111547.7024		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2010	2010	112814.5228		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2011	2011	51995.54245		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2012	2012	104005.1483		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2013	2013	143629.1746		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KAZ	Kazakhstan	2011	2011	88928.51687		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KAZ	Kazakhstan	2013	2013	176137.2657		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KAZ	Kazakhstan	2014	2014	139656.3549		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KAZ	Kazakhstan	2015	2015	142350.9235		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PRI	Puerto Rico	2013	2013	97337.25283		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BHR	Bahrain	2014	2014	13338.76962		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	QAT	Qatar	2012	2012	305694.9546		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BEL	Belgium	2013	2013	1851264.399		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	GEO	Georgia	2013	2013	5788.48632		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UZB	Uzbekistan	2014	2014	62720.93727		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	UZB	Uzbekistan	2015	2015	66354.64556		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	LSO	Lesotho	2015	2015	873.05232		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	BIH	Bosnia and Herzegovina	2015	2015	13430.42802		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PSE	Palestine	2007	2007	8482.34431		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PSE	Palestine	2008	2008	6080.58094		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PSE	Palestine	2009	2009	12999.70642		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	PSE	Palestine	2010	2010	11290.95971		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	VNM	Viet Nam	2013	2013	292106.0481		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	NAM	Namibia	2014	2014	13377.68214		
+EXPPPP_CONST_TA_BARES	GERD - Basic research (in '000 PPP$, constant prices - 2005)	KHM	Cambodia	2015	2015	7281.3877		

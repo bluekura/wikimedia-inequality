@@ -1,0 +1,1385 @@
+	lang_code	traffic_rank	Country	Share	ISO2	ISO3
+0	en	1	United States	0.414	US	USA
+1	en	2	United Kingdom	0.096	GB	GBR
+2	en	3	India	0.076	IN	IND
+3	en	4	Canada	0.045	CA	CAN
+4	en	5	Iran	0.035	IR	IRN
+5	en	6	Australia	0.031	AU	AUS
+6	en	7	Germany	0.02	DE	DEU
+7	en	8	Pakistan	0.019	PK	PAK
+8	en	9	Philippines	0.015	PH	PHL
+9	en	10	France	0.013	FR	FRA
+10	en	11	Netherlands	0.011	NL	NLD
+11	en	12	China	0.01	CN	CHN
+12	en	13	Ireland	0.008	IE	IRL
+13	en	14	Malaysia	0.008	MY	MYS
+14	en	15	Indonesia	0.007	ID	IDN
+15	en	16	Italy	0.007	IT	ITA
+16	en	17	Sweden	0.007	SE	SWE
+17	en	18	Singapore	0.007	SG	SGP
+18	en	19	Russia	0.007	RU	RUS
+19	en	20	Brazil	0.006	BR	BRA
+20	en	21	South Africa	0.006	ZA	ZAF
+21	en	22	Poland	0.006	PL	POL
+22	en	23	Spain	0.006	ES	ESP
+23	en	24	New Zealand	0.006	NZ	NZL
+24	en	25	Japan	0.005	JP	JPN
+25	en	26	Nigeria	0.005	NG	NGA
+26	en	27	Other	0.124	ZZ	ZZZ
+27	ja	1	Japan	0.963	JP	JPN
+28	ja	2	United States	0.009	US	USA
+29	ja	3	China	0.005	CN	CHN
+30	ja	4	Other	0.023	ZZ	ZZZ
+31	es	1	Mexico	0.2	MX	MEX
+32	es	2	Spain	0.187	ES	ESP
+33	es	3	Argentina	0.127	AR	ARG
+34	es	4	Colombia	0.116	CO	COL
+35	es	5	Chile	0.06	CL	CHL
+36	es	6	Peru	0.052	PE	PER
+37	es	7	United States	0.049	US	USA
+38	es	8	Venezuela	0.027	VE	VEN
+39	es	9	Ecuador	0.025	EC	ECU
+40	es	10	Bolivia	0.017	BO	BOL
+41	es	11	Guatemala	0.017	GT	GTM
+42	es	12	Dominican Republic	0.015	DO	DOM
+43	es	13	Uruguay	0.013	UY	URY
+44	es	14	Panama	0.011	PA	PAN
+45	es	15	Costa Rica	0.011	CR	CRI
+46	es	16	El Salvador	0.009	SV	SLV
+47	es	17	Honduras	0.008	HN	HND
+48	es	18	Paraguay	0.008	PY	PRY
+49	es	19	Canada	0.006	CA	CAN
+50	es	20	Germany	0.005	DE	DEU
+51	es	21	Nicaragua	0.005	NI	NIC
+52	es	22	Other	0.032	ZZ	ZZZ
+53	de	1	Germany	0.775	DE	DEU
+54	de	2	Austria	0.077	AT	AUT
+55	de	3	Switzerland	0.055	CH	CHE
+56	de	4	United States	0.013	US	USA
+57	de	5	Unknown8	0.006	ZX	ZXZ
+58	de	6	Italy	0.006	IT	ITA
+59	de	7	France	0.006	FR	FRA
+60	de	8	Netherlands	0.006	NL	NLD
+61	de	9	United Kingdom	0.005	GB	GBR
+62	de	10	Other	0.051	ZZ	ZZZ
+63	ru	1	Russia	0.589	RU	RUS
+64	ru	2	Ukraine	0.109	UA	UKR
+65	ru	3	Belarus	0.034	BY	BLR
+66	ru	4	Kazakhstan	0.032	KZ	KAZ
+67	ru	5	United States	0.023	US	USA
+68	ru	6	Germany	0.02	DE	DEU
+69	ru	7	France	0.014	FR	FRA
+70	ru	8	India	0.011	IN	IND
+71	ru	9	Netherlands	0.009	NL	NLD
+72	ru	10	Canada	0.008	CA	CAN
+73	ru	11	Israel	0.007	IL	ISR
+74	ru	12	Brazil	0.007	BR	BRA
+75	ru	13	United Kingdom	0.006	GB	GBR
+76	ru	14	Azerbaijan	0.005	AZ	AZE
+77	ru	15	Uzbekistan	0.005	UZ	UZB
+78	ru	16	Philippines	0.005	PH	PHL
+79	ru	17	Moldova	0.005	MD	MDA
+80	ru	18	Latvia	0.005	LV	LVA
+81	ru	19	Italy	0.005	IT	ITA
+82	ru	20	Other	0.101	ZZ	ZZZ
+83	fr	1	France	0.696	FR	FRA
+84	fr	2	Canada	0.051	CA	CAN
+85	fr	3	Belgium	0.048	BE	BEL
+86	fr	4	Switzerland	0.028	CH	CHE
+87	fr	5	United States	0.02	US	USA
+88	fr	6	Morocco	0.017	MA	MAR
+89	fr	7	Algeria	0.016	DZ	DZA
+90	fr	8	Germany	0.01	DE	DEU
+91	fr	9	Tunisia	0.009	TN	TUN
+92	fr	10	United Kingdom	0.006	GB	GBR
+93	fr	11	Cote d'Ivoire	0.006	CI	CIV
+94	fr	12	Spain	0.006	ES	ESP
+95	fr	13	Italy	0.005	IT	ITA
+96	fr	14	Congo Dem. Rep.	0.005	CD	COD
+97	fr	15	Other	0.077	ZZ	ZZZ
+98	it	1	Italy	0.894	IT	ITA
+99	it	2	Germany	0.016	DE	DEU
+100	it	3	United States	0.016	US	USA
+101	it	4	Switzerland	0.01	CH	CHE
+102	it	5	France	0.008	FR	FRA
+103	it	6	United Kingdom	0.007	GB	GBR
+104	it	7	Spain	0.006	ES	ESP
+105	it	8	Other	0.043	ZZ	ZZZ
+106	zh	1	Taiwan	0.484	TW	TWN
+107	zh	2	Hong Kong	0.182	HK	HKG
+108	zh	3	United States	0.121	US	USA
+109	zh	4	Japan	0.033	JP	JPN
+110	zh	5	Malaysia	0.03	MY	MYS
+111	zh	6	China	0.018	CN	CHN
+112	zh	7	Singapore	0.017	SG	SGP
+113	zh	8	Australia	0.017	AU	AUS
+114	zh	9	Canada	0.017	CA	CAN
+115	zh	10	United Kingdom	0.013	GB	GBR
+116	zh	11	Germany	0.01	DE	DEU
+117	zh	12	Macao	0.009	MO	MAC
+118	zh	13	Unknown8	0.006	ZX	ZXZ
+119	zh	14	Brazil	0.005	BR	BRA
+120	zh	15	France	0.005	FR	FRA
+121	zh	16	Other	0.033	ZZ	ZZZ
+122	pt	1	Brazil	0.747	BR	BRA
+123	pt	2	United States	0.09	US	USA
+124	pt	3	Portugal	0.064	PT	PRT
+125	pt	4	Angola	0.044	AO	AGO
+126	pt	5	Mozambique	0.011	MZ	MOZ
+127	pt	6	Germany	0.006	DE	DEU
+128	pt	7	France	0.005	FR	FRA
+129	pt	8	Other	0.033	ZZ	ZZZ
+130	pl	1	Poland	0.866	PL	POL
+131	pl	2	United Kingdom	0.023	GB	GBR
+132	pl	3	Germany	0.022	DE	DEU
+133	pl	4	Italy	0.016	IT	ITA
+134	pl	5	United States	0.015	US	USA
+135	pl	6	Netherlands	0.006	NL	NLD
+136	pl	7	France	0.005	FR	FRA
+137	pl	8	Other	0.047	ZZ	ZZZ
+138	ar	1	Saudi Arabia	0.233	SA	SAU
+139	ar	2	Egypt	0.161	EG	EGY
+140	ar	3	Morocco	0.08	MA	MAR
+141	ar	4	Algeria	0.07	DZ	DZA
+142	ar	5	Iraq	0.057	IQ	IRQ
+143	ar	6	United States	0.045	US	USA
+144	ar	7	Jordan	0.039	JO	JOR
+145	ar	8	Kuwait	0.031	KW	KWT
+146	ar	9	United Arab Emirates	0.027	AE	ARE
+147	ar	10	Tunisia	0.023	TN	TUN
+148	ar	11	Sudan	0.023	SD	SDN
+149	ar	12	Syria	0.022	SY	SYR
+150	ar	13	Germany	0.021	DE	DEU
+151	ar	14	Palestinian	0.017	PS	PSE
+152	ar	15	Lebanon	0.015	LB	LBN
+153	ar	16	Yemen	0.012	YE	YEM
+154	ar	17	Oman	0.012	OM	OMN
+155	ar	18	Libya	0.012	LY	LBY
+156	ar	19	Israel	0.012	IL	ISR
+157	ar	20	Qatar	0.01	QA	QAT
+158	ar	21	Bahrain	0.008	BH	BHR
+159	ar	22	United Kingdom	0.007	GB	GBR
+160	ar	23	France	0.007	FR	FRA
+161	ar	24	Ireland	0.006	IE	IRL
+162	ar	25	Sweden	0.005	SE	SWE
+163	ar	26	Other	0.045	ZZ	ZZZ
+164	nl	1	Netherlands	0.678	NL	NLD
+165	nl	2	Belgium	0.208	BE	BEL
+166	nl	3	Germany	0.022	DE	DEU
+167	nl	4	United States	0.016	US	USA
+168	nl	5	France	0.012	FR	FRA
+169	nl	6	United Kingdom	0.007	GB	GBR
+170	nl	7	Spain	0.006	ES	ESP
+171	nl	8	Italy	0.005	IT	ITA
+172	nl	9	Other	0.046	ZZ	ZZZ
+173	id	1	Indonesia	0.758	ID	IDN
+174	id	2	United States	0.198	US	USA
+175	id	3	Malaysia	0.012	MY	MYS
+176	id	4	Other	0.032	ZZ	ZZZ
+177	fa	1	Iran	0.815	IR	IRN
+178	fa	2	United States	0.048	US	USA
+179	fa	3	Germany	0.047	DE	DEU
+180	fa	4	United Kingdom	0.016	GB	GBR
+181	fa	5	Netherlands	0.011	NL	NLD
+182	fa	6	Romania	0.011	RO	ROU
+183	fa	7	Afghanistan	0.008	AF	AFG
+184	fa	8	France	0.007	FR	FRA
+185	fa	9	United Arab Emirates	0.006	AE	ARE
+186	fa	10	Canada	0.006	CA	CAN
+187	fa	11	Other	0.025	ZZ	ZZZ
+188	sv	1	Sweden	0.875	SE	SWE
+189	sv	2	Finland	0.021	FI	FIN
+190	sv	3	Germany	0.021	DE	DEU
+191	sv	4	United States	0.018	US	USA
+192	sv	5	Norway	0.01	NO	NOR
+193	sv	6	France	0.006	FR	FRA
+194	sv	7	Denmark	0.006	DK	DNK
+195	sv	8	Other	0.043	ZZ	ZZZ
+196	ko	1	South Korea	0.87	KR	KOR
+197	ko	2	United States	0.05	US	USA
+198	ko	3	Germany	0.015	DE	DEU
+199	ko	4	Japan	0.012	JP	JPN
+200	ko	5	China	0.01	CN	CHN
+201	ko	6	Canada	0.006	CA	CAN
+202	ko	7	Other	0.037	ZZ	ZZZ
+203	th	1	Thailand	0.951	TH	THA
+204	th	2	United States	0.018	US	USA
+205	th	3	Laos	0.006	LA	LAO
+206	th	4	Other	0.025	ZZ	ZZZ
+207	fi	1	Finland	0.931	FI	FIN
+208	fi	2	United States	0.016	US	USA
+209	fi	3	Germany	0.01	DE	DEU
+210	fi	4	France	0.006	FR	FRA
+211	fi	5	Sweden	0.006	SE	SWE
+212	fi	6	Estonia	0.005	EE	EST
+213	fi	7	Other	0.026	ZZ	ZZZ
+214	vi	1	Vietnam	0.918	VN	VNM
+215	vi	2	United States	0.038	US	USA
+216	vi	3	Japan	0.006	JP	JPN
+217	vi	4	Germany	0.006	DE	DEU
+218	vi	5	Other	0.032	ZZ	ZZZ
+219	cs	1	Czech Republic	0.859	CZ	CZE
+220	cs	2	Slovakia	0.047	SK	SVK
+221	cs	3	United States	0.019	US	USA
+222	cs	4	Germany	0.016	DE	DEU
+223	cs	5	United Kingdom	0.007	GB	GBR
+224	cs	6	France	0.005	FR	FRA
+225	cs	7	Poland	0.005	PL	POL
+226	cs	8	Other	0.042	ZZ	ZZZ
+227	he	1	Israel	0.914	IL	ISR
+228	he	2	United States	0.032	US	USA
+229	he	3	Germany	0.011	DE	DEU
+230	he	4	France	0.006	FR	FRA
+231	he	5	United Kingdom	0.005	GB	GBR
+232	he	6	Other	0.032	ZZ	ZZZ
+233	hu	1	Hungary	0.798	HU	HUN
+234	hu	2	Romania	0.041	RO	ROU
+235	hu	3	United States	0.026	US	USA
+236	hu	4	Germany	0.025	DE	DEU
+237	hu	5	Slovakia	0.018	SK	SVK
+238	hu	6	United Kingdom	0.013	GB	GBR
+239	hu	7	Austria	0.01	AT	AUT
+240	hu	8	Serbia	0.008	RS	SRB
+241	hu	9	France	0.007	FR	FRA
+242	hu	10	Other	0.054	ZZ	ZZZ
+243	hi	1	India	0.792	IN	IND
+244	hi	2	United States	0.194	US	USA
+245	hi	3	Other	0.014	ZZ	ZZZ
+246	tr	1	United States	0.327	US	USA
+247	tr	2	France	0.161	FR	FRA
+248	tr	3	Germany	0.125	DE	DEU
+249	tr	4	Turkey	0.075	TR	TUR
+250	tr	5	Azerbaijan	0.056	AZ	AZE
+251	tr	6	Netherlands	0.048	NL	NLD
+252	tr	7	Hong Kong	0.03	HK	HKG
+253	tr	8	United Kingdom	0.02	GB	GBR
+254	tr	9	China	0.015	CN	CHN
+255	tr	10	Unknown8	0.009	ZX	ZXZ
+256	tr	11	Canada	0.008	CA	CAN
+257	tr	12	Belgium	0.008	BE	BEL
+258	tr	13	Austria	0.008	AT	AUT
+259	tr	14	Romania	0.008	RO	ROU
+260	tr	15	Japan	0.007	JP	JPN
+261	tr	16	Russia	0.007	RU	RUS
+262	tr	17	Bulgaria	0.007	BG	BGR
+263	tr	18	Switzerland	0.006	CH	CHE
+264	tr	19	Other	0.075	ZZ	ZZZ
+265	no	1	Norway	0.878	NO	NOR
+266	no	2	United States	0.032	US	USA
+267	no	3	Sweden	0.015	SE	SWE
+268	no	4	Germany	0.014	DE	DEU
+269	no	5	Denmark	0.013	DK	DNK
+270	no	6	France	0.007	FR	FRA
+271	no	7	China	0.006	CN	CHN
+272	no	8	United Kingdom	0.005	GB	GBR
+273	no	9	Other	0.03	ZZ	ZZZ
+274	uk	1	Ukraine	0.766	UA	UKR
+275	uk	2	United States	0.053	US	USA
+276	uk	3	Germany	0.033	DE	DEU
+277	uk	4	Russia	0.028	RU	RUS
+278	uk	5	Netherlands	0.022	NL	NLD
+279	uk	6	Poland	0.017	PL	POL
+280	uk	7	France	0.015	FR	FRA
+281	uk	8	United Kingdom	0.008	GB	GBR
+282	uk	9	Canada	0.007	CA	CAN
+283	uk	10	Hong Kong	0.005	HK	HKG
+284	uk	11	Italy	0.005	IT	ITA
+285	uk	12	Other	0.041	ZZ	ZZZ
+286	el	1	Greece	0.82	GR	GRC
+287	el	2	Germany	0.078	DE	DEU
+288	el	3	Cyprus	0.035	CY	CYP
+289	el	4	United States	0.02	US	USA
+290	el	5	United Kingdom	0.009	GB	GBR
+291	el	6	France	0.006	FR	FRA
+292	el	7	Other	0.032	ZZ	ZZZ
+293	da	1	Denmark	0.877	DK	DNK
+294	da	2	United States	0.03	US	USA
+295	da	3	Germany	0.018	DE	DEU
+296	da	4	France	0.012	FR	FRA
+297	da	5	Norway	0.01	NO	NOR
+298	da	6	Sweden	0.01	SE	SWE
+299	da	7	Netherlands	0.007	NL	NLD
+300	da	8	Other	0.036	ZZ	ZZZ
+301	ro	1	Romania	0.783	RO	ROU
+302	ro	2	Moldova	0.034	MD	MDA
+303	ro	3	United States	0.033	US	USA
+304	ro	4	Germany	0.033	DE	DEU
+305	ro	5	United Kingdom	0.022	GB	GBR
+306	ro	6	Italy	0.019	IT	ITA
+307	ro	7	France	0.012	FR	FRA
+308	ro	8	Spain	0.011	ES	ESP
+309	ro	9	Greece	0.005	GR	GRC
+310	ro	10	Canada	0.005	CA	CAN
+311	ro	11	Austria	0.005	AT	AUT
+312	ro	12	Other	0.038	ZZ	ZZZ
+313	sr	1	Serbia	0.681	RS	SRB
+314	sr	2	Bosnia	0.092	BA	BIH
+315	sr	3	Montenegro	0.053	ME	MNE
+316	sr	4	United States	0.033	US	USA
+317	sr	5	Germany	0.021	DE	DEU
+318	sr	6	Macedonia	0.018	MK	MKD
+319	sr	7	Croatia	0.015	HR	HRV
+320	sr	8	Austria	0.009	AT	AUT
+321	sr	9	Greece	0.009	GR	GRC
+322	sr	10	France	0.008	FR	FRA
+323	sr	11	Switzerland	0.007	CH	CHE
+324	sr	12	Slovenia	0.007	SI	SVN
+325	sr	13	Canada	0.005	CA	CAN
+326	sr	14	Russia	0.005	RU	RUS
+327	sr	15	Unknown (code XK)	0.005	XK	XKZ
+328	sr	16	Other	0.032	ZZ	ZZZ
+329	bg	1	Bulgaria	0.848	BG	BGR
+330	bg	2	United States	0.032	US	USA
+331	bg	3	Germany	0.026	DE	DEU
+332	bg	4	United Kingdom	0.018	GB	GBR
+333	bg	5	France	0.011	FR	FRA
+334	bg	6	Greece	0.006	GR	GRC
+335	bg	7	Spain	0.006	ES	ESP
+336	bg	8	Russia	0.006	RU	RUS
+337	bg	9	China	0.005	CN	CHN
+338	bg	10	Italy	0.005	IT	ITA
+339	bg	11	Macedonia	0.005	MK	MKD
+340	bg	12	Other	0.032	ZZ	ZZZ
+341	simple	1	United States	0.366	US	USA
+342	simple	2	India	0.241	IN	IND
+343	simple	3	United Kingdom	0.062	GB	GBR
+344	simple	4	Philippines	0.036	PH	PHL
+345	simple	5	Australia	0.03	AU	AUS
+346	simple	6	Germany	0.027	DE	DEU
+347	simple	7	Canada	0.026	CA	CAN
+348	simple	8	Pakistan	0.019	PK	PAK
+349	simple	9	France	0.016	FR	FRA
+350	simple	10	China	0.014	CN	CHN
+351	simple	11	South Africa	0.012	ZA	ZAF
+352	simple	12	Nigeria	0.011	NG	NGA
+353	simple	13	Netherlands	0.01	NL	NLD
+354	simple	14	Malaysia	0.007	MY	MYS
+355	simple	15	Indonesia	0.006	ID	IDN
+356	simple	16	Singapore	0.006	SG	SGP
+357	simple	17	Ireland	0.006	IE	IRL
+358	simple	18	New Zealand	0.006	NZ	NZL
+359	simple	19	Bangladesh	0.006	BD	BGD
+360	simple	20	Sweden	0.005	SE	SWE
+361	simple	21	Brazil	0.005	BR	BRA
+362	simple	22	Mexico	0.005	MX	MEX
+363	simple	23	Other	0.078	ZZ	ZZZ
+364	hr	1	Croatia	0.586	HR	HRV
+365	hr	2	Bosnia	0.163	BA	BIH
+366	hr	3	Serbia	0.064	RS	SRB
+367	hr	4	Germany	0.04	DE	DEU
+368	hr	5	United States	0.034	US	USA
+369	hr	6	Slovenia	0.02	SI	SVN
+370	hr	7	Montenegro	0.014	ME	MNE
+371	hr	8	Austria	0.011	AT	AUT
+372	hr	9	France	0.009	FR	FRA
+373	hr	10	Macedonia	0.009	MK	MKD
+374	hr	11	Switzerland	0.005	CH	CHE
+375	hr	12	Sweden	0.005	SE	SWE
+376	hr	13	Other	0.04	ZZ	ZZZ
+377	tl	1	Philippines	0.6	PH	PHL
+378	tl	2	United States	0.361	US	USA
+379	tl	3	Ireland	0.013	IE	IRL
+380	tl	4	Other	0.026	ZZ	ZZZ
+381	bn	1	Bangladesh	0.437	BD	BGD
+382	bn	2	United States	0.38	US	USA
+383	bn	3	India	0.119	IN	IND
+384	bn	4	Ireland	0.018	IE	IRL
+385	bn	5	Other	0.046	ZZ	ZZZ
+386	ms	1	Malaysia	0.772	MY	MYS
+387	ms	2	United States	0.082	US	USA
+388	ms	3	Indonesia	0.063	ID	IDN
+389	ms	4	Singapore	0.019	SG	SGP
+390	ms	5	Germany	0.015	DE	DEU
+391	ms	6	Brunei	0.013	BN	BRN
+392	ms	7	France	0.01	FR	FRA
+393	ms	8	Other	0.026	ZZ	ZZZ
+394	sk	1	Slovakia	0.784	SK	SVK
+395	sk	2	Czech Republic	0.051	CZ	CZE
+396	sk	3	United States	0.049	US	USA
+397	sk	4	Germany	0.029	DE	DEU
+398	sk	5	France	0.013	FR	FRA
+399	sk	6	United Kingdom	0.013	GB	GBR
+400	sk	7	Austria	0.01	AT	AUT
+401	sk	8	Other	0.051	ZZ	ZZZ
+402	ca	1	Spain	0.775	ES	ESP
+403	ca	2	United States	0.086	US	USA
+404	ca	3	Germany	0.036	DE	DEU
+405	ca	4	France	0.028	FR	FRA
+406	ca	5	United Kingdom	0.01	GB	GBR
+407	ca	6	Other	0.065	ZZ	ZZZ
+408	lt	1	Lithuania	0.694	LT	LTU
+409	lt	2	United States	0.136	US	USA
+410	lt	3	Germany	0.036	DE	DEU
+411	lt	4	United Kingdom	0.031	GB	GBR
+412	lt	5	Hong Kong	0.015	HK	HKG
+413	lt	6	Norway	0.012	NO	NOR
+414	lt	7	France	0.011	FR	FRA
+415	lt	8	Other	0.065	ZZ	ZZZ
+416	et	1	Estonia	0.713	EE	EST
+417	et	2	United States	0.127	US	USA
+418	et	3	Germany	0.046	DE	DEU
+419	et	4	Hong Kong	0.025	HK	HKG
+420	et	5	Finland	0.023	FI	FIN
+421	et	6	France	0.017	FR	FRA
+422	et	7	China	0.011	CN	CHN
+423	et	8	Other	0.038	ZZ	ZZZ
+424	ta	1	India	0.638	IN	IND
+425	ta	2	United States	0.212	US	USA
+426	ta	3	Sri Lanka	0.059	LK	LKA
+427	ta	4	Germany	0.016	DE	DEU
+428	ta	5	Malaysia	0.012	MY	MYS
+429	ta	6	France	0.012	FR	FRA
+430	ta	7	United Arab Emirates	0.011	AE	ARE
+431	ta	8	Singapore	0.01	SG	SGP
+432	ta	9	Other	0.03	ZZ	ZZZ
+433	sl	1	Slovenia	0.778	SI	SVN
+434	sl	2	United States	0.071	US	USA
+435	sl	3	Germany	0.029	DE	DEU
+436	sl	4	Croatia	0.025	HR	HRV
+437	sl	5	Israel	0.018	IL	ISR
+438	sl	6	France	0.014	FR	FRA
+439	sl	7	Serbia	0.012	RS	SRB
+440	sl	8	China	0.01	CN	CHN
+441	sl	9	Other	0.043	ZZ	ZZZ
+442	az	1	Azerbaijan	0.792	AZ	AZE
+443	az	2	United States	0.086	US	USA
+444	az	3	Germany	0.031	DE	DEU
+445	az	4	Russia	0.024	RU	RUS
+446	az	5	France	0.021	FR	FRA
+447	az	6	Hong Kong	0.01	HK	HKG
+448	az	7	Other	0.036	ZZ	ZZZ
+449	sh	1	Serbia	0.417	RS	SRB
+450	sh	2	Croatia	0.137	HR	HRV
+451	sh	3	Bosnia	0.109	BA	BIH
+452	sh	4	United States	0.101	US	USA
+453	sh	5	Germany	0.056	DE	DEU
+454	sh	6	Montenegro	0.048	ME	MNE
+455	sh	7	France	0.02	FR	FRA
+456	sh	8	Macedonia	0.018	MK	MKD
+457	sh	9	Slovenia	0.015	SI	SVN
+458	sh	10	Canada	0.011	CA	CAN
+459	sh	11	Other	0.068	ZZ	ZZZ
+460	mr	1	India	0.699	IN	IND
+461	mr	2	United States	0.264	US	USA
+462	mr	3	Germany	0.014	DE	DEU
+463	mr	4	France	0.01	FR	FRA
+464	mr	5	Other	0.013	ZZ	ZZZ
+465	ka	1	Georgia	0.715	GE	GEO
+466	ka	2	United States	0.125	US	USA
+467	ka	3	Germany	0.074	DE	DEU
+468	ka	4	Russia	0.02	RU	RUS
+469	ka	5	France	0.018	FR	FRA
+470	ka	6	Hong Kong	0.017	HK	HKG
+471	ka	7	Other	0.031	ZZ	ZZZ
+472	ml	1	India	0.598	IN	IND
+473	ml	2	United States	0.259	US	USA
+474	ml	3	United Arab Emirates	0.039	AE	ARE
+475	ml	4	Saudi Arabia	0.025	SA	SAU
+476	ml	5	Germany	0.023	DE	DEU
+477	ml	6	France	0.018	FR	FRA
+478	ml	7	Qatar	0.011	QA	QAT
+479	ml	8	Other	0.027	ZZ	ZZZ
+480	te	1	India	0.736	IN	IND
+481	te	2	United States	0.214	US	USA
+482	te	3	Germany	0.016	DE	DEU
+483	te	4	France	0.013	FR	FRA
+484	te	5	Other	0.021	ZZ	ZZZ
+485	lv	1	Latvia	0.6	LV	LVA
+486	lv	2	United States	0.196	US	USA
+487	lv	3	Germany	0.074	DE	DEU
+488	lv	4	Hong Kong	0.038	HK	HKG
+489	lv	5	United Kingdom	0.021	GB	GBR
+490	lv	6	France	0.02	FR	FRA
+491	lv	7	Canada	0.014	CA	CAN
+492	lv	8	Other	0.037	ZZ	ZZZ
+493	bs	1	Croatia	0.308	HR	HRV
+494	bs	2	Bosnia	0.259	BA	BIH
+495	bs	3	United States	0.123	US	USA
+496	bs	4	Serbia	0.109	RS	SRB
+497	bs	5	Germany	0.067	DE	DEU
+498	bs	6	Slovenia	0.022	SI	SVN
+499	bs	7	France	0.021	FR	FRA
+500	bs	8	Austria	0.019	AT	AUT
+501	bs	9	Montenegro	0.013	ME	MNE
+502	bs	10	Canada	0.012	CA	CAN
+503	bs	11	Hong Kong	0.012	HK	HKG
+504	bs	12	Other	0.035	ZZ	ZZZ
+505	kk	1	Kazakhstan	0.707	KZ	KAZ
+506	kk	2	United States	0.14	US	USA
+507	kk	3	Germany	0.044	DE	DEU
+508	kk	4	Hong Kong	0.027	HK	HKG
+509	kk	5	France	0.023	FR	FRA
+510	kk	6	Russia	0.018	RU	RUS
+511	kk	7	China	0.013	CN	CHN
+512	kk	8	Canada	0.012	CA	CAN
+513	kk	9	Other	0.016	ZZ	ZZZ
+514	hy	1	Armenia	0.595	AM	ARM
+515	hy	2	Germany	0.151	DE	DEU
+516	hy	3	United States	0.138	US	USA
+517	hy	4	France	0.043	FR	FRA
+518	hy	5	Russia	0.028	RU	RUS
+519	hy	6	Hong Kong	0.015	HK	HKG
+520	hy	7	Canada	0.013	CA	CAN
+521	hy	8	Other	0.017	ZZ	ZZZ
+522	ur	1	Pakistan	0.388	PK	PAK
+523	ur	2	United States	0.376	US	USA
+524	ur	3	India	0.075	IN	IND
+525	ur	4	Germany	0.04	DE	DEU
+526	ur	5	Ireland	0.032	IE	IRL
+527	ur	6	Saudi Arabia	0.025	SA	SAU
+528	ur	7	France	0.021	FR	FRA
+529	ur	8	Hong Kong	0.011	HK	HKG
+530	ur	9	Canada	0.01	CA	CAN
+531	ur	10	Other	0.022	ZZ	ZZZ
+532	af	1	South Africa	0.64	ZA	ZAF
+533	af	2	United States	0.151	US	USA
+534	af	3	France	0.057	FR	FRA
+535	af	4	Germany	0.048	DE	DEU
+536	af	5	Hong Kong	0.029	HK	HKG
+537	af	6	Netherlands	0.018	NL	NLD
+538	af	7	India	0.013	IN	IND
+539	af	8	Canada	0.011	CA	CAN
+540	af	9	Other	0.033	ZZ	ZZZ
+541	arz	1	Egypt	0.34	EG	EGY
+542	arz	2	Saudi Arabia	0.113	SA	SAU
+543	arz	3	United States	0.105	US	USA
+544	arz	4	Algeria	0.06	DZ	DZA
+545	arz	5	Iraq	0.059	IQ	IRQ
+546	arz	6	Morocco	0.044	MA	MAR
+547	arz	7	Germany	0.033	DE	DEU
+548	arz	8	Jordan	0.027	JO	JOR
+549	arz	9	Kuwait	0.023	KW	KWT
+550	arz	10	Syria	0.02	SY	SYR
+551	arz	11	Sudan	0.018	SD	SDN
+552	arz	12	Libya	0.017	LY	LBY
+553	arz	13	United Kingdom	0.014	GB	GBR
+554	arz	14	Lebanon	0.014	LB	LBN
+555	arz	15	United Arab Emirates	0.014	AE	ARE
+556	arz	16	Tunisia	0.014	TN	TUN
+557	arz	17	France	0.013	FR	FRA
+558	arz	18	Palestinian	0.013	PS	PSE
+559	arz	19	Yemen	0.012	YE	YEM
+560	arz	20	Israel	0.012	IL	ISR
+561	arz	21	Hong Kong	0.01	HK	HKG
+562	arz	22	Other	0.025	ZZ	ZZZ
+563	kn	1	India	0.717	IN	IND
+564	kn	2	United States	0.24	US	USA
+565	kn	3	Germany	0.018	DE	DEU
+566	kn	4	France	0.012	FR	FRA
+567	kn	5	Other	0.013	ZZ	ZZZ
+568	sq	1	Albania	0.546	AL	ALB
+569	sq	2	United States	0.141	US	USA
+570	sq	3	Germany	0.075	DE	DEU
+571	sq	4	Macedonia	0.043	MK	MKD
+572	sq	5	France	0.037	FR	FRA
+573	sq	6	Italy	0.035	IT	ITA
+574	sq	7	Greece	0.025	GR	GRC
+575	sq	8	Switzerland	0.017	CH	CHE
+576	sq	9	Unknown (code XK)	0.016	XK	XKZ
+577	sq	10	United Kingdom	0.015	GB	GBR
+578	sq	11	Serbia	0.014	RS	SRB
+579	sq	12	Hong Kong	0.013	HK	HKG
+580	sq	13	Canada	0.011	CA	CAN
+581	sq	14	Other	0.012	ZZ	ZZZ
+582	zh-yue	1	Hong Kong	0.533	HK	HKG
+583	zh-yue	2	United States	0.147	US	USA
+584	zh-yue	3	Taiwan	0.13	TW	TWN
+585	zh-yue	4	Canada	0.036	CA	CAN
+586	zh-yue	5	Germany	0.035	DE	DEU
+587	zh-yue	6	China	0.028	CN	CHN
+588	zh-yue	7	France	0.023	FR	FRA
+589	zh-yue	8	Macao	0.016	MO	MAC
+590	zh-yue	9	Malaysia	0.015	MY	MYS
+591	zh-yue	10	Australia	0.014	AU	AUS
+592	zh-yue	11	Japan	0.011	JP	JPN
+593	zh-yue	12	Other	0.012	ZZ	ZZZ
+594	mk	1	Macedonia	0.412	MK	MKD
+595	mk	2	Brazil	0.212	BR	BRA
+596	mk	3	United States	0.157	US	USA
+597	mk	4	Germany	0.1	DE	DEU
+598	mk	5	France	0.03	FR	FRA
+599	mk	6	Hong Kong	0.02	HK	HKG
+600	mk	7	Bulgaria	0.018	BG	BGR
+601	mk	8	Canada	0.017	CA	CAN
+602	mk	9	China	0.012	CN	CHN
+603	mk	10	Other	0.022	ZZ	ZZZ
+604	gl	1	Spain	0.474	ES	ESP
+605	gl	2	United States	0.268	US	USA
+606	gl	3	Germany	0.076	DE	DEU
+607	gl	4	France	0.046	FR	FRA
+608	gl	5	Brazil	0.036	BR	BRA
+609	gl	6	Canada	0.026	CA	CAN
+610	gl	7	Hong Kong	0.019	HK	HKG
+611	gl	8	Mexico	0.012	MX	MEX
+612	gl	9	China	0.011	CN	CHN
+613	gl	10	United Kingdom	0.01	GB	GBR
+614	gl	11	Other	0.022	ZZ	ZZZ
+615	uz	1	United States	0.446	US	USA
+616	uz	2	Uzbekistan	0.235	UZ	UZB
+617	uz	3	Hong Kong	0.097	HK	HKG
+618	uz	4	Germany	0.078	DE	DEU
+619	uz	5	Russia	0.046	RU	RUS
+620	uz	6	China	0.046	CN	CHN
+621	uz	7	France	0.03	FR	FRA
+622	uz	8	Canada	0.011	CA	CAN
+623	uz	9	Other	0.011	ZZ	ZZZ
+624	gu	1	India	0.699	IN	IND
+625	gu	2	United States	0.241	US	USA
+626	gu	3	Other	0.06	ZZ	ZZZ
+627	sw	1	Tanzania	0.447	TZ	TZA
+628	sw	2	United States	0.318	US	USA
+629	sw	3	Kenya	0.113	KE	KEN
+630	sw	4	Germany	0.044	DE	DEU
+631	sw	5	Other	0.078	ZZ	ZZZ
+632	eo	1	United States	0.425	US	USA
+633	eo	2	Germany	0.218	DE	DEU
+634	eo	3	France	0.106	FR	FRA
+635	eo	4	Canada	0.036	CA	CAN
+636	eo	5	Other	0.215	ZZ	ZZZ
+637	nn	1	Norway	0.432	NO	NOR
+638	nn	2	United States	0.321	US	USA
+639	nn	3	Germany	0.094	DE	DEU
+640	nn	4	France	0.048	FR	FRA
+641	nn	5	Hong Kong	0.034	HK	HKG
+642	nn	6	Other	0.071	ZZ	ZZZ
+643	eu	1	United States	0.342	US	USA
+644	eu	2	Spain	0.305	ES	ESP
+645	eu	3	Germany	0.117	DE	DEU
+646	eu	4	France	0.106	FR	FRA
+647	eu	5	Canada	0.037	CA	CAN
+648	eu	6	Hong Kong	0.036	HK	HKG
+649	eu	7	Other	0.057	ZZ	ZZZ
+650	ceb	1	United States	0.267	US	USA
+651	ceb	2	Ukraine	0.075	UA	UKR
+652	ceb	3	Canada	0.069	CA	CAN
+653	ceb	4	Germany	0.068	DE	DEU
+654	ceb	5	Philippines	0.053	PH	PHL
+655	ceb	6	United Kingdom	0.047	GB	GBR
+656	ceb	7	France	0.037	FR	FRA
+657	ceb	8	Brazil	0.035	BR	BRA
+658	ceb	9	Russia	0.032	RU	RUS
+659	ceb	10	Other	0.317	ZZ	ZZZ
+660	be	1	United States	0.317	US	USA
+661	be	2	Belarus	0.211	BY	BLR
+662	be	3	Germany	0.119	DE	DEU
+663	be	4	Hong Kong	0.092	HK	HKG
+664	be	5	France	0.071	FR	FRA
+665	be	6	Russia	0.036	RU	RUS
+666	be	7	Poland	0.032	PL	POL
+667	be	8	Canada	0.03	CA	CAN
+668	be	9	Other	0.092	ZZ	ZZZ
+669	is	1	Iceland	0.481	IS	ISL
+670	is	2	United States	0.273	US	USA
+671	is	3	Germany	0.094	DE	DEU
+672	is	4	France	0.058	FR	FRA
+673	is	5	Other	0.094	ZZ	ZZZ
+674	wuu	1	Canada	0.793	CA	CAN
+675	wuu	2	United States	0.119	US	USA
+676	wuu	3	China	0.038	CN	CHN
+677	wuu	4	Germany	0.032	DE	DEU
+678	wuu	5	Other	0.018	ZZ	ZZZ
+679	jv	1	United States	0.413	US	USA
+680	jv	2	Indonesia	0.398	ID	IDN
+681	jv	3	Germany	0.084	DE	DEU
+682	jv	4	France	0.041	FR	FRA
+683	jv	5	Other	0.064	ZZ	ZZZ
+684	la	1	United States	0.544	US	USA
+685	la	2	Germany	0.173	DE	DEU
+686	la	3	France	0.077	FR	FRA
+687	la	4	Hong Kong	0.049	HK	HKG
+688	la	5	Canada	0.042	CA	CAN
+689	la	6	Other	0.115	ZZ	ZZZ
+690	sco	1	United States	0.53	US	USA
+691	sco	2	Germany	0.15	DE	DEU
+692	sco	3	France	0.072	FR	FRA
+693	sco	4	United Kingdom	0.056	GB	GBR
+694	sco	5	India	0.052	IN	IND
+695	sco	6	Hong Kong	0.052	HK	HKG
+696	sco	7	Canada	0.043	CA	CAN
+697	sco	8	Other	0.045	ZZ	ZZZ
+698	si	1	Sri Lanka	0.699	LK	LKA
+699	si	2	United States	0.167	US	USA
+700	si	3	Germany	0.059	DE	DEU
+701	si	4	France	0.041	FR	FRA
+702	si	5	Other	0.034	ZZ	ZZZ
+703	cy	1	United States	0.462	US	USA
+704	cy	2	United Kingdom	0.193	GB	GBR
+705	cy	3	Germany	0.127	DE	DEU
+706	cy	4	France	0.075	FR	FRA
+707	cy	5	Canada	0.063	CA	CAN
+708	cy	6	Hong Kong	0.045	HK	HKG
+709	cy	7	Other	0.035	ZZ	ZZZ
+710	mn	1	Mongolia	0.536	MN	MNG
+711	mn	2	United States	0.273	US	USA
+712	mn	3	Germany	0.085	DE	DEU
+713	mn	4	France	0.044	FR	FRA
+714	mn	5	Other	0.062	ZZ	ZZZ
+715	su	1	Indonesia	0.424	ID	IDN
+716	su	2	United States	0.394	US	USA
+717	su	3	Germany	0.08	DE	DEU
+718	su	4	France	0.039	FR	FRA
+719	su	5	Canada	0.032	CA	CAN
+720	su	6	Other	0.031	ZZ	ZZZ
+721	am	1	Ethiopia	0.595	ET	ETH
+722	am	2	United States	0.247	US	USA
+723	am	3	Germany	0.062	DE	DEU
+724	am	4	Hong Kong	0.04	HK	HKG
+725	am	5	France	0.036	FR	FRA
+726	am	6	Other	0.02	ZZ	ZZZ
+727	zu	1	Ukraine	0.816	UA	UKR
+728	zu	2	United States	0.128	US	USA
+729	zu	3	Germany	0.043	DE	DEU
+730	zu	4	Other	0.013	ZZ	ZZZ
+731	ne	1	Nepal	0.337	NP	NPL
+732	ne	2	United States	0.329	US	USA
+733	ne	3	South Korea	0.082	KR	KOR
+734	ne	4	Germany	0.078	DE	DEU
+735	ne	5	India	0.06	IN	IND
+736	ne	6	France	0.047	FR	FRA
+737	ne	7	Other	0.067	ZZ	ZZZ
+738	br	1	United States	0.487	US	USA
+739	br	2	France	0.257	FR	FRA
+740	br	3	Germany	0.134	DE	DEU
+741	br	4	Hong Kong	0.059	HK	HKG
+742	br	5	Other	0.063	ZZ	ZZZ
+743	my	1	United States	0.471	US	USA
+744	my	2	Burma	0.28	MM	MMR
+745	my	3	Germany	0.081	DE	DEU
+746	my	4	Thailand	0.063	TH	THA
+747	my	5	France	0.055	FR	FRA
+748	my	6	Other	0.05	ZZ	ZZZ
+749	ast	1	United States	0.394	US	USA
+750	ast	2	Spain	0.211	ES	ESP
+751	ast	3	Germany	0.107	DE	DEU
+752	ast	4	Hong Kong	0.08	HK	HKG
+753	ast	5	France	0.06	FR	FRA
+754	ast	6	Bolivia	0.052	BO	BOL
+755	ast	7	Canada	0.038	CA	CAN
+756	ast	8	Other	0.058	ZZ	ZZZ
+757	fy	1	United States	0.5	US	USA
+758	fy	2	Germany	0.13	DE	DEU
+759	fy	3	Netherlands	0.091	NL	NLD
+760	fy	4	France	0.073	FR	FRA
+761	fy	5	Hong Kong	0.043	HK	HKG
+762	fy	6	Canada	0.03	CA	CAN
+763	fy	7	Other	0.133	ZZ	ZZZ
+764	lb	1	United States	0.433	US	USA
+765	lb	2	Germany	0.146	DE	DEU
+766	lb	3	Luxembourg	0.116	LU	LUX
+767	lb	4	United Kingdom	0.069	GB	GBR
+768	lb	5	France	0.065	FR	FRA
+769	lb	6	Hong Kong	0.047	HK	HKG
+770	lb	7	Canada	0.035	CA	CAN
+771	lb	8	Other	0.089	ZZ	ZZZ
+772	ig	1	Nigeria	0.802	NG	NGA
+773	ig	2	United States	0.148	US	USA
+774	ig	3	Other	0.05	ZZ	ZZZ
+775	?	1	United States	0.453	US	USA
+776	?	2	Belarus	0.169	BY	BLR
+777	?	3	Hong Kong	0.104	HK	HKG
+778	?	4	Germany	0.096	DE	DEU
+779	?	5	France	0.069	FR	FRA
+780	?	6	China	0.046	CN	CHN
+781	?	7	Other	0.063	ZZ	ZZZ
+782	war	1	United States	0.617	US	USA
+783	war	2	Germany	0.14	DE	DEU
+784	war	3	France	0.068	FR	FRA
+785	war	4	Hong Kong	0.053	HK	HKG
+786	war	5	Other	0.122	ZZ	ZZZ
+787	ckb	1	United States	0.441	US	USA
+788	ckb	2	Iraq	0.297	IQ	IRQ
+789	ckb	3	Germany	0.105	DE	DEU
+790	ckb	4	France	0.071	FR	FRA
+791	ckb	5	Other	0.086	ZZ	ZZZ
+792	oc	1	United States	0.597	US	USA
+793	oc	2	Germany	0.155	DE	DEU
+794	oc	3	France	0.105	FR	FRA
+795	oc	4	Hong Kong	0.07	HK	HKG
+796	oc	5	Canada	0.033	CA	CAN
+797	oc	6	Other	0.04	ZZ	ZZZ
+798	ky	1	Kyrgyzstan	0.353	KG	KGZ
+799	ky	2	United States	0.328	US	USA
+800	ky	3	Germany	0.115	DE	DEU
+801	ky	4	Hong Kong	0.064	HK	HKG
+802	ky	5	France	0.062	FR	FRA
+803	ky	6	Russia	0.031	RU	RUS
+804	ky	7	Other	0.047	ZZ	ZZZ
+805	an	1	United States	0.498	US	USA
+806	an	2	Spain	0.14	ES	ESP
+807	an	3	Germany	0.12	DE	DEU
+808	an	4	Hong Kong	0.102	HK	HKG
+809	an	5	France	0.066	FR	FRA
+810	an	6	Other	0.074	ZZ	ZZZ
+811	als	1	United States	0.405	US	USA
+812	als	2	Germany	0.301	DE	DEU
+813	als	3	France	0.082	FR	FRA
+814	als	4	Switzerland	0.08	CH	CHE
+815	als	5	Hong Kong	0.059	HK	HKG
+816	als	6	Canada	0.032	CA	CAN
+817	als	7	Other	0.041	ZZ	ZZZ
+818	zh-min-nan	1	United States	0.554	US	USA
+819	zh-min-nan	2	Germany	0.169	DE	DEU
+820	zh-min-nan	3	France	0.078	FR	FRA
+821	zh-min-nan	4	Hong Kong	0.069	HK	HKG
+822	zh-min-nan	5	Taiwan	0.037	TW	TWN
+823	zh-min-nan	6	Canada	0.034	CA	CAN
+824	zh-min-nan	7	China	0.032	CN	CHN
+825	zh-min-nan	8	Other	0.027	ZZ	ZZZ
+826	ga	1	United States	0.511	US	USA
+827	ga	2	Germany	0.159	DE	DEU
+828	ga	3	France	0.087	FR	FRA
+829	ga	4	Canada	0.063	CA	CAN
+830	ga	5	Hong Kong	0.06	HK	HKG
+831	ga	6	Ireland	0.053	IE	IRL
+832	ga	7	China	0.031	CN	CHN
+833	ga	8	Other	0.036	ZZ	ZZZ
+834	diq	1	Ukraine	0.521	UA	UKR
+835	diq	2	United States	0.31	US	USA
+836	diq	3	Germany	0.08	DE	DEU
+837	diq	4	Other	0.089	ZZ	ZZZ
+838	pa	1	United States	0.418	US	USA
+839	pa	2	India	0.324	IN	IND
+840	pa	3	Germany	0.109	DE	DEU
+841	pa	4	France	0.068	FR	FRA
+842	pa	5	Canada	0.034	CA	CAN
+843	pa	6	Other	0.047	ZZ	ZZZ
+844	tt	1	United States	0.487	US	USA
+845	tt	2	Germany	0.151	DE	DEU
+846	tt	3	Russia	0.119	RU	RUS
+847	tt	4	Hong Kong	0.095	HK	HKG
+848	tt	5	France	0.078	FR	FRA
+849	tt	6	Canada	0.032	CA	CAN
+850	tt	7	Other	0.038	ZZ	ZZZ
+851	km	1	Cambodia	0.558	KH	KHM
+852	km	2	United States	0.193	US	USA
+853	km	3	Thailand	0.079	TH	THA
+854	km	4	Vietnam	0.066	VN	VNM
+855	km	5	France	0.043	FR	FRA
+856	km	6	Germany	0.038	DE	DEU
+857	km	7	Other	0.023	ZZ	ZZZ
+858	as	1	India	0.445	IN	IND
+859	as	2	United States	0.399	US	USA
+860	as	3	Germany	0.053	DE	DEU
+861	as	4	France	0.051	FR	FRA
+862	as	5	Other	0.052	ZZ	ZZZ
+863	so	1	United States	0.394	US	USA
+864	so	2	Somalia	0.332	SO	SOM
+865	so	3	Germany	0.099	DE	DEU
+866	so	4	Ethiopia	0.075	ET	ETH
+867	so	5	France	0.054	FR	FRA
+868	so	6	Other	0.046	ZZ	ZZZ
+869	bar	1	United States	0.419	US	USA
+870	bar	2	Germany	0.35	DE	DEU
+871	bar	3	France	0.072	FR	FRA
+872	bar	4	Brazil	0.052	BR	BRA
+873	bar	5	Hong Kong	0.038	HK	HKG
+874	bar	6	China	0.032	CN	CHN
+875	bar	7	Other	0.037	ZZ	ZZZ
+876	tg	1	United States	0.475	US	USA
+877	tg	2	Tajikistan	0.142	TJ	TJK
+878	tg	3	Germany	0.13	DE	DEU
+879	tg	4	France	0.084	FR	FRA
+880	tg	5	Canada	0.064	CA	CAN
+881	tg	6	Hong Kong	0.058	HK	HKG
+882	tg	7	Other	0.047	ZZ	ZZZ
+883	cv	1	United States	0.541	US	USA
+884	cv	2	Germany	0.14	DE	DEU
+885	cv	3	Hong Kong	0.131	HK	HKG
+886	cv	4	China	0.061	CN	CHN
+887	cv	5	France	0.058	FR	FRA
+888	cv	6	Russia	0.041	RU	RUS
+889	cv	7	Other	0.028	ZZ	ZZZ
+890	or	1	United States	0.452	US	USA
+891	or	2	India	0.314	IN	IND
+892	or	3	Germany	0.091	DE	DEU
+893	or	4	France	0.076	FR	FRA
+894	or	5	Other	0.067	ZZ	ZZZ
+895	ku	1	United States	0.518	US	USA
+896	ku	2	Germany	0.167	DE	DEU
+897	ku	3	China	0.134	CN	CHN
+898	ku	4	France	0.095	FR	FRA
+899	ku	5	Hong Kong	0.036	HK	HKG
+900	ku	6	Canada	0.033	CA	CAN
+901	ku	7	Other	0.017	ZZ	ZZZ
+902	scn	1	United States	0.532	US	USA
+903	scn	2	Italy	0.165	IT	ITA
+904	scn	3	Germany	0.129	DE	DEU
+905	scn	4	France	0.066	FR	FRA
+906	scn	5	Other	0.108	ZZ	ZZZ
+907	ba	1	United States	0.428	US	USA
+908	ba	2	Russia	0.151	RU	RUS
+909	ba	3	Germany	0.138	DE	DEU
+910	ba	4	Hong Kong	0.105	HK	HKG
+911	ba	5	France	0.095	FR	FRA
+912	ba	6	Canada	0.04	CA	CAN
+913	ba	7	Other	0.043	ZZ	ZZZ
+914	io	1	United States	0.571	US	USA
+915	io	2	Germany	0.17	DE	DEU
+916	io	3	France	0.093	FR	FRA
+917	io	4	Hong Kong	0.049	HK	HKG
+918	io	5	China	0.043	CN	CHN
+919	io	6	Brazil	0.031	BR	BRA
+920	io	7	Other	0.043	ZZ	ZZZ
+921	xh	1	Netherlands	0.738	NL	NLD
+922	xh	2	United States	0.207	US	USA
+923	xh	3	Germany	0.032	DE	DEU
+924	xh	4	Other	0.023	ZZ	ZZZ
+925	bh	1	United States	0.476	US	USA
+926	bh	2	India	0.274	IN	IND
+927	bh	3	Germany	0.122	DE	DEU
+928	bh	4	France	0.074	FR	FRA
+929	bh	5	Other	0.054	ZZ	ZZZ
+930	vo	1	United States	0.704	US	USA
+931	vo	2	Germany	0.148	DE	DEU
+932	vo	3	Hong Kong	0.045	HK	HKG
+933	vo	4	France	0.038	FR	FRA
+934	vo	5	Other	0.065	ZZ	ZZZ
+935	lmo	1	United States	0.59	US	USA
+936	lmo	2	Germany	0.139	DE	DEU
+937	lmo	3	Italy	0.083	IT	ITA
+938	lmo	4	China	0.056	CN	CHN
+939	lmo	5	France	0.056	FR	FRA
+940	lmo	6	Hong Kong	0.045	HK	HKG
+941	lmo	7	Other	0.031	ZZ	ZZZ
+942	gn	1	Paraguay	0.514	PY	PRY
+943	gn	2	United States	0.327	US	USA
+944	gn	3	Germany	0.074	DE	DEU
+945	gn	4	Other	0.085	ZZ	ZZZ
+946	sa	1	United States	0.53	US	USA
+947	sa	2	India	0.224	IN	IND
+948	sa	3	Germany	0.121	DE	DEU
+949	sa	4	France	0.046	FR	FRA
+950	sa	5	Other	0.079	ZZ	ZZZ
+951	nds	1	United States	0.554	US	USA
+952	nds	2	Germany	0.271	DE	DEU
+953	nds	3	France	0.082	FR	FRA
+954	nds	4	Hong Kong	0.032	HK	HKG
+955	nds	5	Other	0.061	ZZ	ZZZ
+956	map-bms	1	United States	0.48	US	USA
+957	map-bms	2	Indonesia	0.461	ID	IDN
+958	map-bms	3	Other	0.059	ZZ	ZZZ
+959	hif	1	United States	0.53	US	USA
+960	hif	2	India	0.274	IN	IND
+961	hif	3	Germany	0.113	DE	DEU
+962	hif	4	France	0.038	FR	FRA
+963	hif	5	Other	0.045	ZZ	ZZZ
+964	mg	1	United States	0.648	US	USA
+965	mg	2	Germany	0.152	DE	DEU
+966	mg	3	France	0.083	FR	FRA
+967	mg	4	Hong Kong	0.057	HK	HKG
+968	mg	5	Other	0.06	ZZ	ZZZ
+969	yo	1	United States	0.616	US	USA
+970	yo	2	Germany	0.156	DE	DEU
+971	yo	3	France	0.08	FR	FRA
+972	yo	4	Hong Kong	0.065	HK	HKG
+973	yo	5	Canada	0.038	CA	CAN
+974	yo	6	Other	0.045	ZZ	ZZZ
+975	ia	1	United States	0.641	US	USA
+976	ia	2	Germany	0.145	DE	DEU
+977	ia	3	France	0.095	FR	FRA
+978	ia	4	Hong Kong	0.034	HK	HKG
+979	ia	5	Canada	0.034	CA	CAN
+980	ia	6	Other	0.051	ZZ	ZZZ
+981	pnb	1	United States	0.605	US	USA
+982	pnb	2	Germany	0.176	DE	DEU
+983	pnb	3	France	0.077	FR	FRA
+984	pnb	4	Hong Kong	0.046	HK	HKG
+985	pnb	5	China	0.038	CN	CHN
+986	pnb	6	Other	0.058	ZZ	ZZZ
+987	qu	1	United States	0.634	US	USA
+988	qu	2	Germany	0.16	DE	DEU
+989	qu	3	France	0.074	FR	FRA
+990	qu	4	Hong Kong	0.058	HK	HKG
+991	qu	5	Other	0.074	ZZ	ZZZ
+992	?	1	United States	0.466	US	USA
+993	?	2	Iran	0.227	IR	IRN
+994	?	3	Germany	0.155	DE	DEU
+995	?	4	France	0.064	FR	FRA
+996	?	5	Hong Kong	0.032	HK	HKG
+997	?	6	Other	0.056	ZZ	ZZZ
+998	gd	1	United States	0.58	US	USA
+999	gd	2	Germany	0.156	DE	DEU
+1000	gd	3	United Kingdom	0.092	GB	GBR
+1001	gd	4	France	0.072	FR	FRA
+1002	gd	5	Hong Kong	0.056	HK	HKG
+1003	gd	6	Other	0.044	ZZ	ZZZ
+1004	ilo	1	United States	0.604	US	USA
+1005	ilo	2	Germany	0.144	DE	DEU
+1006	ilo	3	France	0.116	FR	FRA
+1007	ilo	4	Hong Kong	0.056	HK	HKG
+1008	ilo	5	Other	0.08	ZZ	ZZZ
+1009	yi	1	United States	0.534	US	USA
+1010	yi	2	Germany	0.215	DE	DEU
+1011	yi	3	France	0.109	FR	FRA
+1012	yi	4	Canada	0.061	CA	CAN
+1013	yi	5	Other	0.081	ZZ	ZZZ
+1014	fo	1	United States	0.604	US	USA
+1015	fo	2	Germany	0.162	DE	DEU
+1016	fo	3	France	0.096	FR	FRA
+1017	fo	4	Canada	0.054	CA	CAN
+1018	fo	5	Hong Kong	0.042	HK	HKG
+1019	fo	6	Other	0.042	ZZ	ZZZ
+1020	zh-classical	1	China	0.414	CN	CHN
+1021	zh-classical	2	United States	0.393	US	USA
+1022	zh-classical	3	Hong Kong	0.084	HK	HKG
+1023	zh-classical	4	France	0.042	FR	FRA
+1024	zh-classical	5	Other	0.067	ZZ	ZZZ
+1025	vec	1	United States	0.554	US	USA
+1026	vec	2	Germany	0.147	DE	DEU
+1027	vec	3	Italy	0.143	IT	ITA
+1028	vec	4	France	0.061	FR	FRA
+1029	vec	5	Hong Kong	0.03	HK	HKG
+1030	vec	6	Other	0.065	ZZ	ZZZ
+1031	tk	1	United States	0.504	US	USA
+1032	tk	2	Turkmenistan	0.213	TM	TKM
+1033	tk	3	Germany	0.152	DE	DEU
+1034	tk	4	France	0.061	FR	FRA
+1035	tk	5	Other	0.07	ZZ	ZZZ
+1036	pms	1	United States	0.707	US	USA
+1037	pms	2	Germany	0.14	DE	DEU
+1038	pms	3	France	0.039	FR	FRA
+1039	pms	4	China	0.039	CN	CHN
+1040	pms	5	Hong Kong	0.031	HK	HKG
+1041	pms	6	Other	0.044	ZZ	ZZZ
+1042	li	1	United States	0.618	US	USA
+1043	li	2	Germany	0.171	DE	DEU
+1044	li	3	France	0.096	FR	FRA
+1045	li	4	Netherlands	0.035	NL	NLD
+1046	li	5	Hong Kong	0.031	HK	HKG
+1047	li	6	Other	0.049	ZZ	ZZZ
+1048	mzn	1	Iran	0.383	IR	IRN
+1049	mzn	2	United States	0.37	US	USA
+1050	mzn	3	Germany	0.101	DE	DEU
+1051	mzn	4	Canada	0.062	CA	CAN
+1052	mzn	5	France	0.035	FR	FRA
+1053	mzn	6	Other	0.049	ZZ	ZZZ
+1054	ce	1	United States	0.587	US	USA
+1055	ce	2	Germany	0.156	DE	DEU
+1056	ce	3	France	0.067	FR	FRA
+1057	ce	4	Hong Kong	0.053	HK	HKG
+1058	ce	5	China	0.044	CN	CHN
+1059	ce	6	Russia	0.044	RU	RUS
+1060	ce	7	Other	0.049	ZZ	ZZZ
+1061	nap	1	United States	0.576	US	USA
+1062	nap	2	Italy	0.161	IT	ITA
+1063	nap	3	Germany	0.124	DE	DEU
+1064	nap	4	Hong Kong	0.051	HK	HKG
+1065	nap	5	France	0.032	FR	FRA
+1066	nap	6	Other	0.056	ZZ	ZZZ
+1067	ps	1	United States	0.449	US	USA
+1068	ps	2	China	0.159	CN	CHN
+1069	ps	3	Germany	0.131	DE	DEU
+1070	ps	4	France	0.112	FR	FRA
+1071	ps	5	Afghanistan	0.093	AF	AFG
+1072	ps	6	Other	0.056	ZZ	ZZZ
+1073	ht	1	United States	0.676	US	USA
+1074	ht	2	Germany	0.155	DE	DEU
+1075	ht	3	France	0.094	FR	FRA
+1076	ht	4	Other	0.075	ZZ	ZZZ
+1077	sah	1	United States	0.633	US	USA
+1078	sah	2	Germany	0.186	DE	DEU
+1079	sah	3	France	0.09	FR	FRA
+1080	sah	4	Hong Kong	0.033	HK	HKG
+1081	sah	5	Other	0.058	ZZ	ZZZ
+1082	new	1	United States	0.614	US	USA
+1083	new	2	Germany	0.13	DE	DEU
+1084	new	3	South Korea	0.092	KR	KOR
+1085	new	4	France	0.077	FR	FRA
+1086	new	5	Hong Kong	0.034	HK	HKG
+1087	new	6	Other	0.053	ZZ	ZZZ
+1088	hsb	1	United States	0.621	US	USA
+1089	hsb	2	Germany	0.182	DE	DEU
+1090	hsb	3	France	0.064	FR	FRA
+1091	hsb	4	Other	0.133	ZZ	ZZZ
+1092	cdo	1	United States	0.667	US	USA
+1093	cdo	2	Germany	0.149	DE	DEU
+1094	cdo	3	France	0.067	FR	FRA
+1095	cdo	4	China	0.046	CN	CHN
+1096	cdo	5	Hong Kong	0.031	HK	HKG
+1097	cdo	6	Other	0.04	ZZ	ZZZ
+1098	?	1	United States	0.707	US	USA
+1099	?	2	Germany	0.162	DE	DEU
+1100	?	3	Hong Kong	0.079	HK	HKG
+1101	?	4	Other	0.052	ZZ	ZZZ
+1102	om	1	Ethiopia	0.594	ET	ETH
+1103	om	2	United States	0.337	US	USA
+1104	om	3	Germany	0.048	DE	DEU
+1105	om	4	Other	0.021	ZZ	ZZZ
+1106	kv	1	United States	0.693	US	USA
+1107	kv	2	Germany	0.117	DE	DEU
+1108	kv	3	Hong Kong	0.101	HK	HKG
+1109	kv	4	China	0.045	CN	CHN
+1110	kv	5	Other	0.044	ZZ	ZZZ
+1111	os	1	United States	0.672	US	USA
+1112	os	2	Germany	0.153	DE	DEU
+1113	os	3	Hong Kong	0.056	HK	HKG
+1114	os	4	France	0.056	FR	FRA
+1115	os	5	Other	0.063	ZZ	ZZZ
+1116	gan	1	United States	0.701	US	USA
+1117	gan	2	Germany	0.141	DE	DEU
+1118	gan	3	Hong Kong	0.045	HK	HKG
+1119	gan	4	China	0.045	CN	CHN
+1120	gan	5	Other	0.068	ZZ	ZZZ
+1121	sd	1	United States	0.534	US	USA
+1122	sd	2	Germany	0.148	DE	DEU
+1123	sd	3	Brazil	0.136	BR	BRA
+1124	sd	4	France	0.108	FR	FRA
+1125	sd	5	Canada	0.034	CA	CAN
+1126	sd	6	Other	0.04	ZZ	ZZZ
+1127	vls	1	United States	0.566	US	USA
+1128	vls	2	Germany	0.162	DE	DEU
+1129	vls	3	France	0.104	FR	FRA
+1130	vls	4	Belgium	0.075	BE	BEL
+1131	vls	5	Canada	0.035	CA	CAN
+1132	vls	6	Other	0.058	ZZ	ZZZ
+1133	?	1	United States	0.64	US	USA
+1134	?	2	Germany	0.14	DE	DEU
+1135	?	3	France	0.087	FR	FRA
+1136	?	4	Hong Kong	0.035	HK	HKG
+1137	?	5	Other	0.098	ZZ	ZZZ
+1138	?	1	United States	0.602	US	USA
+1139	?	2	Germany	0.14	DE	DEU
+1140	?	3	France	0.082	FR	FRA
+1141	?	4	Russia	0.076	RU	RUS
+1142	?	5	Canada	0.035	CA	CAN
+1143	?	6	Other	0.065	ZZ	ZZZ
+1144	?	1	United States	0.602	US	USA
+1145	?	2	Germany	0.222	DE	DEU
+1146	?	3	France	0.082	FR	FRA
+1147	?	4	Other	0.094	ZZ	ZZZ
+1148	wa	1	United States	0.694	US	USA
+1149	wa	2	Germany	0.165	DE	DEU
+1150	wa	3	France	0.059	FR	FRA
+1151	wa	4	Canada	0.035	CA	CAN
+1152	wa	5	Other	0.047	ZZ	ZZZ
+1153	mhr	1	United States	0.663	US	USA
+1154	mhr	2	Germany	0.154	DE	DEU
+1155	mhr	3	France	0.077	FR	FRA
+1156	mhr	4	Hong Kong	0.059	HK	HKG
+1157	mhr	5	Canada	0.03	CA	CAN
+1158	mhr	6	Other	0.017	ZZ	ZZZ
+1159	hak	1	United States	0.649	US	USA
+1160	hak	2	Germany	0.179	DE	DEU
+1161	hak	3	France	0.077	FR	FRA
+1162	hak	4	Canada	0.036	CA	CAN
+1163	hak	5	Other	0.059	ZZ	ZZZ
+1164	sg	1	Singapore	0.604	SG	SGP
+1165	sg	2	United States	0.341	US	USA
+1166	sg	3	Germany	0.03	DE	DEU
+1167	sg	4	Other	0.025	ZZ	ZZZ
+1168	?	1	United States	0.61	US	USA
+1169	?	2	Germany	0.207	DE	DEU
+1170	?	3	France	0.073	FR	FRA
+1171	?	4	Hong Kong	0.043	HK	HKG
+1172	?	5	Canada	0.037	CA	CAN
+1173	?	6	Other	0.03	ZZ	ZZZ
+1174	nah	1	United States	0.706	US	USA
+1175	nah	2	Germany	0.166	DE	DEU
+1176	nah	3	France	0.037	FR	FRA
+1177	nah	4	Hong Kong	0.031	HK	HKG
+1178	nah	5	Canada	0.031	CA	CAN
+1179	nah	6	Other	0.029	ZZ	ZZZ
+1180	gv	1	United States	0.694	US	USA
+1181	gv	2	Germany	0.169	DE	DEU
+1182	gv	3	France	0.056	FR	FRA
+1183	gv	4	Canada	0.031	CA	CAN
+1184	gv	5	Other	0.05	ZZ	ZZZ
+1185	?	1	United States	0.648	US	USA
+1186	?	2	Germany	0.132	DE	DEU
+1187	?	3	Russia	0.107	RU	RUS
+1188	?	4	France	0.044	FR	FRA
+1189	?	5	Canada	0.031	CA	CAN
+1190	?	6	Other	0.038	ZZ	ZZZ
+1191	bcl	1	United States	0.62	US	USA
+1192	bcl	2	Philippines	0.19	PH	PHL
+1193	bcl	3	Germany	0.133	DE	DEU
+1194	bcl	4	Canada	0.032	CA	CAN
+1195	bcl	5	Other	0.025	ZZ	ZZZ
+1196	se	1	United States	0.756	US	USA
+1197	se	2	Germany	0.154	DE	DEU
+1198	se	3	Canada	0.032	CA	CAN
+1199	se	4	Hong Kong	0.032	HK	HKG
+1200	se	5	Other	0.026	ZZ	ZZZ
+1201	bat-smg	1	United States	0.716	US	USA
+1202	bat-smg	2	Germany	0.123	DE	DEU
+1203	bat-smg	3	France	0.084	FR	FRA
+1204	bat-smg	4	Canada	0.032	CA	CAN
+1205	bat-smg	5	Other	0.045	ZZ	ZZZ
+1206	min	1	United States	0.693	US	USA
+1207	min	2	Germany	0.137	DE	DEU
+1208	min	3	Indonesia	0.092	ID	IDN
+1209	min	4	Canada	0.033	CA	CAN
+1210	min	5	France	0.033	FR	FRA
+1211	min	6	Other	0.012	ZZ	ZZZ
+1212	ang	1	United States	0.628	US	USA
+1213	ang	2	Germany	0.23	DE	DEU
+1214	ang	3	Canada	0.041	CA	CAN
+1215	ang	4	France	0.041	FR	FRA
+1216	ang	5	Hong Kong	0.034	HK	HKG
+1217	ang	6	Other	0.026	ZZ	ZZZ
+1218	eml	1	United States	0.678	US	USA
+1219	eml	2	Germany	0.185	DE	DEU
+1220	eml	3	France	0.041	FR	FRA
+1221	eml	4	Hong Kong	0.034	HK	HKG
+1222	eml	5	Canada	0.034	CA	CAN
+1223	eml	6	Other	0.028	ZZ	ZZZ
+1224	zea	1	United States	0.583	US	USA
+1225	zea	2	Unknown8	0.243	ZX	ZXZ
+1226	zea	3	Germany	0.118	DE	DEU
+1227	zea	4	Canada	0.035	CA	CAN
+1228	zea	5	Other	0.021	ZZ	ZZZ
+1229	rw	1	United States	0.727	US	USA
+1230	rw	2	Rwanda	0.168	RW	RWA
+1231	rw	3	Germany	0.077	DE	DEU
+1232	rw	4	Other	0.028	ZZ	ZZZ
+1233	bpy	1	United States	0.718	US	USA
+1234	bpy	2	Germany	0.162	DE	DEU
+1235	bpy	3	France	0.042	FR	FRA
+1236	bpy	4	Canada	0.035	CA	CAN
+1237	bpy	5	Other	0.043	ZZ	ZZZ
+1238	dsb	1	United States	0.688	US	USA
+1239	dsb	2	Germany	0.17	DE	DEU
+1240	dsb	3	France	0.064	FR	FRA
+1241	dsb	4	Canada	0.043	CA	CAN
+1242	dsb	5	Other	0.035	ZZ	ZZZ
+1243	lo	1	United States	0.543	US	USA
+1244	lo	2	Laos	0.193	LA	LAO
+1245	lo	3	Germany	0.107	DE	DEU
+1246	lo	4	France	0.093	FR	FRA
+1247	lo	5	Canada	0.036	CA	CAN
+1248	lo	6	Other	0.028	ZZ	ZZZ
+1249	pam	1	United States	0.712	US	USA
+1250	pam	2	Germany	0.209	DE	DEU
+1251	pam	3	Canada	0.036	CA	CAN
+1252	pam	4	Other	0.043	ZZ	ZZZ
+1253	szl	1	United States	0.705	US	USA
+1254	szl	2	Germany	0.165	DE	DEU
+1255	szl	3	Canada	0.036	CA	CAN
+1256	szl	4	France	0.036	FR	FRA
+1257	szl	5	Other	0.058	ZZ	ZZZ
+1258	lad	1	United States	0.683	US	USA
+1259	lad	2	Germany	0.122	DE	DEU
+1260	lad	3	Mexico	0.079	MX	MEX
+1261	lad	4	France	0.043	FR	FRA
+1262	lad	5	Canada	0.036	CA	CAN
+1263	lad	6	Other	0.037	ZZ	ZZZ
+1264	nds-nl	1	United States	0.706	US	USA
+1265	nds-nl	2	France	0.088	FR	FRA
+1266	nds-nl	3	Germany	0.088	DE	DEU
+1267	nds-nl	4	Other	0.118	ZZ	ZZZ
+1268	crh	1	United States	0.75	US	USA
+1269	crh	2	Germany	0.184	DE	DEU
+1270	crh	3	Other	0.066	ZZ	ZZZ
+1271	ug	1	United States	0.664	US	USA
+1272	ug	2	Germany	0.191	DE	DEU
+1273	ug	3	France	0.061	FR	FRA
+1274	ug	4	Other	0.084	ZZ	ZZZ
+1275	ace	1	United States	0.577	US	USA
+1276	ace	2	Hong Kong	0.277	HK	HKG
+1277	ace	3	Germany	0.092	DE	DEU
+1278	ace	4	Other	0.054	ZZ	ZZZ
+1279	sc	1	United States	0.708	US	USA
+1280	sc	2	Germany	0.185	DE	DEU
+1281	sc	3	Other	0.107	ZZ	ZZZ
+1282	fiu-vro	1	United States	0.797	US	USA
+1283	fiu-vro	2	France	0.078	FR	FRA
+1284	fiu-vro	3	Germany	0.062	DE	DEU
+1285	fiu-vro	4	Other	0.063	ZZ	ZZZ
+1286	stq	1	United States	0.69	US	USA
+1287	stq	2	Germany	0.246	DE	DEU
+1288	stq	3	Other	0.064	ZZ	ZZZ
+1289	?	1	United States	0.77	US	USA
+1290	?	2	Germany	0.135	DE	DEU
+1291	?	3	Other	0.095	ZZ	ZZZ
+1292	?	1	United States	0.758	US	USA
+1293	?	2	Germany	0.137	DE	DEU
+1294	?	3	France	0.056	FR	FRA
+1295	?	4	Other	0.049	ZZ	ZZZ
+1296	jbo	1	United States	0.593	US	USA
+1297	jbo	2	Unknown8	0.203	ZX	ZXZ
+1298	jbo	3	Germany	0.13	DE	DEU
+1299	jbo	4	Other	0.074	ZZ	ZZZ
+1300	ksh	1	United States	0.639	US	USA
+1301	ksh	2	Germany	0.27	DE	DEU
+1302	ksh	3	Other	0.091	ZZ	ZZZ
+1303	csb	1	United States	0.76	US	USA
+1304	csb	2	Germany	0.157	DE	DEU
+1305	csb	3	Other	0.083	ZZ	ZZZ
+1306	frp	1	United States	0.686	US	USA
+1307	frp	2	Germany	0.198	DE	DEU
+1308	frp	3	Other	0.116	ZZ	ZZZ
+1309	ext	1	United States	0.725	US	USA
+1310	ext	2	Germany	0.175	DE	DEU
+1311	ext	3	Other	0.1	ZZ	ZZZ
+1312	xal	1	United States	0.739	US	USA
+1313	xal	2	Germany	0.16	DE	DEU
+1314	xal	3	Other	0.101	ZZ	ZZZ
+1315	kw	1	United States	0.754	US	USA
+1316	kw	2	Germany	0.186	DE	DEU
+1317	kw	3	Other	0.06	ZZ	ZZZ
+1318	nrm	1	United States	0.754	US	USA
+1319	nrm	2	Germany	0.153	DE	DEU
+1320	nrm	3	Other	0.093	ZZ	ZZZ
+1321	lij	1	United States	0.726	US	USA
+1322	lij	2	Germany	0.171	DE	DEU
+1323	lij	3	Other	0.103	ZZ	ZZZ
+1324	bo	1	United States	0.638	US	USA
+1325	bo	2	Germany	0.129	DE	DEU
+1326	bo	3	France	0.095	FR	FRA
+1327	bo	4	Canada	0.052	CA	CAN
+1328	bo	5	Other	0.086	ZZ	ZZZ
+1329	mwl	1	United States	0.655	US	USA
+1330	mwl	2	Brazil	0.181	BR	BRA
+1331	mwl	3	Germany	0.112	DE	DEU
+1332	mwl	4	Other	0.052	ZZ	ZZZ
+1333	co	1	United States	0.774	US	USA
+1334	co	2	Germany	0.148	DE	DEU
+1335	co	3	Other	0.078	ZZ	ZZZ
+1336	?	1	United States	0.684	US	USA
+1337	?	2	Germany	0.193	DE	DEU
+1338	?	3	Other	0.123	ZZ	ZZZ
+1339	?	1	United States	0.699	US	USA
+1340	?	2	Germany	0.159	DE	DEU
+1341	?	3	France	0.071	FR	FRA
+1342	?	4	Other	0.071	ZZ	ZZZ
+1343	ln	1	United States	0.768	US	USA
+1344	ln	2	Germany	0.152	DE	DEU
+1345	ln	3	Other	0.08	ZZ	ZZZ
+1346	ha	1	United States	0.586	US	USA
+1347	ha	2	Nigeria	0.279	NG	NGA
+1348	ha	3	Germany	0.09	DE	DEU
+1349	ha	4	Other	0.045	ZZ	ZZZ
+1350	fur	1	United States	0.766	US	USA
+1351	fur	2	Germany	0.153	DE	DEU
+1352	fur	3	Other	0.081	ZZ	ZZZ
+1353	myv	1	United States	0.718	US	USA
+1354	myv	2	Germany	0.164	DE	DEU
+1355	myv	3	Other	0.118	ZZ	ZZZ
+1356	ab	1	United States	0.755	US	USA
+1357	ab	2	Germany	0.136	DE	DEU
+1358	ab	3	Other	0.109	ZZ	ZZZ
+1359	ie	1	United States	0.78	US	USA
+1360	ie	2	Germany	0.156	DE	DEU
+1361	ie	3	Other	0.064	ZZ	ZZZ
+1362	udm	1	United States	0.722	US	USA
+1363	udm	2	Germany	0.176	DE	DEU
+1364	udm	3	Other	0.102	ZZ	ZZZ
+1365	tw	1	United States	0.565	US	USA
+1366	tw	2	Ukraine	0.296	UA	UKR
+1367	tw	3	Germany	0.093	DE	DEU
+1368	tw	4	Other	0.046	ZZ	ZZZ
+1369	mt	1	United States	0.787	US	USA
+1370	mt	2	Germany	0.13	DE	DEU
+1371	mt	3	Other	0.083	ZZ	ZZZ
+1372	av	1	United States	0.755	US	USA
+1373	av	2	Germany	0.16	DE	DEU
+1374	av	3	Other	0.085	ZZ	ZZZ
+1375	kaa	1	United States	0.728	US	USA
+1376	kaa	2	Germany	0.204	DE	DEU
+1377	kaa	3	Other	0.068	ZZ	ZZZ
+1378	bxr	1	United States	0.725	US	USA
+1379	bxr	2	Germany	0.157	DE	DEU
+1380	bxr	3	Other	0.118	ZZ	ZZZ
+1381	dv	1	United States	0.755	US	USA
+1382	dv	2	Germany	0.147	DE	DEU
+1383	dv	3	Other	0.098	ZZ	ZZZ

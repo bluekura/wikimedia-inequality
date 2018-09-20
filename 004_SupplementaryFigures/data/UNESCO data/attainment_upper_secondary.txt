@@ -1,0 +1,574 @@
+EDULIT_IND	Indicator	LOCATION	Country	TIME	Time	Value	Flag Codes	Flags
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2000	2000	20.39844		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2005	2005	22.76704		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2007	2007	23.0604		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2010	2010	25.86958		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2011	2011	27.3734		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2012	2012	32.4357		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2013	2013	34.4805		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2014	2014	35.77473		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLT	Malta	2015	2015	36.9078		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2001	2001	55.074		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2005	2005	63.55242		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2009	2009	74.53801		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2010	2010	75.69111		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2011	2011	76.65756		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2012	2012	77.63198		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2013	2013	78.48742		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2014	2014	74.12236		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HUN	Hungary	2015	2015	75.09918		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ARG	Argentina	2001	2001	34.29335		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ARG	Argentina	2003	2003	42.15663		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ETH	Ethiopia	2007	2007	7.02419		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ETH	Ethiopia	2011	2011	8.83605		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGD	Bangladesh	2001	2001	17.12843		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BMU	Bermuda	2000	2000	84.9348		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BMU	Bermuda	2010	2010	77.01597		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SYC	Seychelles	2002	2002	46.03647		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FJI	Fiji	2007	2007	39.32962		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IRN	Iran (Islamic Republic of)	2006	2006	43.35366		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IRN	Iran (Islamic Republic of)	2008	2008	39.13467		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IRN	Iran (Islamic Republic of)	2010	2010	42.48559		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IRN	Iran (Islamic Republic of)	2012	2012	44.23712		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IRN	Iran (Islamic Republic of)	2013	2013	46.31185		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IRN	Iran (Islamic Republic of)	2014	2014	46.95283		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2001	2001	39.94764		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2003	2003	50.52935		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2007	2007	61.72164		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2009	2009	75.26008		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2010	2010	75.52083		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2011	2011	74.91494		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2012	2012	76.24888		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2013	2013	78.298		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LUX	Luxembourg	2014	2014	79.56585		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MUS	Mauritius	2000	2000	20.39844		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MUS	Mauritius	2011	2011	43.5839		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MNE	Montenegro	2003	2003	64.55425		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MNE	Montenegro	2011	2011	72.55584		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2001	2001	26.97645		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2002	2002	47.23959		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2003	2003	49.35774		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2004	2004	50.2828		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2005	2005	50.95873		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2006	2006	51.69332		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2007	2007	51.94975		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2008	2008	54.18271		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2009	2009	57.09445		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2010	2010	58.01028		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2011	2011	59.02537		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2012	2012	61.51736		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2014	2014	64.21572		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2015	2015	64.62436		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2004	2004	74.0511		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2005	2005	73.62079		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2006	2006	75.03429		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2007	2007	73.21063		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2008	2008	75.80002		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2009	2009	77.31821		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2010	2010	77.67381		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2011	2011	78.44617		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2012	2012	79.15782		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2013	2013	79.77965		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2014	2014	80.09109		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVN	Slovenia	2015	2015	81.50327		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BHS	Bahamas	2000	2000	70.94155		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BHS	Bahamas	2010	2010	81.87773		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2003	2003	34.4548		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2006	2006	24.739		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2008	2008	26.97723		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2009	2009	27.75097		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2010	2010	27.1736		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2011	2011	27.01846		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2012	2012	27.54371		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2013	2013	27.5789		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2014	2014	28.45315		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2015	2015	28.74776		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BTN	Bhutan	2012	2012	5.50574		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GBR	United Kingdom of Great Britain and Northern Ireland	2009	2009	84.67217		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GBR	United Kingdom of Great Britain and Northern Ireland	2010	2010	86.42583		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GBR	United Kingdom of Great Britain and Northern Ireland	2011	2011	86.08344		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GBR	United Kingdom of Great Britain and Northern Ireland	2012	2012	87.73566		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GBR	United Kingdom of Great Britain and Northern Ireland	2013	2013	74.00227		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GBR	United Kingdom of Great Britain and Northern Ireland	2014	2014	74.70639		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	RUS	Russian Federation	2002	2002	89.07696		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	RUS	Russian Federation	2010	2010	84.53024		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2000	2000	18.57731		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2004	2004	22.41144		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2005	2005	25.87864		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2006	2006	30.26075		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2007	2007	30.20546		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2008	2008	30.34551		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2009	2009	31.35027		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2010	2010	29.20441		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2012	2012	33.79751		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2013	2013	31.62993		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2014	2014	31.79973		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MEX	Mexico	2015	2015	33.34622		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SEN	Senegal	2006	2006	4.92511		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SEN	Senegal	2011	2011	5.61641		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SEN	Senegal	2013	2013	8.23461		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	UKR	Ukraine	2001	2001	74.31923		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KEN	Kenya	2009	2009	27.05626		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KEN	Kenya	2010	2010	22.02862		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2003	2003	24.07877		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2005	2005	29.61668		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2006	2006	27.35122		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2007	2007	26.41563		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2008	2008	28.61777		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2009	2009	27.14442		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2014	2014	36.5642		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2015	2015	38.10089		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DZA	Algeria	2006	2006	7.65762		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DZA	Algeria	2008	2008	25.41652		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2006	2006	26.40831		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2007	2007	26.00787		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2008	2008	26.20051		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2009	2009	27.84471		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2011	2011	28.93486		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2014	2014	31.09284		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2015	2015	32.26202		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GUY	Guyana	2002	2002	31.19339		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KOR	Republic of Korea	2000	2000	63.7146		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KOR	Republic of Korea	2005	2005	69.2535		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KOR	Republic of Korea	2009	2009	66.03619		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KOR	Republic of Korea	2010	2010	72.7248		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TJK	Tajikistan	2000	2000	78.96372		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2004	2004	64.72815		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2005	2005	64.95449		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2007	2007	67.44873		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2008	2008	66.22115		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2009	2009	66.34462		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2010	2010	66.77232		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2011	2011	66.4096		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2012	2012	67.09863		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2013	2013	69.52969		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2014	2014	69.4222		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2015	2015	69.57044		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	1999	1999	83.52632		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2007	2007	82.94914		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2008	2008	82.96022		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2009	2009	88.61049		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2010	2010	88.6454		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2011	2011	88.65878		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2012	2012	88.71309		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2013	2013	88.71621		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2014	2014	88.71417		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2015	2015	88.66508		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TON	Tonga	2006	2006	23.35876		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TON	Tonga	2011	2011	54.12891		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2007	2007	73.56458		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2008	2008	77.28767		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2014	2014	88.1058		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2015	2015	90.19632		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SAU	Saudi Arabia	2000	2000	30.0666		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SAU	Saudi Arabia	2004	2004	34.1683		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SAU	Saudi Arabia	2013	2013	48.89058		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2004	2004	37.26165		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2005	2005	40.38942		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2006	2006	41.44183		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2007	2007	42.32306		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2008	2008	42.83237		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2009	2009	43.33484		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2010	2010	44.25182		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2011	2011	45.26531		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2012	2012	45.60115		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2014	2014	47.23725		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ESP	Spain	2015	2015	47.86305		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ARE	United Arab Emirates	2005	2005	47.10615		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LSO	Lesotho	2008	2008	13.80993		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2006	2006	85.47783		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2007	2007	85.77609		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2008	2008	86.13708		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2009	2009	87.24941		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2010	2010	87.99366		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2011	2011	88.39896		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2012	2012	88.52554		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2013	2013	89.15957		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2014	2014	89.63336		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2015	2015	89.77071		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	POL	Poland	2002	2002	71.89014		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	POL	Poland	2008	2008	78.83979		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	POL	Poland	2009	2009	79.90865		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	POL	Poland	2010	2010	80.81998		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	POL	Poland	2011	2011	81.54959		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	POL	Poland	2012	2012	82.09385		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	POL	Poland	2013	2013	82.84863		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	POL	Poland	2014	2014	83.48578		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	WSM	Samoa	2001	2001	63.02887		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	WSM	Samoa	2011	2011	72.46522		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2004	2004	21.02692		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2005	2005	22.19003		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2006	2006	23.20075		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2007	2007	23.68567		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2008	2008	26.49287		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2009	2009	27.7025		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2010	2010	29.98639		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2011	2011	31.79867		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2012	2012	32.76626		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2013	2013	33.75851		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2014	2014	35.23742		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2015	2015	37.07356		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KHM	Cambodia	2007	2007	6.42406		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KHM	Cambodia	2008	2008	3.00848		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KHM	Cambodia	2009	2009	6.26352		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2007	2007	72.91832		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2008	2008	74.19954		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2009	2009	75.19131		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2010	2010	74.40273		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2011	2011	74.43658		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2012	2012	74.54645		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2013	2013	74.10776		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2014	2014	74.72079		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2015	2015	74.7263		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2001	2001	59.46212		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2006	2006	64.44891		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2007	2007	67.02065		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2008	2008	67.61235		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2009	2009	68.25976		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2010	2010	69.61495		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2011	2011	70.65317		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2012	2012	72.48086		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2013	2013	73.93796		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2014	2014	73.81309		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BGR	Bulgaria	2015	2015	74.91267		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	JOR	Jordan	2003	2003	1.40941		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	JOR	Jordan	2007	2007	51.1536		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	JOR	Jordan	2008	2008	41.04938		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	JOR	Jordan	2010	2010	41.35471		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	RWA	Rwanda	2010	2010	5.16919		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	RWA	Rwanda	2012	2012	8.4163		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2004	2004	57.13891		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2005	2005	58.66734		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2006	2006	61.20075		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2007	2007	63.52534		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2008	2008	64.49926		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2009	2009	63.82221		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2010	2010	65.45372		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2011	2011	67.7841		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2012	2012	68.92121		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2013	2013	69.89255		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2014	2014	69.49955		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2015	2015	69.05065		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2005	2005	74.20216		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2007	2007	73.59061		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2008	2008	72.46946		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2009	2009	75.81019		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2010	2010	76.5561		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2011	2011	76.4277		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2012	2012	76.97511		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2013	2013	77.30636		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2014	2014	78.10984		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUT	Austria	2015	2015	79.0129		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2004	2004	55.69758		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2005	2005	56.59061		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2007	2007	59.42295		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2008	2008	60.34956		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2009	2009	61.25699		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2010	2010	61.89694		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2011	2011	62.77157		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2012	2012	63.74972		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2013	2013	66.33516		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2014	2014	68.53022		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	FRA	France	2015	2015	69.43743		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	1999	1999	15.25654		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2000	2000	15.67507		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2001	2001	16.4254		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2002	2002	16.74171		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2003	2003	18.44426		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2004	2004	20.33035		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2005	2005	21.3363		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2006	2006	22.40993		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2007	2007	22.29382		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2008	2008	22.79752		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2009	2009	24.05503		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2010	2010	25.59531		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2011	2011	27.87613		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2012	2012	30.02282		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2013	2013	31.86906		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2014	2014	34.20759		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2015	2015	35.42893		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2004	2004	30.76329		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2006	2006	31.21935		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2007	2007	32.05209		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2008	2008	32.75967		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2009	2009	35.01154		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2010	2010	34.95087		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2011	2011	36.35605		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2012	2012	38.02421		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2013	2013	38.50715		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2014	2014	37.95655		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2015	2015	39.02187		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GEO	Georgia	2002	2002	83.66328		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GEO	Georgia	2012	2012	90.9255		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GEO	Georgia	2014	2014	91.76957		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SYR	Syrian Arab Republic	2002	2002	10.43196		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SYR	Syrian Arab Republic	2007	2007	21.85247		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SYR	Syrian Arab Republic	2008	2008	21.35331		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SYR	Syrian Arab Republic	2009	2009	21.89957		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BIH	Bosnia and Herzegovina	2010	2010	31.11343		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BIH	Bosnia and Herzegovina	2011	2011	32.74236		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BIH	Bosnia and Herzegovina	2014	2014	59.57389		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BIH	Bosnia and Herzegovina	2015	2015	60.82957		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	UGA	Uganda	2002	2002	6.45394		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	UGA	Uganda	2008	2008	8.77389		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	UGA	Uganda	2010	2010	10.66673		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	UGA	Uganda	2012	2012	9.8698		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BFA	Burkina Faso	2006	2006	4.00732		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BFA	Burkina Faso	2007	2007	0.4951		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BFA	Burkina Faso	2014	2014	2.80549		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KAZ	Kazakhstan	1999	1999	70.51832		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KAZ	Kazakhstan	2007	2007	96.30823		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KAZ	Kazakhstan	2009	2009	84.97518		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2006	2006	57.73293		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2008	2008	60.42416		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2009	2009	61.6929		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2010	2010	61.72838		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2011	2011	62.75993		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2012	2012	63.2111		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2013	2013	64.27868		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2014	2014	64.01887		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2015	2015	66.21058		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2004	2004	79.05493		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2005	2005	80.07761		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2006	2006	79.83437		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2007	2007	80.97098		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2008	2008	82.15969		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2009	2009	84.12522		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2010	2010	85.56651		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2011	2011	85.07553		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2012	2012	86.34324		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2013	2013	87.16148		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2014	2014	87.78638		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2015	2015	88.59691		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TZA	United Republic of Tanzania	2002	2002	1.62288		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TZA	United Republic of Tanzania	2012	2012	3.39596		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ISR	Israel	2007	2007	76.76325		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ISR	Israel	2009	2009	77.34143		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ISR	Israel	2010	2010	77.59003		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ISR	Israel	2011	2011	78.53988		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ISR	Israel	2012	2012	80.29424		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ISR	Israel	2013	2013	80.65508		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ISR	Israel	2014	2014	81.23329		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ISR	Israel	2015	2015	81.44175		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NZL	New Zealand	2006	2006	72.77233		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NZL	New Zealand	2011	2011	68.9641		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NZL	New Zealand	2012	2012	68.79362		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NZL	New Zealand	2014	2014	69.49483		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NZL	New Zealand	2015	2015	69.53803		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SUR	Suriname	2004	2004	8.69516		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SUR	Suriname	2012	2012	24.71605		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PHL	Philippines	2000	2000	35.70847		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PHL	Philippines	2004	2004	51.09818		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PHL	Philippines	2010	2010	55.99817		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PHL	Philippines	2013	2013	58.45674		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2001	2001	35.44435		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2005	2005	40.49738		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2006	2006	41.40566		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2007	2007	43.08965		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2008	2008	43.99956		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2009	2009	44.72695		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2010	2010	45.50069		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2011	2011	46.16074		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2012	2012	47.284		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2014	2014	48.64048		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ITA	Italy	2015	2015	49.15258		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2002	2002	52.6526		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2007	2007	64.27207		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2008	2008	64.71768		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2009	2009	64.22727		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2010	2010	64.03176		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2011	2011	64.86162		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2012	2012	65.83821		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2013	2013	66.45926		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2014	2014	62.9813		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ROU	Romania	2015	2015	64.66319		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2003	2003	84.26317		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2004	2004	82.27848		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2007	2007	76.28141		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2008	2008	78.78989		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2009	2009	74.97761		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2010	2010	74.93998		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2011	2011	75.47676		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2012	2012	76.00238		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2013	2013	76.54907		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2014	2014	76.835		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DNK	Denmark	2015	2015	77.74914		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2004	2004	80.6915		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2005	2005	71.2689		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2006	2006	73.2487		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2007	2007	73.64836		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2008	2008	74.92724		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2009	2009	74.89191		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2010	2010	75.41419		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2011	2011	75.99202		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2014	2014	77.00606		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	NOR	Norway	2015	2015	77.48572		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2004	2004	78.48408		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2005	2005	77.62368		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2006	2006	77.84647		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2007	2007	79.11421		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2008	2008	80.16417		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2009	2009	80.61875		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2010	2010	81.12799		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2011	2011	81.72286		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2012	2012	82.04736		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2013	2013	82.30825		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2014	2014	82.99721		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DEU	Germany	2015	2015	83.08337		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	JPN	Japan	2010	2010	80.61339		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2005	2005	74.17682		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2006	2006	75.85506		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2007	2007	76.53515		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2008	2008	78.35047		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2009	2009	79.4271		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2010	2010	80.54962		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2011	2011	81.66578		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2012	2012	81.55287		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2013	2013	82.31009		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2014	2014	83.32887		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2015	2015	84.3143		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2004	2004	64.121		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2005	2005	65.03385		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2006	2006	66.71384		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2007	2007	68.18978		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2008	2008	70.08896		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2009	2009	70.85574		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2010	2010	72.79897		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2011	2011	74.06167		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2012	2012	76.48302		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2013	2013	72.03684		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2014	2014	71.23394		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	AUS	Australia	2015	2015	75.55976		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CUB	Cuba	2002	2002	40.35344		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CUB	Cuba	2012	2012	57.40553		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZWE	Zimbabwe	2002	2002	10.35751		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZWE	Zimbabwe	2012	2012	6.08306		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ZWE	Zimbabwe	2014	2014	15.19199		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLI	Mali	2006	2006	5.49086		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLI	Mali	2011	2011	7.964		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MLI	Mali	2015	2015	6.03522		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GHA	Ghana	2010	2010	20.56397		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TTO	Trinidad and Tobago	2008	2008	57.02307		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	TTO	Trinidad and Tobago	2009	2009	56.73412		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2007	2007	33.45751		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2008	2008	35.73051		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2009	2009	36.54697		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2010	2010	35.50172		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2011	2011	36.54348		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2012	2012	37.38465		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2014	2014	40.21864		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2015	2015	37.99146		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ALB	Albania	2001	2001	37.04489		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ALB	Albania	2008	2008	39.88911		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ALB	Albania	2011	2011	43.49034		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	ALB	Albania	2012	2012	45.27915		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2004	2004	40.97153		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2007	2007	49.30328		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2008	2008	50.82884		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2009	2009	43.39208		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2010	2010	36.73773		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2011	2011	41.11023		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2012	2012	41.34369		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2013	2013	46.0669		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2014	2014	43.96334		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	THA	Thailand	2004	2004	22.64363		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	THA	Thailand	2006	2006	22.56996		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	THA	Thailand	2010	2010	27.33811		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	THA	Thailand	2013	2013	29.29227		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	THA	Thailand	2016	2016	32.67467		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BHR	Bahrain	2001	2001	49.65031		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BHR	Bahrain	2010	2010	42.11301		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HND	Honduras	2007	2007	16.10874		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HND	Honduras	2011	2011	19.22214		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HND	Honduras	2012	2012	18.59373		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	HND	Honduras	2014	2014	23.01444		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2004	2004	29.416		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2006	2006	32.42108		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2007	2007	33.74557		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2008	2008	35.45447		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2009	2009	37.10688		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2010	2010	35.92268		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2011	2011	39.36098		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2012	2012	40.61119		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2013	2013	41.85367		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BRA	Brazil	2014	2014	42.56138		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CHE	Switzerland	2009	2009	82.71612		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CHE	Switzerland	2010	2010	82.45457		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CHE	Switzerland	2011	2011	82.35539		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CHE	Switzerland	2012	2012	83.24146		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CHE	Switzerland	2014	2014	84.64385		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CHE	Switzerland	2015	2015	85.19001		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2002	2002	13.28248		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2006	2006	10.58574		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2012	2012	17.64713		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2013	2013	19.35415		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2014	2014	26.59973		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SRB	Serbia	2008	2008	62.54542		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SRB	Serbia	2009	2009	62.99123		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SRB	Serbia	2010	2010	63.66581		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SRB	Serbia	2011	2011	66.59641		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SRB	Serbia	2013	2013	66.56281		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SRB	Serbia	2014	2014	68.57246		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SRB	Serbia	2015	2015	70.89628		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2007	2007	30.82212		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2010	2010	30.82697		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2011	2011	31.72078		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2012	2012	32.61209		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2013	2013	33.48635		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2014	2014	34.17121		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2015	2015	34.86874		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	OMN	Oman	2003	2003	28.95032		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	OMN	Oman	2008	2008	41.46747		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	OMN	Oman	2010	2010	41.20039		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	OMN	Oman	2015	2015	50.36949		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KGZ	Kyrgyzstan	1999	1999	76.97304		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	KGZ	Kyrgyzstan	2009	2009	88.37019		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	BLR	Belarus	2009	2009	84.8541		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	CHN	China	2010	2010	22.316		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2001	2001	41.75398		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2011	2011	84.84931		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2012	2012	85.37905		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2013	2013	85.96088		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2014	2014	85.31762		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2015	2015	86.68583		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2005	2005	59.38451		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2006	2006	58.74782		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2007	2007	59.64626		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2008	2008	63.17277		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2009	2009	63.17813		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2010	2010	65.52106		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2011	2011	66.56931		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2012	2012	67.70484		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2013	2013	68.78067		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2014	2014	69.54629		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SGP	Singapore	2015	2015	70.91709		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2004	2004	85.15315		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2005	2005	85.19178		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2006	2006	85.72323		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2008	2008	86.61413		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2009	2009	86.70908		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2010	2010	87.14941		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2011	2011	87.59089		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2012	2012	87.6791		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2013	2013	88.15031		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2014	2014	88.31358		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	USA	United States of America	2015	2015	88.41197		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MNG	Mongolia	2000	2000	53.37226		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	MNG	Mongolia	2010	2010	67.57306		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GRC	Greece	2005	2005	48.98368		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GRC	Greece	2006	2006	44.41637		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GRC	Greece	2007	2007	52.17163		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GRC	Greece	2008	2008	52.66654		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GRC	Greece	2010	2010	53.66228		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GRC	Greece	2014	2014	56.27493		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	GRC	Greece	2015	2015	57.92509		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PAN	Panama	2000	2000	33.67726		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	PAN	Panama	2010	2010	43.0041		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2006	2006	24.41154		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2007	2007	21.55644		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2008	2008	24.80105		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2009	2009	25.0721		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2010	2010	26.69205		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2011	2011	25.31797		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2012	2012	26.57479		
+EA_3T8_AG25T99	Educational attainment: at least completed upper secondary (ISCED 3 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2013	2013	26.98736		

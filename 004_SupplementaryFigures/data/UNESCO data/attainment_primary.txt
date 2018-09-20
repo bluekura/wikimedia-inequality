@@ -1,0 +1,458 @@
+EDULIT_IND	Indicator	LOCATION	Country	TIME	Time	Value	Flag Codes	Flags
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2004	2004	63.19961		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2007	2007	74.15696		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2008	2008	77.60057		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2009	2009	75.51861		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2010	2010	75.10961		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2011	2011	71.0144		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2012	2012	75.04228		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2013	2013	83.63504		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	QAT	Qatar	2014	2014	84.2349		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AND	Andorra	2006	2006	93.00279		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AND	Andorra	2014	2014	96.53449		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AND	Andorra	2015	2015	96.45533		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2004	2004	98.47055		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2005	2005	98.42296		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2006	2006	98.54377		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2008	2008	98.67673		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2009	2009	98.59418		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2010	2010	98.68843		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2011	2011	98.7173		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2012	2012	98.79048		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2013	2013	98.86702		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2014	2014	98.79341		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	USA	United States of America	2015	2015	98.77388		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CUB	Cuba	2002	2002	85.93741		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CUB	Cuba	2012	2012	91.19461		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MNG	Mongolia	2000	2000	94.46308		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MNG	Mongolia	2010	2010	95.49479		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KEN	Kenya	2009	2009	57.17208		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KEN	Kenya	2010	2010	50.98652		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LBN	Lebanon	2007	2007	78.44017		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLI	Mali	2006	2006	18.62671		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLI	Mali	2011	2011	16.31406		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLI	Mali	2015	2015	22.05014		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TCD	Chad	2004	2004	8.54493		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BLR	Belarus	2009	2009	99.03563		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DZA	Algeria	2006	2006	46.5909		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DZA	Algeria	2008	2008	64.37154		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ARG	Argentina	2001	2001	80.87169		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ARG	Argentina	2003	2003	89.97009		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KOR	Republic of Korea	2000	2000	91.65915		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KOR	Republic of Korea	2005	2005	93.06964		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KOR	Republic of Korea	2009	2009	90.98401		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KOR	Republic of Korea	2010	2010	94.30453		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	RWA	Rwanda	2010	2010	27.30828		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	RWA	Rwanda	2012	2012	31.08499		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	1999	1999	96.98462		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2007	2007	97.12163		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2008	2008	97.1324		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2009	2009	98.37981		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2010	2010	98.44966		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2011	2011	98.44816		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2012	2012	98.46663		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2013	2013	98.52169		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2014	2014	98.53766		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AZE	Azerbaijan	2015	2015	98.50648		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2000	2000	77.63927		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2005	2005	96.17909		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2007	2007	96.70071		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2010	2010	97.82323		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2011	2011	98.07987		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2012	2012	98.20881		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2013	2013	98.43511		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2014	2014	98.46613		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MLT	Malta	2015	2015	98.85703		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KHM	Cambodia	2007	2007	34.23195		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KHM	Cambodia	2008	2008	36.8617		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KHM	Cambodia	2009	2009	35.63274		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SSD	South Sudan	2008	2008	63.03214		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MKD	The former Yugoslav Republic of Macedonia	2002	2002	78.60071		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MYS	Malaysia	2000	2000	84.76922		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MYS	Malaysia	2005	2005	82.35811		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MYS	Malaysia	2009	2009	90.59616		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MYS	Malaysia	2010	2010	91.21787		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2004	2004	98.34358		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2005	2005	98.60759		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2007	2007	99.16474		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2008	2008	99.27945		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2009	2009	98.88952		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2010	2010	98.43424		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2011	2011	98.44558		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2012	2012	98.45092		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2013	2013	97.89605		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2014	2014	97.54462		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	FRA	France	2015	2015	97.52242		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BIH	Bosnia and Herzegovina	2010	2010	73.09963		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BIH	Bosnia and Herzegovina	2011	2011	74.34972		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BIH	Bosnia and Herzegovina	2014	2014	78.04538		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BIH	Bosnia and Herzegovina	2015	2015	79.87345		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2002	2002	95.34629		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2007	2007	97.71719		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2008	2008	97.82862		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2009	2009	98.02963		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2010	2010	98.16192		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2011	2011	98.40665		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2012	2012	98.53948		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2013	2013	98.64797		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2014	2014	98.58204		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ROU	Romania	2015	2015	98.63993		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TJK	Tajikistan	2000	2000	97.15865		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2001	2001	62.25691		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2002	2002	68.68414		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2003	2003	70.8406		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2004	2004	71.47269		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2005	2005	72.21898		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2006	2006	72.98714		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2007	2007	74.1135		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2008	2008	74.36147		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2009	2009	77.97071		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2010	2010	78.46267		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2011	2011	79.08847		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2012	2012	81.09812		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2014	2014	81.78265		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZAF	South Africa	2015	2015	82.38449		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2004	2004	79.66867		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2005	2005	79.34397		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2006	2006	79.33135		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2007	2007	80.03004		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2008	2008	81.06722		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2009	2009	82.65136		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2010	2010	85.19231		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2011	2011	86.46679		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2012	2012	86.95696		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2013	2013	87.2977		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2014	2014	87.8281		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TUR	Turkey	2015	2015	88.27713		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2007	2007	77.50686		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2008	2008	79.0691		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2009	2009	79.7336		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2010	2010	79.26555		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2011	2011	79.91407		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2012	2012	80.23139		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2014	2014	82.0141		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CRI	Costa Rica	2015	2015	81.3329		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SWE	Sweden	2013	2013	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SWE	Sweden	2014	2014	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SWE	Sweden	2015	2015	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BTN	Bhutan	2012	2012	20.42908		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BFA	Burkina Faso	2006	2006	11.271		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BFA	Burkina Faso	2007	2007	5.16848		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SEN	Senegal	2006	2006	10.85229		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SEN	Senegal	2011	2011	21.77545		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SEN	Senegal	2013	2013	27.34778		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	JPN	Japan	2010	2010	99.86057		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CHL	Chile	2004	2004	87.01519		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CHL	Chile	2007	2007	88.941		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CHL	Chile	2008	2008	85.60041		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CHL	Chile	2009	2009	81.71729		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CHL	Chile	2010	2010	84.66626		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CHL	Chile	2011	2011	80.87242		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CHL	Chile	2013	2013	85.63364		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KGZ	Kyrgyzstan	1999	1999	96.51809		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KGZ	Kyrgyzstan	2009	2009	97.97211		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MAC	China, Macao Special Administrative Region	2001	2001	78.85357		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MAC	China, Macao Special Administrative Region	2006	2006	83.11769		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MAC	China, Macao Special Administrative Region	2011	2011	87.59429		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAN	Panama	2000	2000	76.35757		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAN	Panama	2010	2010	82.62936		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2006	2006	52.14673		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2007	2007	49.50285		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2008	2008	51.79769		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2009	2009	52.74111		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2010	2010	56.95922		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2011	2011	53.98377		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2012	2012	55.45736		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SLV	El Salvador	2013	2013	56.40698		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GRC	Greece	2005	2005	92.02914		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GRC	Greece	2006	2006	90.95724		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GRC	Greece	2007	2007	93.11767		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GRC	Greece	2008	2008	93.28714		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GRC	Greece	2010	2010	93.3814		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GRC	Greece	2014	2014	94.68892		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GRC	Greece	2015	2015	95.26078		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BHR	Bahrain	2001	2001	80.32081		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BHR	Bahrain	2010	2010	68.29699		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2001	2001	99.63876		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2011	2011	99.87024		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2012	2012	99.74244		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2013	2013	99.7523		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2014	2014	99.78484		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SVK	Slovakia	2015	2015	99.82197		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	THA	Thailand	2004	2004	55.04425		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	THA	Thailand	2006	2006	51.35322		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	THA	Thailand	2010	2010	60.79637		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	THA	Thailand	2013	2013	61.47497		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	THA	Thailand	2016	2016	65.74324		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2002	2002	31.27362		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2006	2006	29.7706		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2012	2012	43.36518		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2013	2013	44.54583		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GTM	Guatemala	2014	2014	61.81828		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	GHA	Ghana	2010	2010	64.66984		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	UKR	Ukraine	2001	2001	97.18256		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	OMN	Oman	2003	2003	51.82005		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	OMN	Oman	2008	2008	66.37063		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	OMN	Oman	2010	2010	64.44375		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	OMN	Oman	2015	2015	83.88591		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2007	2007	55.1926		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2010	2010	62.85334		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2011	2011	64.09265		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2012	2012	64.59923		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2013	2013	65.22193		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2014	2014	66.50808		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DOM	Dominican Republic	2015	2015	66.80485		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2004	2004	89.13424		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2005	2005	91.69501		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2006	2006	92.53257		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2007	2007	92.62402		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2008	2008	92.50935		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2009	2009	92.52577		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2010	2010	93.12907		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2011	2011	94.77306		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2012	2012	94.03773		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2013	2013	94.36194		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2014	2014	93.90716		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYP	Cyprus	2015	2015	93.89231		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ARE	United Arab Emirates	2005	2005	74.45433		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ECU	Ecuador	2008	2008	79.55426		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ECU	Ecuador	2009	2009	69.67801		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ECU	Ecuador	2010	2010	71.87594		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ECU	Ecuador	2013	2013	79.22296		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ECU	Ecuador	2014	2014	81.05611		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ECU	Ecuador	2015	2015	82.59524		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HND	Honduras	2007	2007	45.69674		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HND	Honduras	2011	2011	52.83399		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HND	Honduras	2012	2012	53.12702		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HND	Honduras	2014	2014	58.52513		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BOL	Bolivia (Plurinational State of)	2001	2001	58.06432		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BOL	Bolivia (Plurinational State of)	2006	2006	45.76689		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BOL	Bolivia (Plurinational State of)	2008	2008	49.76619		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BOL	Bolivia (Plurinational State of)	2009	2009	51.65605		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BOL	Bolivia (Plurinational State of)	2012	2012	58.578		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	JOR	Jordan	2003	2003	68.49916		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	JOR	Jordan	2007	2007	82.76685		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	JOR	Jordan	2008	2008	84.45034		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	JOR	Jordan	2010	2010	85.14888		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2004	2004	98.23575		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2005	2005	98.2698		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2007	2007	98.58512		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2008	2008	98.32487		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2009	2009	98.24499		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2010	2010	98.30076		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2011	2011	98.31741		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2012	2012	98.39972		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2013	2013	98.46996		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2014	2014	98.43279		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NLD	Netherlands	2015	2015	98.44808		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2006	2006	80.19658		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2007	2007	71.69862		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2008	2008	71.87894		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2009	2009	72.85479		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2011	2011	74.43771		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2014	2014	76.60042		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	IDN	Indonesia	2015	2015	77.63035		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2004	2004	86.62874		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2005	2005	85.94746		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2006	2006	86.58106		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2007	2007	86.95586		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2008	2008	87.40165		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2009	2009	87.53907		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2010	2010	88.21069		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2011	2011	88.52355		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2012	2012	89.12309		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2014	2014	90.14872		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ESP	Spain	2015	2015	90.4641		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2004	2004	97.03149		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2005	2005	98.84842		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2006	2006	98.85358		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2007	2007	97.225		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2008	2008	98.87254		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2014	2014	99.77701		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CYM	Cayman Islands	2015	2015	99.02892		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	UGA	Uganda	2002	2002	30.60846		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	UGA	Uganda	2008	2008	34.89214		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	UGA	Uganda	2010	2010	44.27227		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	UGA	Uganda	2012	2012	32.50425		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2005	2005	30.30418		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2006	2006	45.93362		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2008	2008	43.39153		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2009	2009	44.96119		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2010	2010	46.23975		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2011	2011	48.34951		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2012	2012	47.68988		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2013	2013	48.53953		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PAK	Pakistan	2014	2014	49.80614		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2001	2001	92.05681		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2005	2005	92.23941		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2006	2006	92.55968		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2007	2007	92.71868		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2008	2008	93.10191		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2009	2009	93.41809		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2010	2010	93.69987		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2011	2011	93.97998		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2012	2012	94.38955		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2014	2014	95.00383		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ITA	Italy	2015	2015	95.26946		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LSO	Lesotho	2008	2008	40.92803		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	AIA	Anguilla	2001	2001	95.5177		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ETH	Ethiopia	2007	2007	25.41249		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ETH	Ethiopia	2011	2011	24.63092		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2007	2007	98.34266		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2008	2008	98.76696		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2009	2009	98.94769		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2010	2010	98.88514		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2011	2011	98.92131		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2012	2012	99.06975		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2013	2013	99.12035		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2014	2014	99.29036		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MDA	Republic of Moldova	2015	2015	99.38811		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SYC	Seychelles	2002	2002	94.17335		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRI	Puerto Rico	2000	2000	89.03479		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRI	Puerto Rico	2012	2012	88.83968		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	WSM	Samoa	2001	2001	96.29061		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	WSM	Samoa	2011	2011	99.02468		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2003	2003	91.24403		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2006	2006	82.94837		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2008	2008	85.53663		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2009	2009	85.9556		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2010	2010	85.64122		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2011	2011	87.61919		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2012	2012	88.36092		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2013	2013	88.62465		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2014	2014	88.93866		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	URY	Uruguay	2015	2015	89.38932		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2006	2006	99.88014		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2007	2007	99.88188		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2008	2008	99.86738		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2009	2009	99.86653		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2010	2010	99.87434		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2011	2011	99.8645		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2012	2012	99.8714		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2013	2013	99.84897		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2014	2014	99.85421		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	CZE	Czechia	2015	2015	99.84998		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HKG	China, Hong Kong Special Administrative Region	2006	2006	93.07929		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HKG	China, Hong Kong Special Administrative Region	2008	2008	93.59755		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HKG	China, Hong Kong Special Administrative Region	2009	2009	93.84373		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HKG	China, Hong Kong Special Administrative Region	2010	2010	93.7161		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HKG	China, Hong Kong Special Administrative Region	2011	2011	94.13188		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HKG	China, Hong Kong Special Administrative Region	2014	2014	95.02565		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	HKG	China, Hong Kong Special Administrative Region	2015	2015	95.37944		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2004	2004	59.38469		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2006	2006	92.78796		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2007	2007	94.64834		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2009	2009	94.61038		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2010	2010	94.59195		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2011	2011	95.08704		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2012	2012	95.35587		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2013	2013	95.33005		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2014	2014	95.57487		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ISR	Israel	2015	2015	95.631		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2003	2003	65.69847		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2005	2005	64.96593		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2006	2006	64.10416		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2007	2007	66.55965		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2008	2008	67.01064		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2009	2009	61.81512		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2014	2014	73.409		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRY	Paraguay	2015	2015	74.91305		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2004	2004	99.35533		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2005	2005	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2006	2006	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2007	2007	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2008	2008	99.45245		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2009	2009	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2010	2010	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2011	2011	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2012	2012	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2013	2013	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2014	2014	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LVA	Latvia	2015	2015	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MUS	Mauritius	2000	2000	49.16564		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	MUS	Mauritius	2011	2011	66.98357		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2005	2005	98.10734		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2006	2006	97.93315		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2007	2007	97.75277		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2008	2008	98.12927		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2009	2009	98.21746		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2010	2010	98.47515		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2011	2011	98.56241		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2012	2012	98.70134		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2013	2013	98.73986		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2014	2014	98.71091		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	LTU	Lithuania	2015	2015	98.7198		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BRB	Barbados	2000	2000	86.3726		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SYR	Syrian Arab Republic	2002	2002	36.13891		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SYR	Syrian Arab Republic	2007	2007	69.12212		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SYR	Syrian Arab Republic	2008	2008	60.90414		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	SYR	Syrian Arab Republic	2009	2009	67.49159		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	NAM	Namibia	2001	2001	50.03291		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KWT	Kuwait	2005	2005	51.02906		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KWT	Kuwait	2006	2006	51.8809		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KWT	Kuwait	2007	2007	52.96194		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KWT	Kuwait	2008	2008	55.52792		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KWT	Kuwait	2012	2012	64.48291		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KWT	Kuwait	2013	2013	57.74994		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	KWT	Kuwait	2015	2015	62.15685		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TTO	Trinidad and Tobago	2008	2008	94.22583		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TTO	Trinidad and Tobago	2009	2009	94.62544		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ARM	Armenia	2001	2001	97.89708		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ARM	Armenia	2011	2011	99.35955		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ARM	Armenia	2015	2015	99.45579		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2006	2006	92.48347		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2008	2008	93.01065		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2009	2009	93.26414		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2010	2010	92.66365		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2011	2011	92.91851		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2012	2012	92.49424		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2013	2013	93.03236		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2014	2014	93.87284		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BEL	Belgium	2015	2015	95.06906		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2004	2004	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2005	2005	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2006	2006	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2007	2007	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2008	2008	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2009	2009	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2010	2010	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2011	2011	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2012	2012	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2013	2013	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2014	2014	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	DEU	Germany	2015	2015	100		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZWE	Zimbabwe	2002	2002	65.17803		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZWE	Zimbabwe	2012	2012	80.87512		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	ZWE	Zimbabwe	2014	2014	75.78488		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BHS	Bahamas	2000	2000	98.49593		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	BHS	Bahamas	2010	2010	95.07771		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TZA	United Republic of Tanzania	2002	2002	48.86504		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	TZA	United Republic of Tanzania	2012	2012	64.79052		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	1999	1999	77.26104		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2000	2000	78.52071		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2001	2001	79.37171		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2002	2002	80.46712		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2003	2003	81.54325		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2004	2004	83.38644		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2005	2005	84.223		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2006	2006	84.98689		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2007	2007	85.54721		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2008	2008	86.27624		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2009	2009	87.40933		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2010	2010	87.93298		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2011	2011	87.5852		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2012	2012	88.49507		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2013	2013	89.27711		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2014	2014	89.95002		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PRT	Portugal	2015	2015	90.541		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2004	2004	86.19261		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2006	2006	87.51712		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2007	2007	88.19591		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2008	2008	88.59141		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2009	2009	89.55948		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2010	2010	90.08777		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2011	2011	90.85398		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2012	2012	91.99197		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2013	2013	92.58731		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2014	2014	92.68652		
+EA_1T8_AG25T99	Educational attainment: at least completed primary (ISCED 1 or higher), population 25+ years, both sexes (%)	PSE	Palestine	2015	2015	93.25353		

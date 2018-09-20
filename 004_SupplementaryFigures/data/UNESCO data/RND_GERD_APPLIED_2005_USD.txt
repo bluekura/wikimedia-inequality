@@ -1,0 +1,674 @@
+INDICATOR	Indicator	LOCATION	Country	TIME	Time	Value	Flag Codes	Flags
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUS	Australia	1996	1996	2769809.654		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUS	Australia	1998	1998	2528096.436		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2000	2000	3094508.174		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2002	2002	3632648.683		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2004	2004	4639196.898		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2006	2006	5783710.228		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUS	Australia	2008	2008	6843611.884		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUT	Austria	1998	1998	1623258.568		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2002	2002	2071800.177		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2004	2004	2217676.113		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2006	2006	2440607.85		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2007	2007	2594121.057		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2009	2009	2676256.353		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2011	2011	2962492.254		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AUT	Austria	2013	2013	3347158.616		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	1996	1996	498806.8952		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	1997	1997	499768.9974		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	1998	1998	485036.2189		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	1999	1999	501577.2109		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2000	2000	520649.9001		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2001	2001	525817.3584		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2002	2002	601301.8009		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2003	2003	690838.3148		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2004	2004	686870.4567		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2005	2005	763806.2384		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2006	2006	818869.0146		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2007	2007	908931.6472		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2008	2008	926236.3837		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2009	2009	836969.5028		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2010	2010	1132933.423		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2011	2011	1445926.912		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2012	2012	1650280.561		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2013	2013	1566061.082		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CZE	Czechia	2014	2014	1800818.521		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	1996	1996	9859384.411		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	1997	1997	10135290.66		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	1998	1998	9246595.719		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	1999	1999	9895294.955		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2000	2000	12103649.06		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2001	2001	12942819.71		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2002	2002	14191703.8		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2003	2003	14152555.85		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2004	2004	14742071.39		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2005	2005	15252989.23		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2006	2006	15808228.8		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2007	2007	15771358.26		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2008	2008	16430545.68		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2009	2009	17247648.1		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2010	2010	16690586.18		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2011	2011	16644497.84		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2012	2012	17079109.38		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2013	2013	17477467.09		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	FRA	France	2014	2014	17503873.31		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2000	2000	321466.7945		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2001	2001	341772.9026		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2002	2002	448543.1138		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2003	2003	433841.7971		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2004	2004	416248.3342		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2005	2005	509917.7274		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2006	2006	614112.709		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2007	2007	640070.3846		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2008	2008	626750.6724		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2009	2009	665672.3786		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2010	2010	616580.7752		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2011	2011	693249.1394		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2012	2012	761805.1584		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2013	2013	743181.7779		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HUN	Hungary	2014	2014	719796.9225		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	1997	1997	57162.31901		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	1999	1999	100443.453		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2001	2001	162713.1064		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2002	2002	163211.1282		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2003	2003	139407.704		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2005	2005	99420.01133		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2006	2006	118395.7698		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2007	2007	118933.6258		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2008	2008	119052.4319		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2009	2009	114678.2998		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2011	2011	73130.72684		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2013	2013	66489.53426		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2014	2014	104880.5371		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISL	Iceland	2015	2015	154141.754		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	1996	1996	22387423.75		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	1997	1997	23492080.74		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	1998	1998	24194627.62		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	1999	1999	23174233.52		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2000	2000	24345191.55		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2001	2001	24172682.8		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2002	2002	24272931.05		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2003	2003	25141161.16		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2004	2004	25519033.9		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2005	2005	27063134.63		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2006	2006	27516544.04		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2007	2007	29972954.11		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2008	2008	29849013.42		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2009	2009	28168299.75		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2010	2010	27100544.94		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2011	2011	27711188.34		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2012	2012	27448614.67		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2013	2013	29085009.29		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2014	2014	28597023.8		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	JPN	Japan	2015	2015	27862556.47		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	1996	1996	4642886.46		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	1997	1997	5300424.714		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	1998	1998	4145023.783		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	1999	1999	4507421.165		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2000	2000	4909064.355		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2001	2001	5728147.402		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2002	2002	5132130.705		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2003	2003	5241086.501		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2004	2004	6034539.182		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2005	2005	6381063.148		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2006	2006	6892587.833		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2007	2007	7699036.739		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2008	2008	8155841.394		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2009	2009	8807566.63		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2010	2010	9854635.978		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2011	2011	11225375.3		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2012	2012	11610327.08		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2013	2013	12321362.19		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2014	2014	13051596.1		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KOR	Republic of Korea	2015	2015	14555303.09		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2003	2003	1485158.562		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2007	2007	2140674.697		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2009	2009	2275005.518		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2010	2010	2157532.042		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2011	2011	2125989.776		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2012	2012	2260575.952		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2013	2013	2416202.045		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2014	2014	2647307.712		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MEX	Mexico	2015	2015	2779168.011		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NOR	Norway	2003	2003	1179675.123		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NOR	Norway	2005	2005	1192854.709		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2005	2005	571858.4597		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2006	2006	621267.9049		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2007	2007	627039.0526		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2008	2008	654206.343		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2009	2009	644885.3177		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2010	2010	736062.5053		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2011	2011	916410.5795		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2012	2012	927985.7113		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2013	2013	1294944.79		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	POL	Poland	2014	2014	1388161.734		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2000	2000	676476.7528		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2001	2001	709057.1265		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2002	2002	675585.3672		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2003	2003	648445.9668		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2004	2004	666178.7176		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2005	2005	676556.8852		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2006	2006	841525.5623		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2007	2007	997657.6174		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2008	2008	1251259.588		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2009	2009	1324968.928		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2010	2010	1331391.231		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2011	2011	1350876.327		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2012	2012	1240617.714		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2013	2013	1194315.806		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRT	Portugal	2014	2014	1172857.525		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2000	2000	231802.1897		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2001	2001	214231.7995		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2002	2002	198905.5111		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2003	2003	200069.5546		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2004	2004	148429.2646		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2005	2005	136252.8001		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2006	2006	135727.9845		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2007	2007	117869.175		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2008	2008	143404.6549		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2009	2009	122702.1042		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2010	2010	164211.4728		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2011	2011	189114.0336		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2012	2012	222185.7505		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2013	2013	234372.9478		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVK	Slovakia	2014	2014	306985.1746		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ESP	Spain	2013	2013	6258576.159		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ESP	Spain	2014	2014	6100984.973		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ALB	Albania	2008	2008	17683.05909		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	1996	1996	947549.7599		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	1997	1997	1033702.453		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	1998	1998	986814.5517		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	1999	1999	1017141.012		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2000	2000	968138.46		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2001	2001	893642.4782		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2002	2002	769837.6424		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2003	2003	878147.0868		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2004	2004	885446.7235		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2005	2005	977627.131		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2006	2006	1127129.553		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2007	2007	1250324.957		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2008	2008	1376852.053		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2009	2009	1230382.398		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2010	2010	1263633.264		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2011	2011	1465476.832		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2012	2012	1605985.101		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2013	2013	1701025.875		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ARG	Argentina	2014	2014	1651265.223		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2007	2007	89710.84356		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2008	2008	90574.85356		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2009	2009	148042.3462		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2010	2010	99173.36208		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2011	2011	83845.326		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2013	2013	65093.99825		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2014	2014	63763.50612		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	AZE	Azerbaijan	2015	2015	64407.959		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	1999	1999	38144.11672		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2000	2000	36727.85259		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2001	2001	38145.12265		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2002	2002	37780.34535		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BOL	Bolivia (Plurinational State of)	2009	2009	18540.96752		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	1996	1996	197273.0938		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	1997	1997	152578.5074		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	1998	1998	144129.6989		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	1999	1999	155518.7231		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2000	2000	155787.5025		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2001	2001	141705.6722		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2002	2002	151178.8399		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2003	2003	153166.6397		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2004	2004	175349.2582		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2005	2005	174043.3714		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2006	2006	194486.7837		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2007	2007	188200.5406		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2008	2008	221337.439		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2009	2009	249705.4818		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2010	2010	369105.8956		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2011	2011	359956.8463		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2012	2012	417807.8335		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2013	2013	441276.0309		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BGR	Bulgaria	2014	2014	544295.895		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	1996	1996	4173599.515		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	1997	1997	5488401.452		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	1998	1998	5210475.751		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	1999	1999	6417330.992		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2000	2000	6302486.596		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2001	2001	7515755.967		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2002	2002	9970190.173		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2003	2003	12267392.41		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2004	2004	14748443.93		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2005	2005	15365937.32		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2006	2006	17206352.67		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2007	2007	15594277.3		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2008	2008	16874365.24		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2009	2009	21469106.39		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2010	2010	24552585.96		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2011	2011	26120701.48		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2012	2012	28824030.36		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2013	2013	30796538.52		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2014	2014	33658083.72		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHN	China	2015	2015	36949935.81		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2006	2006	114313.2175		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2007	2007	78432.53233		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2008	2008	108674.297		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2009	2009	103798.3849		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2012	2012	60959.49488		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2013	2013	67208.66284		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CRI	Costa Rica	2014	2014	55358.78857		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2002	2002	199265.7932		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2003	2003	193606.7222		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2004	2004	231871.3733		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2005	2005	244045.2181		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2006	2006	207862.9744		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2007	2007	186083.2614		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2008	2008	262155.9476		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2009	2009	182765.681		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2010	2010	183411.9203		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2011	2011	187146.3747		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2012	2012	178397.2213		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2013	2013	180408.9288		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	HRV	Croatia	2014	2014	177462.9022		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	1998	1998	16953.16328		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	1999	1999	18969.5502		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2000	2000	20999.02884		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2001	2001	26294.25761		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2002	2002	31749.40472		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2003	2003	35701.59637		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2004	2004	37367.63948		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2005	2005	41854.15651		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2006	2006	46133.9644		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2007	2007	54975.69582		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2008	2008	56569.04319		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2009	2009	61362.17009		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2010	2010	62984.92554		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2011	2011	64599.52461		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2012	2012	60738.29837		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2013	2013	62361.24094		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CYP	Cyprus	2014	2014	62223.92355		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	1996	1996	41627.74287		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	1997	1997	34529.36432		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	1998	1998	35978.37881		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2001	2001	25425.3956		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2002	2002	27409.80309		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2003	2003	29057.53974		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2006	2006	98958.43031		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2007	2007	102233.6921		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2008	2008	164396.0884		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2009	2009	236733.8141		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2010	2010	235350.6772		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2011	2011	143030.0958		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2012	2012	118314.7352		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2013	2013	190150.9589		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ECU	Ecuador	2014	2014	243369.6695		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	1998	1998	26249.75002		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	1999	1999	27382.40938		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2000	2000	25797.88569		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2001	2001	37882.34798		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2002	2002	38226.22826		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2003	2003	41695.74499		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2004	2004	43732.90573		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2005	2005	49357.47664		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2006	2006	63863.4673		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2007	2007	64152.41628		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2008	2008	69848.42003		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2009	2009	77379.64931		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2010	2010	72769.49961		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2011	2011	88254.36558		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2012	2012	113331.3895		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2013	2013	138020.0926		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	EST	Estonia	2014	2014	97243.1549		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ETH	Ethiopia	2010	2010	87969.22813		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ETH	Ethiopia	2013	2013	308733.4392		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2005	2005	20586.7836		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2006	2006	24869.81562		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2007	2007	39825.54086		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2008	2008	38190.98743		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2009	2009	40279.83866		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2010	2010	33347.27534		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2011	2011	36390.91307		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GTM	Guatemala	2012	2012	38310.23777		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IND	India	1998	1998	4549091.103		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IND	India	1999	1999	5209949.745		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IND	India	2005	2005	6413517.091		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IND	India	2007	2007	6620126.452		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IND	India	2008	2008	7713060.568		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IND	India	2009	2009	8239922.078		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	1998	1998	216015.8582		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	1999	1999	235562.3155		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2000	2000	236991.1629		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2001	2001	250706.2936		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2002	2002	258575.8414		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2003	2003	267893.9798		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2004	2004	252973.5011		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2005	2005	258761.4479		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2006	2006	279045.4168		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2007	2007	275940.9085		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2008	2008	322646.7915		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2009	2009	938302.2758		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2010	2010	950483.5005		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2011	2011	1007042.998		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2012	2012	1067819.858		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ISR	Israel	2013	2013	1107133.67		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KWT	Kuwait	2005	2005	191033.698		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KWT	Kuwait	2006	2006	172722.7596		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KWT	Kuwait	2007	2007	185377.7462		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KWT	Kuwait	2008	2008	189205.8709		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KWT	Kuwait	2009	2009	230711.7604		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KWT	Kuwait	2010	2010	203558.5986		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KWT	Kuwait	2011	2011	217847.6841		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2000	2000	33920.20761		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2001	2001	27768.03698		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2002	2002	33196.44056		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2003	2003	41994.60963		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2004	2004	37588.25021		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2005	2005	79073.2831		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2006	2006	82828.06976		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2007	2007	112320.5183		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2008	2008	89361.25987		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2009	2009	66645.71739		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2010	2010	67778.25033		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2011	2011	111376.1424		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2012	2012	114998.3124		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2013	2013	119163.0754		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LVA	Latvia	2014	2014	105749.8881		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	1996	1996	57261.10701		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	1997	1997	71703.74807		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	1998	1998	76705.52962		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	1999	1999	55835.23517		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2000	2000	70999.57597		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2001	2001	70945.29217		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2002	2002	90728.67806		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2003	2003	106007.6913		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2004	2004	123437.3752		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2005	2005	131178.4823		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2006	2006	158678.9832		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2007	2007	171139.0099		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2008	2008	181282.8079		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2009	2009	149676.3121		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2010	2010	145088.9343		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2011	2011	172420.5268		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2012	2012	224202.4342		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2013	2013	253191.557		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LTU	Lithuania	2014	2014	283562.5695		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2006	2006	1235397.135		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2008	2008	3021459.72		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2009	2009	4061132.892		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2010	2010	3732159.179		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2011	2011	3818577.996		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2012	2012	3237427.77		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2014	2014	6210721.31		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MYS	Malaysia	2015	2015	6270008.457		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2005	2005	17659.27202		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2006	2006	19072.07539		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2007	2007	17301.42326		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2008	2008	16558.58128		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2009	2009	14510.61698		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2010	2010	16011.16852		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2011	2011	16198.11844		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2012	2012	15200.70873		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2013	2013	18060.56146		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MLT	Malta	2014	2014	20041.07795		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MOZ	Mozambique	2008	2008	18391.58985		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MOZ	Mozambique	2010	2010	51790.05631		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MOZ	Mozambique	2015	2015	47952.05524		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	1996	1996	20209.95182		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	1997	1997	29883.06564		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	1998	1998	33023.03989		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	1999	1999	37267.74419		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2000	2000	50086.10958		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2001	2001	47263.71166		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2002	2002	47770.16688		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2003	2003	43078.13187		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2004	2004	28277.90622		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2005	2005	21252.71532		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2006	2006	26115.94653		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2007	2007	17851.82529		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2008	2008	25511.4095		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2009	2009	23491.38525		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2010	2010	29230.59786		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2011	2011	40462.62442		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2012	2012	19254.21061		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PAN	Panama	2013	2013	18955.03804		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2001	2001	11500.23861		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2002	2002	16648.56252		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2003	2003	14593.77674		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2004	2004	15405.46967		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2008	2008	15892.90625		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2011	2011	15040.16792		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2012	2012	26048.67041		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2014	2014	36710.53062		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRY	Paraguay	2015	2015	48259.66776		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2007	2007	557024.0036		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2008	2008	627691.337		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2009	2009	543142.2942		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2010	2010	541098.2786		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2011	2011	467754.1833		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2012	2012	485762.0924		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2013	2013	394652.8091		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ROU	Romania	2014	2014	437584.531		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	1996	1996	789492.3171		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	1997	1997	1016510.625		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	1998	1998	958876.1192		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	1999	1999	1121390.071		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2000	2000	1181041.978		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2001	2001	1161787.469		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2002	2002	1373473.63		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2003	2003	1457646.687		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2004	2004	1371034.704		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2005	2005	1652028.927		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2006	2006	1742861.851		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2007	2007	1610628.038		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2008	2008	1886673.754		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2009	2009	1983312.794		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2010	2010	2154558.309		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2011	2011	2448298.961		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2012	2012	2335070.222		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2013	2013	2504967.798		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SGP	Singapore	2014	2014	2729292.058		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2001	2001	324614.3151		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2002	2002	324729.7927		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2003	2003	342710.9923		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2004	2004	387561.4223		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2005	2005	443000.3196		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2006	2006	530455.9579		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2007	2007	500026.7613		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2008	2008	631443.0953		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2009	2009	608646.3547		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2010	2010	696535.6855		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2011	2011	811072.268		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2012	2012	786220.8217		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2013	2013	669394.6862		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SVN	Slovenia	2014	2014	705755.8858		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LKA	Sri Lanka	2008	2008	62926.0558		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LKA	Sri Lanka	2010	2010	102898.6565		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LKA	Sri Lanka	2013	2013	107968.1228		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2005	2005	59796.5168		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2006	2006	88108.14259		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2007	2007	117032.1551		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2008	2008	92743.1383		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2009	2009	91472.60444		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UGA	Uganda	2010	2010	94937.1309		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2006	2006	500075.7546		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2007	2007	544741.6089		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2008	2008	577346.5434		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2009	2009	466470.5442		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2010	2010	470596.011		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2011	2011	470292.9025		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2013	2013	475191.9639		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2014	2014	374473.2432		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UKR	Ukraine	2015	2015	281748.2539		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2005	2005	79852.8248		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2006	2006	143560.2306		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2007	2007	150082.8621		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2008	2008	190809.1708		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2009	2009	235471.1433		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2010	2010	156262.0665		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2011	2011	183234.7523		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2012	2012	282747.8986		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2013	2013	175055.8725		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2014	2014	207157.9188		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SRB	Serbia	2015	2015	242506.7539		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2003	2003	1193707.39		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2005	2005	1243690.66		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2007	2007	1147174.881		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2009	2009	1455794.542		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2010	2010	1279936.542		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2011	2011	1492089.425		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2012	2012	1552458.877		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	DNK	Denmark	2013	2013	2117179.112		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2002	2002	495866.6046		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2003	2003	544152.947		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2004	2004	685017.8287		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2005	2005	799638.6306		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2006	2006	817811.8576		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2007	2007	847206.3106		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2008	2008	899752.9727		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2009	2009	856116.6543		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2010	2010	892468.1051		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2011	2011	826756.3471		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRL	Ireland	2013	2013	893237.6739		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	1996	1996	6398945.615		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2005	2005	8099034.192		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2006	2006	8634496.193		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2007	2007	8740281.339		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2008	2008	9510207.967		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2009	2009	9805158.514		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2010	2010	10186816.64		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2011	2011	10233003.26		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2012	2012	10407265.52		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2013	2013	10332331.96		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ITA	Italy	2014	2014	10664368.84		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2001	2001	340194.2838		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2003	2003	427853.5949		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2005	2005	421368.0782		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2007	2007	445696.04		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2009	2009	515090.1494		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2011	2011	580389.7731		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NZL	New Zealand	2013	2013	544042.7384		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	1996	1996	1987180.811		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	2000	2000	2326039.39		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	2004	2004	2604683.858		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	2008	2008	2901636.876		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CHE	Switzerland	2012	2012	4169391.782		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2007	2007	14707429.92		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2008	2008	14705491.24		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2009	2009	15131487.19		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2010	2010	15389626.52		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2011	2011	15894754.61		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2012	2012	15053410.39		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2013	2013	15765771.73		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GBR	United Kingdom of Great Britain and Northern Ireland	2014	2014	15603991.23		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	1998	1998	8035.35621		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2007	2007	22645.59115		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2008	2008	23536.91072		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2009	2009	11779.79364		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2010	2010	13670.48027		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2011	2011	6864.4884		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2012	2012	5506.57781		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2013	2013	17103.22964		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	SLV	El Salvador	2014	2014	22740.25848		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GHA	Ghana	2007	2007	53411.87146		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GHA	Ghana	2010	2010	84867.62206		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2005	2005	14810.44732	¢Ô	UIS Estimation
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2006	2006	18040.11543	¢Ô	UIS Estimation
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2007	2007	13694.1844	¢Ô	UIS Estimation
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2008	2008	12245.34459		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2009	2009	13185.27343		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2010	2010	13079.67701		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MDG	Madagascar	2011	2011	12239.49538		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2007	2007	18926.02766		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2008	2008	30029.59154		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2009	2009	25098.4296		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2010	2010	21288.72141		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2011	2011	24005.75085		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2013	2013	35062.21334		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2014	2014	38955.69984		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MNG	Mongolia	2015	2015	14987.1908		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NGA	Nigeria	2007	2007	492789.7201		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2001	2001	1139321.077		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2003	2003	1241833.92		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2004	2004	1402815.35		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2005	2005	1446111.397		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2006	2006	1559414.646		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2007	2007	1575792.865		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2008	2008	1593172.868		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2009	2009	1533950.66		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2010	2010	1601238.166		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2011	2011	1751017.065		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2012	2012	1959986.289		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	ZAF	South Africa	2013	2013	2016342.831		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	TZA	United Republic of Tanzania	2007	2007	86548.24657		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	TZA	United Republic of Tanzania	2013	2013	377802.5443	¢Ô	UIS Estimation
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2007	2007	624192.6843		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2009	2009	662613.7615		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2011	2011	999737.0635		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2014	2014	1245269.377		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	THA	Thailand	2015	2015	2072504.555		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	URY	Uruguay	2002	2002	26712.50673		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	URY	Uruguay	2006	2006	63509.39044		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BDI	Burundi	2007	2007	9932.6253		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BDI	Burundi	2008	2008	7965.44743		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BDI	Burundi	2009	2009	7742.03428		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BDI	Burundi	2010	2010	7806.90796		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2007	2007	105435.5471		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2008	2008	81706.89593		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2009	2009	103227.5265		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2010	2010	88158.79657		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2011	2011	88313.29833		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2014	2014	118586.5721		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	IRQ	Iraq	2015	2015	60295.99498		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2011	2011	66670.67176	+	National Estimation
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2012	2012	79872.86158		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2013	2013	40515.38614		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2014	2014	175415.0871		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	OMN	Oman	2015	2015	104747.5644		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PER	Peru	1997	1997	97940.30203		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PER	Peru	1998	1998	74910.76562		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PER	Peru	1999	1999	70084.72262		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KEN	Kenya	2010	2010	176483.3078		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CPV	Cabo Verde	2011	2011	64.79307		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	TGO	Togo	2010	2010	8486.71334		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	TGO	Togo	2012	2012	4512.50197		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	TGO	Togo	2014	2014	11203.10344		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GRC	Greece	2011	2011	692258.0501		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GRC	Greece	2013	2013	711472.6306		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NLD	Netherlands	2011	2011	5048446.001		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NLD	Netherlands	2012	2012	5477988.198		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NLD	Netherlands	2013	2013	5828984.25		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NLD	Netherlands	2014	2014	6098727.217		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	1997	1997	39851.04834		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	1998	1998	204182.7903		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	1999	1999	222432.9315		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2000	2000	288839.8742		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2001	2001	319383.4956		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2002	2002	330069.0225		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2003	2003	353664.8656		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2004	2004	386492.9581		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2005	2005	392055.3108		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2006	2006	353117.3843		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2007	2007	374263.3332		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2008	2008	447256.8339		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2009	2009	557154.4926		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2010	2010	563784.0857		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2011	2011	259424.5682		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2012	2012	376246.0144		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	CUB	Cuba	2013	2013	431149.1435		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PRI	Puerto Rico	2013	2013	101298.2681		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KAZ	Kazakhstan	2011	2011	247007.6157		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KAZ	Kazakhstan	2013	2013	323000.7576		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KAZ	Kazakhstan	2014	2014	351365.1285		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KAZ	Kazakhstan	2015	2015	332168.3322		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BHR	Bahrain	2014	2014	16095.11805		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	MUS	Mauritius	2012	2012	5423.92177		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	QAT	Qatar	2012	2012	564438.1056		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UZB	Uzbekistan	2014	2014	115998.6357		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	UZB	Uzbekistan	2015	2015	114765.9325		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BEL	Belgium	2013	2013	3592639.746		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	GEO	Georgia	2013	2013	1757.21906		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	NAM	Namibia	2014	2014	33465.50049		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PSE	Palestine	2007	2007	6880.03823		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PSE	Palestine	2008	2008	4931.9646		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PSE	Palestine	2009	2009	13793.37228		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	PSE	Palestine	2010	2010	7505.14626		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	BIH	Bosnia and Herzegovina	2015	2015	34904.01423		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	LSO	Lesotho	2015	2015	1424.60665		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	VNM	Viet Nam	2013	2013	1003975.255		
+EXPPPP_CONST_TA_APPRES	GERD - Applied research (in '000 PPP$, constant prices - 2005)	KHM	Cambodia	2015	2015	35596.7161		
